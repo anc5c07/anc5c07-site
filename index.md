@@ -6,29 +6,10 @@ header:
   caption: "[Parent-Child Voting](/assets/images/voting.jpg)"
 layout: single
 ---
-I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want to make our neighborhood and city safe, vibrant, and welcoming for long-term, new, and future neighbors alike. You can read more about what I'd do as Commissioner on the [Priorities](/priorities/) page. You can find writeups on specific cases and meeting summaries on the [Issues](/issues/) page.
-
-## The Election
-**Voting has begun!** If you haven't received your ballot in the mail by now (it just so happens I haven't either), be prepared to **vote in-person starting 10/31**; vote **[by COB Tuesday 11/8](https://dcboe.org/Elections/2022-Elections)!**. **Woodridge Library** is your one-stop shop for dropbox, Early in-person, and Election Day voting needs! Note well that **a lock on the dropbox does not mean the box is locked**; just push your ballot through the shiny black flap.
-
-
-[![The dropbox](/assets/images/dropbox.jpg)](/assets/images/dropbox.jpg)
-<p class="caption">Woodridge Library dropbox(es; use the one on the right)</p>
-
-**I'm unopposed on the 5C07 ballot**; nobody is attempting a write-in campaign that I know of, either. That said, I've also been endorsed by [Greater Greater Washington](https://ggwash.org/view/86902/our-2022-advisory-neighborhood-commissioner-endorsements-in-ward-5), [DC Voters for Animals](https://twitter.com/DCV4A/status/1574857157425696789?s=20&t=h3TDkZ2IX1wkQIJ4o5FfIw), [former Council Chairwoman candidate Erin Palmer](https://erinfordc.medium.com/%EF%B8%8Fendorsement-alert-%EF%B8%8F-8b3c1e3f881b), and [dANCgerous](https://dancgerous.wordpress.com/); hope everyone feels okay about the option.
-
-[![The ballot](/assets/images/ballot.jpg)](/assets/images/ballot.jpg)
-<p class="caption">a bubbled-in ballot; choose wisely</p>
-
-There *are* **competitive and consequential** elections nearby and you can donate and volunteer! This includes in [5B05](https://secure.actblue.com/donate/costello-for-5b05), [5B07](https://donorbox.org/justineforanc5b07), [5C04](https://secure.actblue.com/donate/shawn-nelson-1), [5D06](https://secure.actblue.com/donate/dellesky-for-anc-5d06-1), [5E02](https://secure.actblue.com/donate/nicole-mcentee-for-5e02-1), [5E04](https://secure.actblue.com/donate/huma-imtiaz-for-anc-5e04-1), [5F04](https://twitter.com/MarkforANC5F04), [5F05](https://twitter.com/JenForANC), and [5F07](https://secure.actblue.com/donate/michele-keegan-for-anc-5f07--eckington-1). There are also competitive races for [Ward 5 SBOE](https://www.hendersonforward5.com/support) and [Council At-Large](https://secure.actblue.com/donate/elissa2022?refcode=webheader).
-
-[![SMD map](/assets/images/smd-map.png)](/assets/images/smd-map.png)
-<p class="caption">most of Ward 5 on the OpenANC map</p>
-
-If you didn't get your ballot *and* **you aren't sure what SMD you live in**, check the [OpenANC project](http://openanc.org).
+I'm [VJ Kapur](/vj/) and I'm humbled to be your [ANC](/ancs/)-elect in [5C07](/5c07/). I want to make our neighborhood and city safe, vibrant, and welcoming for long-term, new, and future neighbors alike. You can read more about what I'll do as Commissioner on the [Priorities](/priorities/) page. You can find writeups on specific cases and meeting summaries on the [Issues](/issues/) page.
 
 ## The Work
-Beyond the election, I'm open to any and all thoughts on how you'd like to be informed about ANC matters and the priorities I should focus on. Check out my [Priorities](/priorities/) and [Issues](/issues/) pages and let me know what works for you and what doesn't.
+I'm open to any and all thoughts on how you'd like to be informed about ANC matters and the priorities I should focus on.
 
 Some near-term priorities include:
 - a unified communication plan for 5C07
@@ -39,11 +20,6 @@ Some near-term priorities include:
   - a community calendar with local events
 - writing a lot of issue pages for active development cases
 - continuing to hone my understanding and lend my ideas/effort for issues DC-wide
-
-Depending on how the election goes, we might have a big opportunity to:
-- revisit [the 5C bylaws](https://www.anc-5c.com/wp-content/uploads/2021/09/2019-03-25-ANC-5C-Bylaws-1-1.pdf)
-- create a unified 5C communication plan
-- possibly stand up committees to get more folks involved in ANC matters and avoid backlogs
 
 
 *[SMD]: Single-Member District
