@@ -3,7 +3,7 @@ title: " "
 excerpt: " "
 header:
   overlay_image: /assets/images/langdon-park/melina-on-swing.jpg
-  caption: "[Melina on Swing](/assets/images/langdon-park/melina-on-swing.jpg)"
+  caption: "[Langdon Park swings](/assets/images/langdon-park/melina-on-swing.jpg)"
 layout: single
 ---
 I'm [VJ Kapur](/vj/) and I'm humbled to be your [ANC](/ancs/)-elect in [5C07](/5c07/). I want to make our neighborhood and city safe, vibrant, and welcoming for long-term, new, and future neighbors alike. You can read more about what I'll do as Commissioner on the [Priorities](/priorities/) page. You can find writeups on specific cases and meeting summaries on the [Issues](/issues/) page.
