@@ -57,7 +57,7 @@ feature_row3:
                 <tr><td><b>question</b></td><td><b>answer</b></td></tr>
                 <tr><td><b>5C07?</b></td><td>A small district (SMD) within DC's Ward 5 (<a href="/5c07/">more</a>)</td></tr>
                 <tr><td><b>ANC?</b></td><td>a (very) local area, body, and elected office (<a href="/ancs/">more</a>)</td></tr>
-                <tr><td><b>Ward?</b></td><td>DC has 8 Wards split into ANC bodies split into SMDs (<a href="/ancs/#lexicon">more</a>)</td></tr>
+                <tr><td><b>Ward?</b></td><td>DC has 8 Wards split into ANC areas split into SMDs (<a href="/ancs/#lexicon">more</a>)</td></tr>
                 <tr><td><b>VJ?</b></td><td>A neighbor and ANC(-elect until 1/2/2023) (<a href="/vj/">more</a>)</td></tr>
               </table>
             </div>
