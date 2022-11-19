@@ -21,7 +21,7 @@ feature_row:
     title: "Information"
     excerpt: "summaries, active cases, and background"
     url: "/issues/"
-    btn_label: "Read More"
+    btn_label: "Issue Index"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/funitup.jpg
@@ -35,7 +35,7 @@ feature_row3:
   - image_path: /assets/images/2026jackson/render1-cropped.png
     alt: "2026 Jackson St rendering"
     title: "2026 Jackson St NE"
-    excerpt: 'There is an active zoning case to build a new mixed-us building on a vacant lot owned by New Macedonia Baptist Church.'
+    excerpt: 'There is an active zoning case to build a new mixed-use building on a vacant lot owned by New Macedonia Baptist Church.'
     url: "/issues/2026jackson"
     btn_label: "Case Background"
     btn_class: "btn--primary"
