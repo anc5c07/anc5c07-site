@@ -2,28 +2,47 @@
 title: " "
 excerpt: " "
 header:
-  overlay_image: /assets/images/langdon-park/melina-on-swing.jpg
-  caption: "[Langdon Park swings](/assets/images/langdon-park/melina-on-swing.jpg)"
-layout: single
+  overlay_image: /assets/images/langdon-park-playground.jpg
+  overlay_filter: rgba(127, 127, 127, 0.5)
+  caption: "[Langdon Park playground](/assets/images/langdon-park-playground.jpg)"
+layout: splash
+excerpt: "Serving northern Langdon in a nebulous capacity since 2023"
+feature_row:
+  - image_path: assets/images/chuck-brown-day-dancing.jpg
+    alt: "Chuck Brown Day"
+    title: "🚧 Calendars 🚧"
+    excerpt: "input deadlines, meetings, events"
+  - image_path: /assets/images/echostage-signs.jpg
+    alt: "signs outside Echostage"
+    title: "🚧 Trackers 🚧"
+    excerpt: "traffic safety, construction, repairs"
+  - image_path: /assets/images/woodridge-library.jpg
+    alt: "Woodridge Library"
+    title: "Information"
+    excerpt: "summaries, active cases, and background"
+    url: "/issues/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/funitup.jpg
+    alt: "Fun It Up, placarded"
+    title: "11/16/2022: 5C meeting"
+    excerpt: "A regular 5C full-commission meeting was held on 11/16/2022; topics included several liquor license renewals and some updates on DDOT's light replacement project."
+    url: "/issues/20221116-meeting/"
+    btn_label: "Meeting Summary"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/2026jackson/render1-cropped.png
+    alt: "2026 Jackson St rendering"
+    title: "2026 Jackson St NE"
+    excerpt: 'There is an active zoning case to build a new mixed-us building on a vacant lot owned by New Macedonia Baptist Church.'
+    url: "/issues/2026jackson"
+    btn_label: "Case Background"
+    btn_class: "btn--primary"
 ---
-I'm [VJ Kapur](/vj/) and I'm humbled to be your [ANC](/ancs/)-elect in [5C07](/5c07/). I want to make our neighborhood and city safe, vibrant, and welcoming for long-term, new, and future neighbors alike. You can read more about what I'll do as Commissioner on the [Priorities](/priorities/) page. You can find writeups on specific cases and meeting summaries on the [Issues](/issues/) page.
 
-## The Work
-I'm open to any and all thoughts on how you'd like to be informed about ANC matters and the priorities I should focus on.
+{% include feature_row %}
 
-Some near-term priorities include:
-- a unified communication plan for 5C07
-- creating a lot of trackers, including:
-  - a map of local development
-  - a map of Traffic Safety Investigations and other service tickets
-  - a staff-informed tracker of facilities issues at Langdon Elementary
-  - a community calendar with local events
-- writing a lot of issue pages for active development cases
-- continuing to hone my understanding and lend my ideas/effort for issues DC-wide
+{% include feature_row id="feature_row2" type="left" %}
 
-
-*[SMD]: Single-Member District
-*[ANC]: Advisory Neighborhood Commission (or Commissioner)
-*[DC]: District of Columbia, historically containing a city of Washington, DC
-*[BOE]: DC Board of Elections
-*[TSI]: Traffic Safety Investigation
+{% include feature_row id="feature_row3" type="right" %}
