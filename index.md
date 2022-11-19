@@ -28,7 +28,7 @@ feature_row2:
     alt: "Fun It Up, placarded"
     title: "11/16/2022: 5C meeting"
     excerpt: "A regular 5C full-commission meeting was held on 11/16/2022; topics included several liquor license renewals and some updates on DDOT's light replacement project."
-    url: "/issues/20221116-meeting/"
+    url: "/issues/20221116-5cmeeting/"
     btn_label: "Meeting Summary"
     btn_class: "btn--primary"
 feature_row3:
