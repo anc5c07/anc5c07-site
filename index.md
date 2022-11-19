@@ -55,10 +55,10 @@ feature_row3:
               <p>That's what I'm here for.</p>
               <table>
                 <tr><td><b>question</b></td><td><b>answer</b></td></tr>
-                <tr><td><b>5C07?</b></td><td>A small single-member district (SMD) in Northeast DC. (<a href="/5c07/">more</a>)</td></tr>
-                <tr><td><b>ANC?</b></td><td>Advisory Neighborhood Commission(er); a local area, body, and office. (<a href="/ancs/">more</a>)</td></tr>
-                <tr><td><b>Ward?</b></td><td>Wards (like Ward 5) are split into ANCs (5C) then into SMDs (5C07). (<a href="/ancs/">more</a>)</td></tr>
-                <tr><td><b>VJ?</b></td><td>A Langdon neighbor and Commissioner(-elect until 1/2/2023). (<a href="/vj/">more</a>)</td></tr>
+                <tr><td><b>5C07?</b></td><td>A small district (SMD) within DC's Ward 5 (<a href="/5c07/">more</a>)</td></tr>
+                <tr><td><b>ANC?</b></td><td>a (very) local area, body, and elected office (<a href="/ancs/">more</a>)</td></tr>
+                <tr><td><b>Ward?</b></td><td>DC has 8 Wards split into ANC bodies split into SMDs (<a href="/ancs/#lexicon">more</a>)</td></tr>
+                <tr><td><b>VJ?</b></td><td>A neighbor and ANC(-elect until 1/2/2023) (<a href="/vj/">more</a>)</td></tr>
               </table>
             </div>
         </div>
