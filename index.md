@@ -32,7 +32,7 @@ feature_row2:
     btn_label: "Meeting Summary"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/2026jackson/render1-cropped.png
+  - image_path: /assets/images/2026jackson/plot1.jpg
     alt: "2026 Jackson St rendering"
     title: "2026 Jackson St NE"
     excerpt: 'There is an active zoning case to build a new mixed-use building on a vacant lot owned by New Macedonia Baptist Church.'
