@@ -41,12 +41,6 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-<meta name=”twitter:card” content=”ANC 5C07” /> 
-<meta name=”twitter:site” content=”@vjkapur” /> 
-<meta name=”twitter:title” content=”ANC 5C07” /> 
-<meta name=”twitter:description” content=”Serving northern Langdon in a nebulous capacity since 2023” /> 
-<meta name=”twitter:image” content=”/assets/images/logo/baseline.png” />
-
 {% include feature_row %}
 
 <div class="feature__wrapper">
