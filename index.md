@@ -50,9 +50,9 @@ feature_row3:
             <img src="/assets/images/fire.jpg" alt="scary fire" />
           </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Wait! From the Beginning Please.</h2>
+            <h2 class="archive__item-title" style="margin-top: 0em">Wait! From the Beginning Please.</h2>
             <div class="archive__item-excerpt">
-              <p>That's what I'm here for.</p>
+              <p style="margin-bottom: 0">That's what I'm here for.</p>
               <table>
                 <tr><td><b>question</b></td><td><b>answer</b></td></tr>
                 <tr><td><b>5C07?</b></td><td>A small district (SMD) within DC's Ward 5 (<a href="/5c07/">more</a>)</td></tr>
