@@ -110,7 +110,7 @@ I will attempt to get more information on this particular application/permit and
 |email to Emeka Nwabunwanne, DGS Sr. Project Manager listed on permit|10/24/2022|no response yet|
 
 ## The Forest Patch
-Thanks to Allison Clausen, Langdon Park Forest Patch volunteer, for helping with the below.
+Thanks to Allison Clausen and Delores Bushong, Langdon Park Forest Patch volunteers, for helping with the below.
 {: .notice--info}
 The E26 plans would disrupt a forest patch that currently sits in the area.
 
@@ -127,6 +127,8 @@ The forest patch is currently the site of frequent dumping, is minimally maintai
 <p class="caption">Forest patch, looking north from Park Ave NE</p>
 
 The forest patch sits on a slope and absorbs/filters stormwater that would otherwise flow to the PDR Zones at the bottom of the hill, ultimately reaching Hickey Run and then the Anacostia. It absorbs particulate matter and noise pollution from the PDR zones and nightlife establishments to the south (that would otherwise affect the seniors and students). It cools the air, offsetting the area's extreme [heat island effect](https://www.dcpolicycenter.org/publications/urban-heat-islands/). It helps towards [DC's 40% canopy goal](https://storymaps.arcgis.com/stories/62580ba81fc34563b1bae8e8416ee16d) and plays a part in [slowing climate change](https://www.rainforest-alliance.org/insights/how-forests-fight-climate-change/). It also provides habitat for migratory species and supports DC's ecosystem. Research also shows living near trees makes people [happier](https://www.mdpi.com/1660-4601/15/12/2804) and [healthier](https://www.washingtonpost.com/news/energy-environment/wp/2015/07/09/scientists-have-discovered-that-living-near-trees-is-good-for-your-health/).
+
+All of this is particularly important here in Ward 5, which has outsized share of DC's PDR zones and has experienced [dramatic canopy loss in recent years](https://caseytrees.org/get-involved/conservation-easements/).
 
 Efforts could conceivably be made to clean up, nurture, and protect this forest patch, while making it available to visitors as with the recently built 680-foot Langdon Park Forest Patch trail.
 
