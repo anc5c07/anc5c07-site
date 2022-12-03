@@ -59,7 +59,7 @@ feature_row3:
           <h2 class="archive__item-title" style="margin-top: 0em">I want to hear from you!</h2>
           <div class="archive__item-excerpt">
             <p>
-              I want to design an communication strategy that keeps you informed.
+              I want to design a communication strategy that keeps you informed.
             </p>
           </div>
           <p style="margin-bottom: .2em"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdNmBlsZEYeDbzg_9nf6w6pMEKJLg-iifxd2w4bal1GshGqaQ/viewform?usp=sf_link" class="btn btn--primary">Take my brief outreach survey!</a></p>
