@@ -76,8 +76,8 @@ feature_row3:
             .branding_logo{display: inline}
             .mce_inline_error{display: block}
             .required{color: #3d4144}
-            #mce-error-response{display: block; background-color: #6B0505}
-            #mce-success-response{display: block; background-color: green}
+            #mce-error-response{display: block; background-color: #6B0505; padding: 5px 10px; font-weight: bold}
+            #mce-success-response{display: block; background-color: green; padding: 5px 10px; font-weight: bold}
             /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
             We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
           </style>
