@@ -47,13 +47,11 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
-
 <div class="feature__wrapper">
   <div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
-          <img src="/assets/images/ballot-deposit.jpg" alt="scary fire" />
+          <img src="/assets/images/ballot-deposit.jpg" alt="ballot deposit" />
         </div>
       <div class="archive__item-body">
           <h2 class="archive__item-title" style="margin-top: 0em">I want to hear from you!</h2>
@@ -133,7 +131,7 @@ feature_row3:
     </div>
   </div>
 </div>
-  
+{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
