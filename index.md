@@ -62,7 +62,7 @@ feature_row3:
           </div>
           <p style="margin-bottom: .2em"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdNmBlsZEYeDbzg_9nf6w6pMEKJLg-iifxd2w4bal1GshGqaQ/viewform?usp=sf_link" class="btn btn--primary">Take my brief outreach survey!</a></p>
           <div class="archive__item-excerpt" style="margin-top: 0em">
-          or just subscribe to my email list (you can unsubscribe easily anytime)
+          or just subscribe to my email list (you can unsubscribe easily anytime):
           </div>
           <!-- Begin Mailchimp Signup Form -->
           <!--link href="/assets/css/mailchimp.css" rel="stylesheet" type="text/css"-->
@@ -83,7 +83,7 @@ feature_row3:
           <form style="color:#fff" action="https://vj4anc.us9.list-manage.com/subscribe/post?u=208f79fec14599c11c77bc927&amp;id=150da6f8d6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <!--div id="mc_embed_signup_scroll"-->
             <div class="mc-field-group">
-            <!--label id="email-label" for="mce-EMAIL">sign up for updates with an email address<span class="asterisk">*</span-->
+            <label id="email-label" for="mce-EMAIL">sign up for updates with an email address<span class="asterisk">*</span>
           </label>
             <input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email">
           </div>
