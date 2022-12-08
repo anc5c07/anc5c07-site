@@ -87,7 +87,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "vjkapur"
+  username               : "anc5c07"
 facebook:
   username               : "vkapur"
   app_id                 :
@@ -99,7 +99,7 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-    - https://twitter.com/vjkapur # An array of links to social media profiles
+    - https://twitter.com/anc5c07 # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -125,7 +125,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/vjkapur"
+      url: "https://twitter.com/anc5c07"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -141,7 +141,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/vjkapur
+      url: https://twitter.com/anc5c07
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: https://thepit.social/@vj
