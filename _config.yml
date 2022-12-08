@@ -29,7 +29,7 @@ name                     : "anc5c07"
 description              : "ANC 5C07"
 url                      : https://anc5c07.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : vjkapur/anc5c07-site # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : anc5c07/anc5c07-site # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/logo/baseline.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo/baseline.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
@@ -152,7 +152,7 @@ footer:
       url: https://facebook.com/vkapur
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/vjkapur
+      url: https://github.com/anc5c07
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: https://discord.com/users/663036621972701186
