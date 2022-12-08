@@ -8,10 +8,10 @@ ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
 ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
 ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
 ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
-h2.accordion_header {margin: 0em 0em 0em 0em}
+h2 {margin: 0em 0em 0em 0em}
 </style>
 <ul class="jekyllcodex_accordion">
     {% for item in page.accordion %}
-        <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}"><h2 class="accordion_header">{{ item.title }}</h2></label><div><p>{{ item.content | markdownify }}</p></div></li>
+        <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}"><!-- h2 class="accordion_header" -->{{ item.title | markdownify | remove: '<p>' | remove: '</p>' }}<!--/h2--></label><div><p>{{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}</p></div></li>
     {% endfor %}
 </ul>
