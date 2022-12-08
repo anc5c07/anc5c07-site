@@ -60,7 +60,7 @@ feature_row3:
               I want to design a communication strategy that keeps you informed, and could use some feedback:
             </p-->
           </div>
-          <p style="margin-bottom: .2em"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdNmBlsZEYeDbzg_9nf6w6pMEKJLg-iifxd2w4bal1GshGqaQ/viewform?usp=sf_link" class="btn btn--primary">Take my brief survey!</a></p>
+          <p style="margin-bottom: .2em"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeO08UpYYZ_U3HhtvVjUQ71MHvKmixvo_3LZCU4sJ1eZkWEUQ/viewform?usp=sf_link" class="btn btn--primary">Take my brief survey!</a></p>
           <div class="archive__item-excerpt" style="margin-top: .2em">
           or just subscribe to my email list:
           </div>
