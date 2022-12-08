@@ -11,7 +11,7 @@ accordion:
     content: |
       Lorem ipsum dolor sit amet,
 
-      consectetur adipiscing elit.
+      > consectetur adipiscing elit.
 
       [testing](testing.com)
 
@@ -36,6 +36,17 @@ layout: single
 {% include accordion.html %}
 
 ## What are Advisory Neighborhood Commission(er)s?
+
+Some text[^1].
+
+Some other text[^2].
+
+The identifier in the square brackets does not have to be numeric[^my_footnote].
+
+[^1]: Some footnote.
+[^2]: Other footnote.
+
+
 The following content is borrowed from [Commissioner Costello](https://anc5b05.com/faqs) with permission, because I can't improve on it.
 {: .notice}
 
