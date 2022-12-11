@@ -91,7 +91,7 @@ layout: single
 ---
 
 # What are Advisory Neighborhood Commission(er)s?
-We can't do the work of making our neighborhoods and city the best they can be if we don't understand our tools. I've prepared this index of topics to let folks jump in wherever they're unclear, and check back as needed if they get lost. If you're genuninely curious and are confused by any of the below, let's discuss and we'll improve our understanding *and* these docs together!
+We can't do the work of making our neighborhoods and city the best they can be if we don't understand our tools. I've prepared this index of topics to let folks jump in wherever they're unclear, and check back as needed if they get lost. If you're genuninely curious and are confused by any of the below, let's discuss and we'll improve our understanding *and* these explanations together!
 
 ## I want to know more about...
 
