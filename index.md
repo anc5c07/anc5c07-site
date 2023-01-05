@@ -106,7 +106,7 @@ feature_row3:
           <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
           <!--End mc_embed_signup-->
           <div class="archive__item-excerpt">
-            or email at <a href="mailto:vjkapur5c07@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i> vjkapur5c07@gmail.com</a>
+            or email at <a href="mailto:5c07@anc.dc.gov"><i class="fas fa-envelope" aria-hidden="true"></i> 5c07@anc.dc.gov</a>
           </div>
       </div>
     </div>
@@ -127,7 +127,7 @@ feature_row3:
               <tr><td><b>5C07?</b></td><td>A small district (SMD) within DC's Ward 5 (<a href="/5c07/">more</a>)</td></tr>
               <tr><td><b>ANC?</b></td><td>a (very) local area, body, and elected office (<a href="/ancs/">more</a>)</td></tr>
               <tr><td><b>Ward?</b></td><td>DC has 8 Wards split into ANC areas split into SMDs (<a href="/ancs/#lexicon">more</a>)</td></tr>
-              <tr><td><b>VJ?</b></td><td>A neighbor and ANC(-elect until 1/2/2023) (<a href="/vj/">more</a>)</td></tr>
+              <tr><td><b>VJ?</b></td><td>A neighbor and ANC (<a href="/vj/">more</a>)</td></tr>
             </table>
           </div>
       </div>
