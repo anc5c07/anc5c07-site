@@ -49,6 +49,30 @@ accordion:
         - for a total of 345 SMDs DC-wide in 2023
         - redrawn each decade to contain roughly 2000 residents by Census numbers
   - title: |
+      ## ANC governance
+    content: |
+      Advisory Neighborhood Commissions are governed by a number of laws, rulings, and issued guidance, including
+      - The DC Code (primarily [§ 1–309.11](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11))
+      - [Legal Advice by the Office of the Attorney General (OAG)](https://oag.dc.gov/about-oag/laws-and-legal-opinions/legal-advice-ancs)
+      - Guidance from the [Office of Advisory Neighborhood Commissions (OANC)](https://anc.dc.gov/)
+      - A specific Commission's Bylaws and Standard Procedures; more info below
+      - [Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order), general parliamentary rules that guide interpretation and fill in any missing procedures from the above
+
+      ### what bylaws include
+      Per [DC Code § 1–309.11(d)(1)](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(d)(1)):
+      >- (A) The geographic boundaries of the Commission area;
+      >- (B) A statement of Commission responsibilities;
+      >- (C) Voting procedures;
+      >- (D) The establishment of standing and special committees, including provisions for giving public notice of all committee meetings;
+      >- (E) The manner of selection of chairpersons and other officers;
+      >- (F) Presiding officers;
+      >- (G) Procedures for prompt review and action on committee recommendations;
+      >- (H) The use of the Commission office and supplies;
+      >- (I) Procedures for receipt of, and action upon constituent recommendations at both the single-member district and Commission levels;
+      >- (J) Pursuant to § 1-309.13(c), the procedures for the filling of a vacancy in the office of treasurer; and
+      >- (K) Transition protocols for officer positions; and
+      >- (L) A tiebreaking procedure for Commission officer elections.
+  - title: |
       ## ANC work
     content: |
       I'd categorize the work into three buckets:
@@ -91,7 +115,19 @@ layout: single
 ---
 
 # What are Advisory Neighborhood Commission(er)s?
-We can't do the work of making our neighborhoods and city the best they can be if we don't understand our tools. I've prepared this index of topics to let folks jump in wherever they're unclear, and check back as needed if they get lost. If you're genuinely curious and are confused by any of the below, let's discuss and we'll improve our understanding *and* these explanations together!
+The following content is borrowed from [Commissioner Costello](https://anc5b05.com/faqs) with permission, because I can't improve on it.
+{: .notice}
+
+First established in 1976, Advisory Neighborhood Commissions are non-partisan, neighborhood bodies made up of locally-elected representatives called Advisory Neighborhood Commissioners. ANCs were established to bring government closer to the people, and to bring the people closer to government. Commissioners serve two-year terms without pay. 
+
+A Commissioner’s main job is to be their neighborhood’s official voice in advising the District government on issues affecting their community. Although District agencies are not required to follow an ANC’s advice, they are required by law to give an ANC’s recommendations “great weight.” Moreover, [District law](https://code.dccouncil.us/us/dc/council/code/sections/1-309.10.html) says that agencies cannot take any action that will significantly affect a neighborhood - including zoning, streets, recreation, education, social services, sanitation, planning, safety, budget, and health services - unless they give the affected ANC 30 days’ advance notice.  
+
+Commissioners may also initiate recommendations for improving city services, conduct neighborhood improvement programs, and monitor resident complaints.  
+
+end of borrowed content
+{: .notice}
+
+Want to learn more? We can't do the work of making our neighborhoods and city the best they can be if we don't understand our tools. I've prepared this index of topics to let folks jump in wherever they're unclear, and check back as needed if they get lost. If you're genuinely curious and are confused by any of the below, let's discuss and we'll improve our understanding *and* these explanations together!
 
 ## I want to know more about...
 
