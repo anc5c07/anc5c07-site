@@ -51,7 +51,7 @@ accordion:
   - title: |
       ## ANC governance
     content: |
-      Advisory Neighborhood Commissions are governed by a number of laws, rulings, and issued guidance, including
+      Advisory Neighborhood Commissions are governed by a number of laws, rulings, and texts, including
       - The DC Code (primarily [§ 1–309.11](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11))
       - [Legal Advice by the Office of the Attorney General (OAG)](https://oag.dc.gov/about-oag/laws-and-legal-opinions/legal-advice-ancs)
       - Guidance from the [Office of Advisory Neighborhood Commissions (OANC)](https://anc.dc.gov/)
