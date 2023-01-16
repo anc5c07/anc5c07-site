@@ -100,6 +100,10 @@ accordion:
     content: |
       🚧
   - title: |
+      ## "great weight"
+    content: |
+      The legal recognition DC agencies must confer to ANC resolutions. Commissions formally vote on resolutions of support or opposition to cases before various DC agencies and decision-making bodies. In the absence of a resolution, somebody with business before one of those entities would need to establish work was done to brief the relevant Commission and gain its support. Commissions may also vote for resolutions regarding pending or desired legislative/executive action, which can inform Councilmembers and the Mayor of the will of their constituents. Agencies are supposed to seriously consider concerns raised, though a [DC Auditor investigation](https://dcauditor.org/report/are-ancs-given-great-weight/) found inconsistent results across various agencies.
+  - title: |
       ## meetings
     content: |
       🚧
@@ -127,25 +131,7 @@ Commissioners may also initiate recommendations for improving city services, con
 end of borrowed content
 {: .notice}
 
-Want to learn more? We can't do the work of making our neighborhoods and city the best they can be if we don't understand our tools. I've prepared this index of topics to let folks jump in wherever they're unclear, and check back as needed if they get lost. If you're genuinely curious and are confused by any of the below, let's discuss and we'll improve our understanding *and* these explanations together!
-
 ## I want to know more about...
+We can't do the work of making our neighborhoods and city the best they can be if we don't understand our tools. I've prepared this index of topics to let folks jump in wherever they're unclear, and check back as needed if they get lost. If you're genuinely curious and are confused by any of the below, let's discuss and we'll improve our understanding *and* these explanations together!
 
 {% include accordion.html %}
-
-
-## Less Accessible Lexicon
-Advisory Neighborhood Commission
-: *(aka **ANC**, **Commission**)*
-: identified by DC Ward and a letter (e.g. **5C**), a neighborhood body and [the political boundaries](https://opendata.dc.gov/datasets/advisory-neighborhood-commissions-from-2023/explore) over which it exercises *great weight* in DC Government affairs. While the [eight Wards of DC](https://opendata.dc.gov/datasets/wards-from-2022) are generally redistricted to equal population after every decennial US Census, they are not split into the same number of Commissions, so one may contain anywhere from around 4,000 to around 24,000 residents (before population growth since the last Census).
-
-Single Member District
-: *(aka **SMD**)*
-: identified by the Commission and a two-digit number (e.g. **5C07**), a district within a Commission's boundaries that elects one member of that Commission; while Commissions around DC may contain anywhere from 2-12 members, SMDs are (somewhat) strictly kept to 2000±100 residents (per the preceding decennial US Census).
-
-Advisory Neighborhood Commissioner
-: *(aka also **ANC**, **Commissioner**)*
-: an elected member of a Commission, representing one SMD within the Commission. While Commissioners will focus on, and be deferred to regarding, issues within their SMD; it's only the Commission itself that formally gets *great weight*, exercised on the boundaries of the Commission as a whole.
-
-great weight
-: 🤷🏽, but it's in the law. Commissions formally vote on resolutions of support or opposition to cases before various DC agencies and decision-making bodies. In the absence of a resolution, somebody with business before one of those entities would need to establish work was done to brief the relevant Commission and gain its support. Commissions may also vote for resolutions regarding pending or desired legislative/executive action, which can inform Councilmembers and the Mayor of the will of their constituents. Agencies are supposed to seriously consider concerns raised, though a [DC Auditor investigation](https://dcauditor.org/report/are-ancs-given-great-weight/) found inconsistent results across various agencies.
