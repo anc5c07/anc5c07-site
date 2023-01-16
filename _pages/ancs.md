@@ -102,7 +102,7 @@ accordion:
   - title: |
       ## "great weight"
     content: |
-      The legal recognition DC agencies must confer to ANC resolutions. Commissions formally vote on resolutions of support or opposition to cases before various DC agencies and decision-making bodies. In the absence of a resolution, somebody with business before one of those entities would need to establish work was done to brief the relevant Commission and gain its support. Commissions may also vote for resolutions regarding pending or desired legislative/executive action, which can inform Councilmembers and the Mayor of the will of their constituents. Agencies are supposed to seriously consider concerns raised, though a [DC Auditor investigation](https://dcauditor.org/report/are-ancs-given-great-weight/) found inconsistent results across various agencies.
+      The recognition DC agencies legally must confer to ANC resolutions. Commissions formally vote on resolutions of support or opposition to cases before various DC agencies and decision-making bodies. In the absence of a resolution, somebody with business before one of those entities would need to establish work was done to brief the relevant Commission and gain its support. Commissions may also vote for resolutions regarding pending or desired legislative/executive action, which can inform Councilmembers and the Mayor of the will of their constituents. Agencies are supposed to seriously consider concerns raised, though a [DC Auditor investigation](https://dcauditor.org/report/are-ancs-given-great-weight/) found inconsistent results across various agencies.
   - title: |
       ## meetings
     content: |
