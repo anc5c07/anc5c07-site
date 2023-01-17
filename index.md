@@ -29,6 +29,14 @@ feature_row:
     url: "/issues/"
     btn_label: "Issues"
     btn_class: "btn--primary"
+feature_row0:
+  - image_path: /assets/images/ballot-deposit.jpg
+    alt: "ballot deposit"
+    title: "1/18/2023: 5C meeting"
+    excerpt: "This upcoming meeting will determine 5C Officers and meeting schedules for 2023, along with other business. This preview contains primers on all topics, including in-depth review of procedural matters, so you can show up prepared."
+    url: "/issues/20230118-5cmeeting/"
+    btn_label: "Meeting Preview"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/funitup.jpg
     alt: "Fun It Up, placarded"
@@ -47,11 +55,13 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
+{% include feature_row id="feature_row0" type="left" %}
+
 <div class="feature__wrapper">
   <div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
-          <img src="/assets/images/ballot-deposit.jpg" alt="ballot deposit" />
+          <img src="/assets/images/chuck-brown-memorial-mic.jpg" alt="Chuck Brown offer mic" />
         </div>
       <div class="archive__item-body">
           <h2 class="archive__item-title" style="margin-top: 0em">I want to hear from you!</h2>
