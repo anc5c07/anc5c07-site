@@ -10,7 +10,7 @@ layout: single
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1aiMK18ktqR08MIZa7ZuHt9z-guoscpw&ehbc=2E312F" width="100%" height="600"></iframe>
 
 ## key
-- **<font color="red">buildings with no plans:</font>** these buildings are either vacant, or pending sale, or for some other reason unlikely to be used much without substantial rehabilitation.
+- **<font color="red">buildings with no plans:</font>** these buildings are vacant, pending sale, or for some other reason unlikely to be used much without substantial rehabilitation.
 - **<font color="orange">buildings with plans:</font>** these buildings have some plans, but have active or likely zoning cases left to overcome first
 - **<font color="green">buildings with entitlement:</font>** buildings with entitlement; these have plans and are cleared of all zoning hurdles (either getting approval or being a by-right project to start with); a lot of buildings go on sale at this point to a buyer who plans to do the building, so a building may end up parked in this state for a while
 - **<font color="blue">under construction:</font>** these are buildings that have actively began construction
