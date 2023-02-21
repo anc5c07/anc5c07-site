@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Woodridge Library](/assets/images/dropbox.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-02-16T10:07:59
+last_modified_at: 2023-02-21T21:08:32
 ---
 ## Background
 **This is a joint meeting of SMDs 5B06 and 5C07** to be held on **2/22/2023** starting at 7pm. **The meeting will be hybrid;** in person at Woodridge Library and virtually over Microsoft Teams.
@@ -28,4 +28,7 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 - **Phone Conference ID:** 955 959 030#
 
 ## Original Agenda
-Agenda coming soon.
+- [New Macedonia Baptist Church developments](/issues/2026jackson/)
+- [Andy Carino Fatal Crash Investigation; 20th St. NE](/issues/20thst/)
+- 22nd and Franklin St. mudslide/retaining wall/sidewalk issues
+- Discussion on DDOT TSIs
