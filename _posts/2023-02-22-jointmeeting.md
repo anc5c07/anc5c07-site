@@ -8,9 +8,9 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Woodridge Library](/assets/images/dropbox.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-02-23T03:06:15
+last_modified_at: 2023-02-23T03:34:01
 ---
-This meeting has occurred; the meeting recording and generated transcript can be viewed [here](https://dcgovict-my.sharepoint.com/personal/5c07_anc_dc_gov2/_layouts/15/stream.aspx?id=%2Fpersonal%2F5c07%5Fanc%5Fdc%5Fgov2%2FDocuments%2FRecordings%2F5B06%5F5C07%20Joint%20SMD%20Meeting%2D20230222%5F190302%2DMeeting%20Recording%2Emp4&ct=1677121301119&or=OWA-NT&cid=bd0036de-7fb4-87f2-7bda-178b1fda28a8&ga=1)
+This meeting has occurred; the meeting recording and generated transcript can be viewed [here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/Eczq1xFaao9IvrLBu9D_cpQB47MMAmQzaoD4rWmyGL6_cg?e=nn3Po6)
 {: .notice--warning}
 ## Background
 **This is a joint meeting of SMDs 5B06 and 5C07** to be held on **2/22/2023** starting at 7pm. **The meeting will be hybrid;** in person at Woodridge Library and virtually over Microsoft Teams.
