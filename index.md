@@ -30,12 +30,12 @@ feature_row:
     btn_label: "Issues"
     btn_class: "btn--primary"
 feature_row0:
-  - image_path: /assets/images/ballot-deposit.jpg
-    alt: "ballot deposit"
-    title: "1/18/2023: 5C meeting"
-    excerpt: "This upcoming meeting will determine 5C Officers and meeting schedules for 2023, along with other business. This preview contains primers on all topics, including in-depth review of procedural matters, so you can show up prepared."
-    url: "/issues/20230118-5cmeeting/"
-    btn_label: "Meeting Preview"
+  - image_path: /assets/images/20th/looking-south-short.jpg
+    alt: "20th St"
+    title: "20th St NE Vision Zero Investigation"
+    excerpt: "Read about the investigation into Andy Carino's fatal crash, and mitigations DDOT is considering for this dangerous stretch of 20th St. NE"
+    url: "/issues/20thst/"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/funitup.jpg
