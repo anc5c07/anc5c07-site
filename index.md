@@ -15,12 +15,12 @@ feature_row:
     url: "/calendar/"
     btn_label: "Calendar"
     btn_class: "btn--primary"
-  - image_path: /assets/images/echostage-signs.jpg
-    alt: "signs outside Echostage"
-    title: "🚧 Trackers"
-    excerpt: "traffic safety, construction, repairs"
-    url: "/trackers/"
-    btn_label: "Trackers"
+  - image_path: /assets/images//bryant-construction.jpg
+    alt: "Bryant Street Construction"
+    title: "Development Tracker"
+    excerpt: "more trackers to come"
+    url: "/development/"
+    btn_label: "Development"
     btn_class: "btn--primary"
   - image_path: /assets/images/woodridge-library.jpg
     alt: "Woodridge Library"
