@@ -10,9 +10,9 @@ excerpt: "Serving northern Langdon since 2023"
 feature_row:
   - image_path: assets/images/chuck-brown-day-dancing.jpg
     alt: "Chuck Brown Day"
-    title: "🚧 Calendars"
+    title: "Calendar"
     excerpt: "input deadlines, meetings, events"
-    url: "/calendars/"
+    url: "/calendar/"
     btn_label: "Calendars"
     btn_class: "btn--primary"
   - image_path: /assets/images/echostage-signs.jpg
