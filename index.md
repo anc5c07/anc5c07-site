@@ -38,14 +38,6 @@ feature_row0:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/funitup.jpg
-    alt: "Fun It Up, placarded"
-    title: "11/16/2022: 5C meeting"
-    excerpt: "A regular 5C full-commission meeting was held on 11/16/2022; topics included several liquor license renewals and some updates on new streetlights."
-    url: "/issues/20221116-5cmeeting/"
-    btn_label: "Meeting Summary"
-    btn_class: "btn--primary"
-feature_row3:
   - image_path: /assets/images/2026jackson/plot1.jpg
     alt: "2026 Jackson St rendering"
     title: "2026 Jackson St NE"
@@ -53,7 +45,17 @@ feature_row3:
     url: "/issues/2026jackson"
     btn_label: "Case Background"
     btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/funitup.jpg
+    alt: "Fun It Up, placarded"
+    title: "11/16/2022: 5C meeting"
+    excerpt: "A regular 5C full-commission meeting was held on 11/16/2022; topics included several liquor license renewals and some updates on new streetlights."
+    url: "/issues/20221116-5cmeeting/"
+    btn_label: "Meeting Summary"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
 
 {% include feature_row id="feature_row0" type="left" %}
 
@@ -144,7 +146,6 @@ feature_row3:
     </div>
   </div>
 </div>
-{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
