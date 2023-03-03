@@ -1,6 +1,6 @@
 ---
 permalink: /calendar/
-title: "Events in and around 5C07"
+title: "input deadlines, meetings, events"
 excerpt: " "
 header:
   overlay_image: /assets/images/abacus.jpg

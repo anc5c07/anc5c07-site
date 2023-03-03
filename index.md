@@ -13,7 +13,7 @@ feature_row:
     title: "Calendar"
     excerpt: "input deadlines, meetings, events"
     url: "/calendar/"
-    btn_label: "Calendars"
+    btn_label: "Calendar"
     btn_class: "btn--primary"
   - image_path: /assets/images/echostage-signs.jpg
     alt: "signs outside Echostage"
