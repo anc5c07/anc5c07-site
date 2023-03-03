@@ -3,8 +3,9 @@ permalink: /calendar/
 title: "Events in and around 5C07"
 excerpt: " "
 header:
-  overlay_image: /assets/images/bryant-construction.jpg
-  caption: "[Bryant St under construction](/assets/images/bryant-construction.jpg)"
+  overlay_image: /assets/images/abacus.jpg
+  overlay_filter: rgba(127, 127, 127, 0.5)
+  caption: "[Counting](/assets/images/abacus.jpg)"
 layout: single
 ---
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23A79B8E&ctz=America%2FNew_York&showTitle=0&showCalendars=1&src=dmprYXB1cjVjMDdAZ21haWwuY29t&color=%23039BE5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
