@@ -12,7 +12,7 @@ layout: single
 
 ## Meeting Schedules
 There are a number of routine recurring meetings to be aware of:
-- **ANC 5C Committee-of-the-Whole meetings** occur on the second Wednesday of the month *if necessary* to facilitate planning and agenda-setting for the next full-Commission meeting. These are currently virtual over WebEx. The public is legal entitled to observe these, though they are not generally forums for public engagement and cannot be used to take official actions of the Commission.
+- **ANC 5C Committee-of-the-Whole meetings** occur on the second Wednesday of the month *if necessary* to facilitate planning and agenda-setting for the next full-Commission meeting. These are currently virtual over WebEx. The public is legally entitled to observe these, though they are not generally forums for public engagement and cannot be used to take official actions of the Commission.
 - **ANC 5C Full-Commission meetings** occur on the third Wednesday of the month at 7pm, *excluding July, August, and December*. These are currently virtual over WebEx. [Commission meetings](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(b)(1)) are:
   - open to the public
   - generally noticed to the public ahead of time by seven days and [multiple approved methods](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(c))

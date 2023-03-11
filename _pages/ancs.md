@@ -106,6 +106,8 @@ accordion:
   - title: |
       ## meetings
     content: |
+      ***For information about 5C/5C07 meetings specifically, see the [calendar page](/calendar/).***
+      <p/>
       A lot of ANC business occurs through meetings. There are various kinds of "ANC meetings" to be aware of, including:
       - **Full Commission meetings;** also called **public meetings**, **regular meetings**, or just **ANC meetings**. These meetings:
         - are [legally required](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(b)(1)) to occur at least nine times a year
