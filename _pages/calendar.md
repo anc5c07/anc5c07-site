@@ -8,7 +8,7 @@ header:
   caption: "[Counting](/assets/images/abacus.jpg)"
 layout: single
 ---
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23A79B8E&ctz=America%2FNew_York&showTitle=0&showCalendars=1&src=dmprYXB1cjVjMDdAZ21haWwuY29t&color=%23039BE5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23A79B8E&ctz=America%2FNew_York&showTitle=0&showCalendars=1&src=dmprYXB1cjVjMDdAZ21haWwuY29t&color=%23039BE5" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Meeting Schedules
 There are a number of routine recurring meetings to be aware of:
