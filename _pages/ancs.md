@@ -106,7 +106,17 @@ accordion:
   - title: |
       ## meetings
     content: |
-      🚧
+      A lot of ANC business occurs through meetings. There are various kinds of "ANC meetings" to be aware of, including:
+      - **Full Commission meetings;** also called **public meetings**, **regular meetings**, or just **ANC meetings**. These meetings:
+        - are [legally required](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(b)(1)) to occur at least nine times a year
+        - require attendance of a quorum of Commissioners within a Commission
+        - must be open to the public
+        - must be noticed to the public ahead of time by seven days and [multiple approved methods](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(c))
+        - are the only suitable venue for official Commission actions (e.g. voting on resolutions/letters); any challenge to the above requirements is a challenge to the legitimacy of actions taken
+        - usually involve a structured agenda
+      - **Committee-of-the-Whole meetings;** also called **administrative**, **executive**, or **planning** meetings. Any meeting on ANC matters involving a quorum of Commissioners from a single Commission must be public. These hold many similar requirements to the above, but they are unlikely to be structured and *cannot* involve official actions.
+      - **Single-Member District (SMD) meetings:** these are outreach events for a single Commissioner to engage with the constituency of their district. These are more common in some parts of DC than others, and do not have any legal requirements or weight. They may be structured as a meeting, or less structured (more like **office hours** than a meeting). They may also be integrated with an activity such a community cleanup event. Commissioners are free to be creative about this type of outreach, or forego it entirely.
+      - **Committee meetings:** if a Commission is making use of Committees for focused outreach or fact-finding, there will likely be meetings for these as well. The structure and what legal provisions will vary based on how the Committees and their meetings are set up, though they are generally subject to public meeting requirements.
   - title: |
       ## resolutions
     content: |
