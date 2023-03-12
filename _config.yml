@@ -159,6 +159,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://instagram.com/vjkapur
+    - label: "youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/@vjkapur5c07
     - label: "tiktok"
       icon: "fab fa-fw fa-tiktok"
       url: https://www.tiktok.com/@vjkapurdc
