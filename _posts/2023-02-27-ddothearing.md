@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[original rec center crosswalk](/assets/images/20th/original-rec-crosswalk.jpg)"
 categories: council-matters
-last_modified_at: 2023-03-12T14:43:25
+last_modified_at: 2023-03-12T14:46:32
 notes: footnotes
 ---
 
@@ -21,9 +21,9 @@ notes: footnotes
 ## Media
 There are a couple version of the whole hearing available:
 - On Facebook, which has it with speaker-view enabled and in two parts:
-  - Everything before the DDOT Director's portion
-  - DDOT Director's portion
-- On the Council website, which has it with panel view.
+  - [Everything before the DDOT Director's portion](https://www.facebook.com/watch/live/?ref=watch_permalink&v=887766282430686)
+  - [DDOT Director's portion](https://www.facebook.com/watch/live/?ref=watch_permalink&v=523951183224098)
+- [On the Council website](https://dc.granicus.com/MediaPlayer.php?view_id=2&clip_id=8119), which has it with panel view.
 
 ## My Testimony
 ### verbal
