@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[original rec center crosswalk](/assets/images/20th/original-rec-crosswalk.jpg)"
 categories: council-matters traffic-safety
-last_modified_at: 2023-03-12T18:33:36
+last_modified_at: 2023-03-12T18:39:36
 notes: footnotes
 ---
 
@@ -16,7 +16,7 @@ notes: footnotes
 - The DC Council Committee on Transportation and the Environment had a 12.5-hour hearing on DDOT performance and oversight
 - Many fellow Commissioners and residents testified; we covered a lot of topics (with many common themes)
 - The DDOT Director and Chairperson Allen were still going back and forth late into the night
-- [I testified](#my-testimony) early in the day, focusing on [Andy Cariño's fatal crash](/20thst/) and 20th St generally
+- [I testified](#my-testimony) early in the day, focusing on [Andy Cariño's fatal crash](/issues/20thst/) and 20th St generally
 
 ## Media
 There are a couple version of the whole hearing available:
