@@ -1,5 +1,5 @@
 ---
-title: "2/27/2023: DDOT oversight hearings"
+title: "2/27/2023: DDOT oversight hearing"
 permalink: /issues/20230227-ddothearing/
 excerpt: "12.5 hours of testimony"
 author_profile: false
@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[original rec center crosswalk](/assets/images/20th/original-rec-crosswalk.jpg)"
 categories: council-matters
-last_modified_at: 2023-03-12T14:46:32
+last_modified_at: 2023-03-12T17:44:50
 notes: footnotes
 ---
 
