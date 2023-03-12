@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/20th/original-rec-crosswalk.jpg
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[original rec center crosswalk](/assets/images/20th/original-rec-crosswalk.jpg)"
-categories: council-matters
-last_modified_at: 2023-03-12T17:44:50
+categories: council-matters traffic-safety
+last_modified_at: 2023-03-12T18:26:37
 notes: footnotes
 ---
 
