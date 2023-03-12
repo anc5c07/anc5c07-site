@@ -30,7 +30,7 @@ feature_row:
     btn_label: "Issues"
     btn_class: "btn--primary"
 feature_row0:
-  - image_path: /assets/images/20th/looking-south-short.jpg
+  - image_path: /assets/images/20th/looking-south-sanitized-short.jpg
     alt: "20th St"
     title: "20th St NE Vision Zero Investigation"
     excerpt: "Read about the investigation into Andy Cariño's fatal crash, and mitigations DDOT is considering for this dangerous stretch of 20th St. NE"
