@@ -12,13 +12,17 @@ categories: active traffic-safety problematic-construction 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-05T11:30:02
+last_modified_at: 2023-03-12T13:01:08
 ---
 <meta name="format-detection" content="telephone=no"/>
 <div id="development-map" class="map-container"></div>
 
 ## tl;dr
-- Since early 2021, land-disrupting construction at the church at 22nd and Franklin has led to deteriorating land and sidewalk conditions
+- Since early 2021, land-disrupting construction at the church at 22nd and Franklin has led to deteriorating land and sidewalk conditions.
+- A number of citations have been issued over the years, and DDOT has currently put the sidewalk back together
+- However, there are still risks to mitgate to come to a final stable solution
+- This page will be updated with a comprehensive history and media to track the progression of this case.
+- In the meantime, some [social media updates are here](https://twitter.com/VJKapur/status/1628513820082679811).
 
 <script>
 var map = L.map('development-map',  {
