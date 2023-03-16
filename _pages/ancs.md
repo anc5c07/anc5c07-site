@@ -116,14 +116,71 @@ accordion:
         - must be noticed to the public ahead of time by seven days and [multiple approved methods](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(c))
         - are the only suitable venue for official Commission actions (e.g. voting on resolutions/letters); any challenge to the above requirements is a challenge to the legitimacy of actions taken
         - usually involve a structured agenda
-      - **Special meetings** may be called for meetings that fail to abide by public noticing requirements and/or a regular schedule, provided any official actions taken in the meeting are narrowly targeted towards matters of urgency, for which waiting for the next regular meeting would cause undue burden.
+      - **Special meetings** may be called for meetings that fail to abide by public noticing requirements and/or a regular schedule above, provided any official actions taken in the meeting are narrowly targeted towards matters of urgency, for which waiting for the next regular meeting would cause undue burden.
       - **Committee-of-the-Whole meetings;** also called **administrative**, **executive**, or **planning** meetings. Any meeting on ANC matters involving a quorum of Commissioners from a single Commission must be public. These hold many similar requirements to the above, but they are unlikely to be structured and *cannot* involve official actions.
       - **Single-Member District (SMD) meetings:** these are outreach events for a single Commissioner to engage with the constituency of their district. These are more common in some parts of DC than others, and do not have any legal requirements or weight. They may be structured as a meeting, or less structured (more like **office hours** than a meeting). They may also be integrated with an activity such as a community cleanup event. Commissioners are free to be creative about this type of outreach, or forego it entirely.
-      - **Committee meetings:** if a Commission is making use of Committees for focused outreach or fact-finding, there will likely be meetings for these as well. The structure and what legal provisions will vary based on how the Committees and their meetings are set up, though they are generally subject to public meeting requirements.
+      - **Committee meetings:** if a Commission is making use of Committees for focused outreach or fact-finding, there will likely be meetings for these as well. The structure and what legal provisions will vary based on how the Committees and their meetings are set up, though they are generally subject to public meeting requirements.    
+  - title: |
+      ## quorum
+    content: |
+      Per [§ 1–309.01](https://code.dccouncil.gov/us/dc/council/code/titles/1/chapters/3/subchapters/V)(b)(1):
+      > The Commission may declare a quorum and take official action if a majority of single-member district Commissioners of the Commission is present, provided that a majority of the single-member districts have Commissioners on the Commission pursuant to § 1-309.06.
+
+      So, a quorum has two requirements:
+      - the Commission must have a majority of its seats filled
+      - A majority of seated Commissioners must be present
+  - title: |
+      ## majority
+    content: |
+      Unless otherwise defined, a majority is more than half. As we're discussing whole seats (whether vacant, filled, present), this would be half plus one if there are an even number of seats in consideration, or half plus .5 if there are an odd number. If the fraction defined for a particular scenario is something other than a half (e.g. 2/3rds), then the requirement would round up to the nearest whole number.
+
+      |seats|minimum for majority|
+      |---|---|
+      |6|4|
+      |7|4|
+      |10|6|
+
+      ### majority of what
+      Beyond quorum, by-laws appear to have a lot of flexibility. They can define:
+      - individual types of votes (e.g. `a vote to amend bylaws`)
+      - for any vote type, minimal requirements for:
+        - Commissioner attendance
+        - Commissioner participation (i.e. voting i.e. not abstaining)
+        - a majority threshold other than half for necessary **yes** votes
+        - what counts as a vote against passage among **no** votes, abstentions, absences, and vacancies (what the **yes** vote count needs to be divided by to minimally meet the passage threshold)
+        
+      There is no consistency in how this might be worded, a finite list of vote types, or high likelihood the information would be organized in one place within the bylaws.
+
+      #### example verbiage
+      As unwritten rules for ANC business default to Robert's Rules, it seems like some of these are the least ambiguous preferred terms:
+
+      |verbiage|what counts against|
+      |---|---|
+      |*not specified*|`no` votes|
+      |`of votes cast`|`no` votes|
+      |`of voting members/Commissioners`|`no` votes|
+      |`of members/Commissioners present`|`no` votes, abstentions|
+      |`of all members/Commissioners`|`no` votes, abstentions, absences|
+      |`of entire membership/Commission`|`no` votes, abstentions, absences|
+      |`of entire fixed membership|`no` votes, abstentions, absences, vacancies|
+
+      Note that last one is quite rare, as it would be *very* high burden.
+
+      There is, unfortunately, little consistency of phrasing among the existing ANC bylaws. Some of the many ways they might be phrased here:
+
+      |Commission|bylaw verbiage|likely meaning|
+      |---|---|---|
+      | |`a two-thirds vote of those present and voting yea or nay`|the vote passes if *yes votes*/*Commissioners present and not abstaining* is greater than 2/3rds of Commissioners present and not abstaining.|
+      | |`a majority of all Commissioners voting in the affirmative`|the vote passes if *yes votes*/*Commissioners seated regardless of absence or abstention* is greater than 2/3rds  of Commissioners seated regardless of absence or abstention.|
+      | |`a majority of of the elected representatives of the Commission are present and voting`|a vote cannot be held unless greater than a half of seated Commissioners are present and not abstaining|
+      |2022-5C|`A quorum for the election [of officers] shall be one half of the Commission  membership, plus one`|the usual quorum rules, even though if taken literally for an odd-sized Commission, it would be one extra|
+      |2022-5C|`Commission actions, except for amending these By-Laws, shall be approved by a simple majority of those Commission members present and voting.`|the default threshold for voting is that, among "yea" and "nay" votes, the majority are "yea"|
+      |2022-5C|`Revision of these By-Laws requires a two thirds vote of the entire Commission`|"entire Commission" might refer to all seats or filled seats here|
   - title: |
       ## resolutions
     content: |
-      🚧
+      🚧 
+
 
 header:
   overlay_image: /assets/images/woodridge-library.jpg
