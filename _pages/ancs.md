@@ -111,10 +111,10 @@ accordion:
       A lot of ANC business occurs through meetings. There are various kinds of "ANC meetings" to be aware of, including:
       - **Full Commission meetings;** also called **public meetings**, **regular meetings**, or just **ANC meetings**. These meetings:
         - are [legally required](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(b)(1)) to occur at least nine times a year
-        - require attendance of a quorum of Commissioners within a Commission
+        - require attendance of a [quorum](#quorum) of Commissioners within a Commission
         - must be open to the public
         - must be noticed to the public ahead of time by seven days and [multiple approved methods](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(c))
-        - are the only suitable venue for official Commission actions (e.g. voting on resolutions/letters); any challenge to the above requirements is a challenge to the legitimacy of actions taken
+        - are the only suitable venue for official Commission actions (e.g. [voting](#votes) on [resolutions](#resolutions)/letters); any challenge to the above requirements is a challenge to the legitimacy of actions taken
         - usually involve a structured agenda
       - **Special meetings** may be called for meetings that fail to abide by public noticing requirements and/or a regular schedule above, provided any official actions taken in the meeting are narrowly targeted towards matters of urgency, for which waiting for the next regular meeting would cause undue burden.
       - **Committee-of-the-Whole meetings;** also called **administrative**, **executive**, or **planning** meetings. Any meeting on ANC matters involving a quorum of Commissioners from a single Commission must be public. These hold many similar requirements to the above, but they are unlikely to be structured and *cannot* involve official actions.
@@ -130,7 +130,7 @@ accordion:
       - the Commission must have a majority of its seats filled
       - A majority of seated Commissioners must be present
   - title: |
-      ## vote
+      ## votes
     content: |
       There are multiple [kinds of votes](https://en.wikipedia.org/wiki/Voting_methods_in_deliberative_assemblies), including:
       - **roll-call vote:** where more than two options may exist and a vote has a selection
