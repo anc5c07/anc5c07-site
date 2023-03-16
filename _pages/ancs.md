@@ -132,20 +132,18 @@ accordion:
   - title: |
       ## votes
     content: |
-      There are multiple [kinds of votes](https://en.wikipedia.org/wiki/Voting_methods_in_deliberative_assemblies), including:
-      - **roll-call vote:** where more than two options may exist and a vote has a selection
-      - **up/down vote**: yes vs. no
+      There are multiple [kinds of votes](https://en.wikipedia.org/wiki/Voting_methods_in_deliberative_assemblies) that could occur. Generally, ANC votes are roll-call votes (each Commissioner votes in turn) and up/down (votes are for or against a proposal)
 
-      Most ANC votes are up/down. For a given up/down vote, there is a number associated with each of these categories:
+      For a given vote, there is a number associated with each of these categories:
       1. **Commission seats**: the number of SMDs within the Commission
       2. **Commissioners** or **filled seats**: the number of seats with a sworn in Commissioner (i.e. not vacant)
       3. **present Commissioners**: Commissioners in attendance at a meeting, less than or equal to the number of filled seats
-      4. **participating Commissioners**: the sum of:
+      4. **participating Commissioners**: the sum of actual votes. For up/down, there are only two subgroups:
         - voting in the affirmative (for/yes/yea)
         - voting in the negative (against/no/nay)
       5. **abstentions**: Commissioners present but abstaining from vote/not voting (could be zero)
 
-      The principles for a roll-call (or other possible categories) are similar (*4* would be split into however many unique vote categories for roll call, for instance), and bylaws can possibly restrict present Commissioners from abstaining for certain categories of vote. Unless specifics are noted, presume abstaining is an option.
+      Bylaws can possibly restrict present Commissioners from abstaining for certain categories of vote, or from a certain votes from being considered if there are absences. Unless specifics are noted, presume both could occur.
   - title: |
       ## majority
     content: |
