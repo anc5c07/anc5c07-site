@@ -179,7 +179,7 @@ accordion:
       |`of members/Commissioners present`|`no` votes, abstentions|
       |`of all members/Commissioners`|`no` votes, abstentions, absences|
       |`of entire membership/Commission`|`no` votes, abstentions, absences|
-      |`of entire fixed membership|`no` votes, abstentions, absences, vacancies|
+      |`of entire fixed membership`|`no` votes, abstentions, absences, vacancies|
 
       Note that last one is quite rare, as it would be *very* high burden.
 
