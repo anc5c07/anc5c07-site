@@ -130,6 +130,24 @@ accordion:
       - the Commission must have a majority of its seats filled
       - A majority of seated Commissioners must be present
   - title: |
+      ## vote
+    content: |
+      There are multiple kinds of votes, including:
+      - voice vote (if things aren't expected to be close)
+      - roll-call vote (where more than two options may exist and a vote has a selection)
+      - up/down vote (yes vs. no)
+
+      Most ANC votes are in that last category. For a given up/down vote, there is a number associated with each of these categories:
+      1. **Commission seats**: the number of SMDs within the Commission
+      2. **Commissioners** or **filled seats**: the number of seats with a sworn in Commissioner (i.e. not vacant)
+      3. **present Commissioners**: Commissioners in attendance at a meeting, less than or equal to the number of filled seats
+      4. **participating Commissioners**: the sum of:
+        - voting in the affirmative (for/yes/yea)
+        - voting in the negative (against/no/nay)
+      5. **abstentions**: Commissioners present but abstaining from vote/not voting (could be zero)
+
+      The principles for voice and roll-call (or other possible categories) are similar, and bylaws can possibly restrict present Commissioners from abstaining for certain categories of vote; unless specifics are noted, presume abstaining is an option.
+  - title: |
       ## majority
     content: |
       Unless otherwise defined, a majority is more than half. As we're discussing whole seats (whether vacant, filled, present), this would be half plus one if there are an even number of seats in consideration, or half plus .5 if there are an odd number. If the fraction defined for a particular scenario is something other than a half (e.g. 2/3rds), then the requirement would round up to the nearest whole number.
