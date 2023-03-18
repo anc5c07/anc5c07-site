@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-18T23:48:56
+last_modified_at: 2023-03-18T23:55:08
 notes: footnotes
 ---
 This concerns a future meeting; it should be consider the most up-to-date resource of information about the meeting up until it occurs.
@@ -38,8 +38,16 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 - +1 206-420-0854,,955959030# (United States, Seattle)
 - **Phone Conference ID:** 955 959 030#
 
+## Agenda
+Feel free to reach out if you have suggestions for this agenda!
+
+- A debrief from Commissioners Piekara and Kapur on the 3/15 5B and [5C](/issues/20230315-5cmeeting/) meetings
+- Presentation from Hazle Crawford at [Department of Buildings](https://dob.dc.gov/) on [illegal construction](https://dcra.kustomer.help/contact/illegal-construction-inspection-request-form-SJLMTS2PD)
+- Presentation from Sherin Koshy at [Friends of South Dakota Ave](https://twitter.com/FoSDANE) on efforts to improve the roadway safety of South Dakota Ave
+- An update on the [22nd and Franklin mudslide](/22nd-franklin-modslide/)
+
 ## Notification History
-I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I'll do my best to both diversify my outreach and log all of it here. I am also always available for advice/reminders through the contact avenues on the footer of this webpage.
+I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact avenues on the footer of this webpage.
 
 |method|outreach performed|
 |---|---|
@@ -49,11 +57,3 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |direct email|The 5C07 [March 2023 newsletter](https://mailchi.mp/03ad1c65a72f/anc5c07?e=2c31022c82) dispatched 3/12/2023 around 9pm ET contained mention of this meeting under the top header `Upcoming Meetings`|
 |email listservs|I do not currently make use of email group listservs for meeting notices; if there is one that seems especially relevant to the 5C07 boundaries, please let me know.|
 |[paper flyer](/flyers/)|This meeting is included in my [3/18/2023 dispatch flyer](/assets/documents/flyer-20230318.pdf).|
-
-## Agenda
-Feel free to reach out if you have suggestions for this agenda!
-
-- A debrief from Commissioners Piekara and Kapur on the 3/15 5B and [5C](/issues/20230315-5cmeeting/) meetings
-- Presentation from Hazle Crawford at [Department of Buildings](https://dob.dc.gov/) on [illegal construction](https://dcra.kustomer.help/contact/illegal-construction-inspection-request-form-SJLMTS2PD)
-- Presentation from Sherin Koshy at [Friends of South Dakota Ave](https://twitter.com/FoSDANE) on efforts to improve the roadway safety of South Dakota Ave
-- An update on the [22nd and Franklin mudslide](/22nd-franklin-modslide/)
