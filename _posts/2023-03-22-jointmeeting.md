@@ -8,15 +8,16 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-12T13:56:25
+last_modified_at: 2023-03-18T18:51:48
 notes: footnotes
 ---
-This is a preview of a future meeting; my goal is to organize information here to help folks follow along if they choose to attend (or stay aware even if they don't).
+This concerns a future meeting; it should be consider the most up-to-date resource of information about the meeting up until it occurs.
 {: .notice--warning}
 
 ## tl;dr
-- Reach out if there is anything in particular you want on this agenda
-- We're planning to have DOB present on illegal construction inspection information
+- Our **monthly hybrid** (in-person and virtual) **joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
+- **We'll have presentations** from **the Commissioners**, DC's **Department of Buildings**, and **Friends of South Dakota Ave**
+- Any other community updates or suggestions welcome
 
 ## Background
 **This is a joint meeting of SMDs 5B06 and 5C07** to be held on **3/22/2023** starting at 7pm. **The meeting will be hybrid;** in person at Woodridge Library and virtually over Microsoft Teams.
@@ -36,3 +37,22 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 ### Or call in (audio only)
 - +1 206-420-0854,,955959030# (United States, Seattle)
 - **Phone Conference ID:** 955 959 030#
+
+## Notification History
+I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I'll do my best to both diversify my outreach and log all of it here.
+
+|method|outreach performed|
+|---|---|
+|routine scheduling|This is the second recurring 5B06/5C07 meeting on the month's *fourth Wednesday*; the decision to make these routine was made after the first, but going forward the expectation should exist unless otherwise notified|
+|website|This meeting information page was first posted to this website on 3/12/2023 around 10pm ET|
+|direct email|The 5C07 [March 2023 newsletter](https://mailchi.mp/03ad1c65a72f/anc5c07?e=2c31022c82) dispatched 3/12/2023 around 9pm ET contained mention of this meeting under the top header `Upcoming Meetings`|
+|paper flyer|I carry paper flyers of upcoming meetings and top-of-mind issues for distribution during conversations or for targeted awareness campaigns. I will post these flyers for at-home printing/distribution here imminently.|
+|social media|I posted this to [Twitter](https://twitter.com/anc5c07/status/1636764893755097088) on 3/17. Working on a Nextdoor post imminently.|
+
+## Agenda
+Feel free to reach out if you have suggestions for this agenda!
+
+- A debrief from Commissioners Piekara and Kapur on the 3/15 5B and [5C](/issues/20230315-5cmeeting/) meetings
+- Presentation from Hazle Crawford at [Department of Buildings](https://dob.dc.gov/) on [illegal construction](https://dcra.kustomer.help/contact/illegal-construction-inspection-request-form-SJLMTS2PD)
+- Presentation from Sherin Koshy at [Friends of South Dakota Ave](https://twitter.com/FoSDANE) on efforts to improve the roadway safety of South Dakota Ave
+- An update on the [22nd and Franklin mudslide](/22nd-franklin-modslide/)
