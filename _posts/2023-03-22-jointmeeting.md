@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-18T18:51:48
+last_modified_at: 2023-03-18T18:53:05
 notes: footnotes
 ---
 This concerns a future meeting; it should be consider the most up-to-date resource of information about the meeting up until it occurs.
@@ -39,7 +39,7 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 - **Phone Conference ID:** 955 959 030#
 
 ## Notification History
-I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I'll do my best to both diversify my outreach and log all of it here.
+I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I'll do my best to both diversify my outreach and log all of it here. I am also always available for advice/reminders through the contact avenues on the footer of this webpage.
 
 |method|outreach performed|
 |---|---|
