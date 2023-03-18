@@ -13,7 +13,7 @@ layout: single
 ## About this Calendar
 This calendar contains pertinent community meetings and events. If there's something in and around 5C07, or impacting 5C07, that you'd like included, please reach out!
 
-This calendar [can be subscribed to](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop) so your calendar application of choice reflects the events here.
+This calendar can be subscribed to so your calendar application of choice reflects the events here; do this by clicking the `+GoogleCalendar` button or [following these instructions](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop) using the email address `vjkapur5c07@gmail.com`.
 
 ## Meeting Schedules
 There are a number of routine recurring meetings to be aware of. For general information about the various types of ANC meeting, see the [`Meetings` entry on the `On ANCs` page](https://anc5c07.com/ancs/#meetings).
