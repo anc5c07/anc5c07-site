@@ -10,8 +10,13 @@ layout: single
 ---
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23A79B8E&ctz=America%2FNew_York&showTitle=0&showCalendars=1&src=dmprYXB1cjVjMDdAZ21haWwuY29t&color=%23039BE5" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
+## About this Calendar
+This calendar contains pertinent community meetings and events. If there's something in and around 5C07, or impacting 5C07, that you'd like included, please reach out!
+
+This calendar [can be subscribed to](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop) so your calendar application of choice reflects the events here.
+
 ## Meeting Schedules
-There are a number of routine recurring meetings to be aware of:
+There are a number of routine recurring meetings to be aware of. For general information about the various types of ANC meeting, see the [`Meetings` entry on the `On ANCs` page](https://anc5c07.com/ancs/#meetings).
 - **ANC 5C Committee-of-the-Whole meetings** occur on the second Wednesday of the month *if necessary* to facilitate planning and agenda-setting for the next full-Commission meeting. These are currently virtual over WebEx. The public is legally entitled to observe these, though they are not generally forums for public engagement and cannot be used to take official actions of the Commission.
 - **ANC 5C Full-Commission meetings** occur on the third Wednesday of the month at 7pm, *excluding July, August, and December*. These are currently virtual over WebEx. [Commission meetings](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(b)(1)) are:
   - open to the public
