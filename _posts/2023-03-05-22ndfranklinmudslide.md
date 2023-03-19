@@ -12,7 +12,7 @@ categories: active traffic-safety problematic-construction 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-19T21:36:02
+last_modified_at: 2023-03-19T21:38:00
 ---
 <meta name="format-detection" content="telephone=no"/>
 <div id="development-map" class="map-container"></div>
@@ -27,6 +27,8 @@ last_modified_at: 2023-03-19T21:36:02
 There is a hearing scheduled for DOEE enforcement on 5/16/2023. There is an additional case by DCRA/DOB pending judge assignment after the church entered a `deny` plea. While these hearings are pending, Kelley Cislo from Councilmember McDuffie's office is working with DLCP on options regarding the operating capability of the church while these cases are ongoing
 
 In response to my own Illegal Construction Inspection request (case number `Z4N-PNN7U`) and subsequent photographic evidence of work being done sent to DOB on 2/22/2023, an additional stop-work order was issued by DOB on 2/23/2023.
+
+There is ongoing effort at DDOT to install a new sidewalk on the north side of the block here, but there is extra work due to the proximity to federal land (containing Langdon Park).
 
 ## In the Media
 Ms. Vicki Moore, whose home is experiencing foundation issues due to the ground disruption, gave an interview for a story by [NBC4 news](https://www.nbcwashington.com/news/local/its-a-mess-mudslide-next-door-threatens-dc-residents-home/3163475/).
