@@ -12,7 +12,7 @@ categories: active traffic-safety problematic-construction 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-19T21:26:05
+last_modified_at: 2023-03-19T21:28:58
 ---
 <meta name="format-detection" content="telephone=no"/>
 <div id="development-map" class="map-container"></div>
@@ -25,7 +25,7 @@ last_modified_at: 2023-03-19T21:26:05
 - In the meantime, some [social media updates are here](https://twitter.com/VJKapur/status/1628513820082679811).
 
 ## Current Status
-There is a hearing scheduled for DOEE enforcement on 5/16/2023. There is an additional case by DCRA/DOB pending judge assignment after the church entered a `deny` plea.
+There is a hearing scheduled for DOEE enforcement on 5/16/2023. There is an additional case by DCRA/DOB pending judge assignment after the church entered a `deny` plea. While these hearings are pending, Kelley Cislo from Councilmember McDuffie's office is working with DLCP on options regarding the operating capability of the church while these cases are ongoing
 
 In response to my own Illegal Construction Inspection request (case number `Z4N-PNN7U`) and subsequent photographic evidence of work being done sent to DOB on 2/22/2023, an additional stop-work order was issued by DOB on 2/23/2023.
 
@@ -52,6 +52,8 @@ I'm continuing to collect photos and events for this timeline; if you have any t
 
 *[DOB]: DC Department of Buildings
 *[DOEE]: DC Department of Energy & Environment
+*[DCRA]: DC's Department of Consumer and Regulatory Affairs (split into DOB and DLCP)
+*[DLCP]: DC's Department of Licensing and Consumer Protection
 
 <script>
 var map = L.map('development-map',  {
