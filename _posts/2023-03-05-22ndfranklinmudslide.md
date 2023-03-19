@@ -12,7 +12,7 @@ categories: active traffic-safety problematic-construction 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-19T21:28:58
+last_modified_at: 2023-03-19T21:32:44
 ---
 <meta name="format-detection" content="telephone=no"/>
 <div id="development-map" class="map-container"></div>
@@ -43,8 +43,9 @@ I'm continuing to collect photos and events for this timeline; if you have any t
 |September 2021|The wall and sidewalk are relatively unharmed|<img src="/assets/images/22ndfranklin/9-2021-streetview.jpg" width="200px"/><br/>[Google Street View](https://www.google.com/maps/@38.9256014,-76.9738305,3a,75y,220.21h,73.93t/data=!3m7!1e1!3m5!1s71kO-PcThuo8O4HCxxM2VA!2e0!5s20210901T000000!7i16384!8i8192)|
 |February 2022|The retaining wall and hill begin collapsing into the sidewalk over time|<img src="/assets/images/22ndfranklin/2-2022-aarondenutweet.jpg" width="200px"/><br/>[tweet from 2/17/22](https://twitter.com/AaronDeNu/status/1494443842552184833)|
 |March 2022|DDOT erected a traffic cone boundary on the site|<img src="/assets/images/22ndfranklin/3-2022-aarondenutweet.jpg" width="200px"/><br/>[tweet from 3/6/22](https://twitter.com/AaronDeNu/status/1500606095097798659)|
+|April 2022|DDOT's Public Space Inspector issued a corrective notice, and a proper Public Space Construction Permit was issued to retaining wall work||
 |June 2022|The retaining wall was largely gone and the sidewalk completely compromised.|<img src="/assets/images/22ndfranklin/6-2022-streetview.jpg" width="200px"/><br/>[Google Street View](https://www.google.com/maps/@38.9255702,-76.9738167,3a,75y,220.21h,73.93t/data=!3m7!1e1!3m5!1sZFHZmVhsBqAj-FO7-9U2NA!2e0!5s20220601T000000!7i16384!8i8192)|
-|late 2022|the retaining wall was rebuilt||
+|late 2022|the retaining wall was rebuilt at some point since June 2022||
 |January 2022|the sidewalk remained in disrepair|<img src="/assets/images/22ndfranklin/1-2023-vjtweet.jpg" width="200px"/><br/>[tweet from 1/17/23](https://twitter.com/VJKapur/status/1615456860752203776)|
 |February 2023|localized fixes performed on sidewalk|<img src="/assets/images/22ndfranklin/2-2023-vjtweet.jpg" width="200px"/><br/>[tweet from 1/22/23](https://twitter.com/VJKapur/status/1615456860752203776)|
 |February 2023|ground disruption and runoff remain problems|<img src="/assets/images/22ndfranklin/2-2023-vjtweet-2.jpg" width="200px"/><br/>[tweet from 1/22/23](https://twitter.com/VJKapur/status/1628513850839470081)|
