@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-18T23:55:08
+last_modified_at: 2023-03-19T16:07:13
 notes: footnotes
 ---
 This concerns a future meeting; it should be consider the most up-to-date resource of information about the meeting up until it occurs.
@@ -42,6 +42,14 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 Feel free to reach out if you have suggestions for this agenda!
 
 - A debrief from Commissioners Piekara and Kapur on the 3/15 5B and [5C](/issues/20230315-5cmeeting/) meetings
+  - both Commissions approving (with caveat) the BZA case for [2026 Jackson St NE](/issues/2026jackson/)
+  - 5B approving the BZA case for [3315 12th St NE](/issues/3315-12th/)
+  - 5C approving, with conditions, the [Public Space Committee (DC PSC) application](http://localhost:4000/issues/20230315-5cmeeting/#costco-public-space-application) for a new curb cut into the Costco parking lot
+  - 5B approving and 5C tabling a resolution supporting budget allocation towards bus service improvements and arterial redesign
+  - 5B approving a resolution supporting legislation to inventory sidewalk conditions, with 5C hopefully to follow in April
+- An exploration of issues coming down the pike
+  - A new Bikeshare station at 24th and Rhode Island Ave NE
+  - Probable redevelopment of 2001 Rhode Island Ave NE and the push for more retail along the corridor
 - Presentation from Hazle Crawford at [Department of Buildings](https://dob.dc.gov/) on [illegal construction](https://dcra.kustomer.help/contact/illegal-construction-inspection-request-form-SJLMTS2PD)
 - Presentation from Sherin Koshy at [Friends of South Dakota Ave](https://twitter.com/FoSDANE) on efforts to improve the roadway safety of South Dakota Ave
 - An update on the [22nd and Franklin mudslide](/22nd-franklin-modslide/)
@@ -57,3 +65,8 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |direct email|The 5C07 [March 2023 newsletter](https://mailchi.mp/03ad1c65a72f/anc5c07?e=2c31022c82) dispatched 3/12/2023 around 9pm ET contained mention of this meeting under the top header `Upcoming Meetings`|
 |email listservs|I do not currently make use of email group listservs for meeting notices; if there is one that seems especially relevant to the 5C07 boundaries, please let me know.|
 |[paper flyer](/flyers/)|This meeting is included in my [3/18/2023 dispatch flyer](/assets/documents/flyer-20230318.pdf).|
+
+*[BZA]: Board of Zoning Adjustment
+*[DOB]: DC Department of Buildings
+*[DOEE]: DC Department of Energy & Environment
+*[PSC]: DDOT's Public Space Committee
