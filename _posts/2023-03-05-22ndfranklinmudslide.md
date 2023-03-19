@@ -12,7 +12,7 @@ categories: active traffic-safety problematic-construction 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-19T21:32:44
+last_modified_at: 2023-03-19T21:36:02
 ---
 <meta name="format-detection" content="telephone=no"/>
 <div id="development-map" class="map-container"></div>
@@ -21,8 +21,7 @@ last_modified_at: 2023-03-19T21:32:44
 - Since early 2021, land-disrupting construction at the church at 22nd and Franklin has led to deteriorating land and sidewalk conditions.
 - A number of citations have been issued over the years, and DDOT has currently put the sidewalk back together
 - However, there are still risks to mitgate to come to a final stable solution
-- This page will be updated with a comprehensive history and media to track the progression of this case.
-- In the meantime, some [social media updates are here](https://twitter.com/VJKapur/status/1628513820082679811).
+- There are also a number of sidewalk issues related to both sides of Franklin here
 
 ## Current Status
 There is a hearing scheduled for DOEE enforcement on 5/16/2023. There is an additional case by DCRA/DOB pending judge assignment after the church entered a `deny` plea. While these hearings are pending, Kelley Cislo from Councilmember McDuffie's office is working with DLCP on options regarding the operating capability of the church while these cases are ongoing
