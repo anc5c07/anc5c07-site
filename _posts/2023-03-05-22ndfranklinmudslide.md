@@ -35,7 +35,7 @@ Ms. Vicki Moore, whose home is experiencing foundation issues due to the ground 
 
 ## Timeline
 
-I'm continuing to collect photos and events for this timeline; if you have any to share, send it to me!
+I'm continuing to collect photos and events for this timeline; if you have any to share, send them to me!
 {: .notice--info}
 
 |time|status|references|
