@@ -12,7 +12,7 @@ categories: active traffic-safety problematic-construction 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-19T21:06:54
+last_modified_at: 2023-03-19T21:23:05
 ---
 <meta name="format-detection" content="telephone=no"/>
 <div id="development-map" class="map-container"></div>
@@ -25,7 +25,7 @@ last_modified_at: 2023-03-19T21:06:54
 - In the meantime, some [social media updates are here](https://twitter.com/VJKapur/status/1628513820082679811).
 
 ## Current Status
-There is a hearing scheduled for DOEE enforcement on 5/16/2023.
+There is a hearing scheduled for DOEE enforcement on 5/16/2023. There is an additional case by DCRA/DOB pending judge assignment after the church entered a `deny` plea.
 
 ## In the Media
 Ms. Vicki Moore, whose home is experiencing foundation issues due to the ground disruption, gave an interview for a story by [NBC4 news](https://www.nbcwashington.com/news/local/its-a-mess-mudslide-next-door-threatens-dc-residents-home/3163475/).
