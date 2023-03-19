@@ -8,10 +8,10 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-19T16:07:13
+last_modified_at: 2023-03-19T18:56:47
 notes: footnotes
 ---
-This concerns a future meeting; it should be consider the most up-to-date resource of information about the meeting up until it occurs.
+This concerns a future meeting; it should be considered the most up-to-date resource of information about the meeting up until it occurs.
 {: .notice--warning}
 
 ## tl;dr
@@ -45,7 +45,7 @@ Feel free to reach out if you have suggestions for this agenda!
   - both Commissions approving (with caveat) the BZA case for [2026 Jackson St NE](/issues/2026jackson/)
   - 5B approving the BZA case for [3315 12th St NE](/issues/3315-12th/)
   - 5C approving, with conditions, the [Public Space Committee (DC PSC) application](http://localhost:4000/issues/20230315-5cmeeting/#costco-public-space-application) for a new curb cut into the Costco parking lot
-  - 5B approving and 5C tabling a resolution supporting budget allocation towards bus service improvements and arterial redesign
+  - 5B approving and 5C tabling [a resolution](https://dcgovict-my.sharepoint.com/personal/5c07_anc_dc_gov2/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F5c07%5Fanc%5Fdc%5Fgov2%2FDocuments%2F20230315%20meeting%2FDraft%5FResolution%5F5C%2DReliable%5FBus%5FService%5FStreet%5FSafety%5FImprovements%2Epdf&parent=%2Fpersonal%2F5c07%5Fanc%5Fdc%5Fgov2%2FDocuments%2F20230315%20meeting&ga=1) supporting budget allocation towards bus service improvements and arterial redesign
   - 5B approving a resolution supporting legislation to inventory sidewalk conditions, with 5C hopefully to follow in April
 - An exploration of issues coming down the pike
   - A new Bikeshare station at 24th and Rhode Island Ave NE
@@ -64,7 +64,7 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |social media|I posted this to [Twitter on 3/17](https://twitter.com/anc5c07/status/1636764893755097088), [on Nextdoor on 3/18](https://nextdoor.com/p/-MNdY8nNnCWg?utm_source=share&extras=MjM2NDU5Nw%3D%3D), and [on the Woodridge DC Neighbors Facebook group on 3/18](https://www.facebook.com/groups/woodridgedc/posts/1614887688985004/)|
 |direct email|The 5C07 [March 2023 newsletter](https://mailchi.mp/03ad1c65a72f/anc5c07?e=2c31022c82) dispatched 3/12/2023 around 9pm ET contained mention of this meeting under the top header `Upcoming Meetings`|
 |email listservs|I do not currently make use of email group listservs for meeting notices; if there is one that seems especially relevant to the 5C07 boundaries, please let me know.|
-|[paper flyer](/flyers/)|This meeting is included in my [3/18/2023 dispatch flyer](/assets/documents/flyer-20230318.pdf).|
+|[paper flyer](/flyers/)|This meeting is included in my [3/18/2023 dispatch flyer](/assets/documents/flyer-20230318.pdf), which I [posted to bulletin boards](https://twitter.com/anc5c07/status/1637505422423719936) at Langdon Park and Woodridge Library on 3/19.|
 
 *[BZA]: Board of Zoning Adjustment
 *[DOB]: DC Department of Buildings
