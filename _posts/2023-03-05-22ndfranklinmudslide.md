@@ -12,7 +12,7 @@ categories: active traffic-safety problematic-construction 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-19T21:23:05
+last_modified_at: 2023-03-19T21:26:05
 ---
 <meta name="format-detection" content="telephone=no"/>
 <div id="development-map" class="map-container"></div>
@@ -26,6 +26,8 @@ last_modified_at: 2023-03-19T21:23:05
 
 ## Current Status
 There is a hearing scheduled for DOEE enforcement on 5/16/2023. There is an additional case by DCRA/DOB pending judge assignment after the church entered a `deny` plea.
+
+In response to my own Illegal Construction Inspection request (case number `Z4N-PNN7U`) and subsequent photographic evidence of work being done sent to DOB on 2/22/2023, an additional stop-work order was issued by DOB on 2/23/2023.
 
 ## In the Media
 Ms. Vicki Moore, whose home is experiencing foundation issues due to the ground disruption, gave an interview for a story by [NBC4 news](https://www.nbcwashington.com/news/local/its-a-mess-mudslide-next-door-threatens-dc-residents-home/3163475/).
