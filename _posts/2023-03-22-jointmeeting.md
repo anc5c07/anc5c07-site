@@ -44,9 +44,11 @@ Feel free to reach out if you have suggestions for this agenda!
 - A debrief from Commissioners Piekara and Kapur on the 3/15 5B and [5C](/issues/20230315-5cmeeting/) meetings
   - both Commissions approving (with caveat) the BZA case for [2026 Jackson St NE](/issues/2026jackson/)
   - 5B approving the BZA case for [3315 12th St NE](/issues/3315-12th/)
+  - 5B approving revised plans in the HPRB case for UIP’s Brookland Lanes project
   - 5C approving, with conditions, the [Public Space Committee (DC PSC) application](http://localhost:4000/issues/20230315-5cmeeting/#costco-public-space-application) for a new curb cut into the Costco parking lot
-  - 5B approving and 5C tabling [a resolution](https://dcgovict-my.sharepoint.com/personal/5c07_anc_dc_gov2/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F5c07%5Fanc%5Fdc%5Fgov2%2FDocuments%2F20230315%20meeting%2FDraft%5FResolution%5F5C%2DReliable%5FBus%5FService%5FStreet%5FSafety%5FImprovements%2Epdf&parent=%2Fpersonal%2F5c07%5Fanc%5Fdc%5Fgov2%2FDocuments%2F20230315%20meeting&ga=1) supporting budget allocation towards bus service improvements and arterial redesign
-  - 5B approving a resolution supporting legislation to inventory sidewalk conditions, with 5C hopefully to follow in April
+  - 5B approving [a resolution](https://docs.google.com/file/d/1Z7nMWZn_69E-rzO87vFSC2HH_mWIbatX/edit?usp=docslist_api&filetype=msword) on Councilmember Parker’s transit and traffic safety priorities
+  - 5C tabling [a more limited resolution](https://dcgovict-my.sharepoint.com/personal/5c07_anc_dc_gov2/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F5c07%5Fanc%5Fdc%5Fgov2%2FDocuments%2F20230315%20meeting%2FDraft%5FResolution%5F5C%2DReliable%5FBus%5FService%5FStreet%5FSafety%5FImprovements%2Epdf&parent=%2Fpersonal%2F5c07%5Fanc%5Fdc%5Fgov2%2FDocuments%2F20230315%20meeting&ga=1) supporting Councilmember Parker’s budget priorities for bus service improvements and arterial redesign
+  - 5B approving [a resolution](https://docs.google.com/file/d/1vK3v8JpmoY3hbVuafM6k_MaE4peCRrXb/edit?usp=docslist_api&filetype=msword) supporting legislation to inventory sidewalk conditions, with 5C hopefully to follow in April
 - An exploration of issues coming down the pike
   - A new Bikeshare station at 24th and Rhode Island Ave NE
   - Probable redevelopment of 2001 Rhode Island Ave NE and the push for more retail along the corridor
