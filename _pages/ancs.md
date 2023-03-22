@@ -143,7 +143,7 @@ accordion:
         - voting in the negative (against/no/nay)
       5. **abstentions**: Commissioners present but abstaining from vote/not voting (could be zero)
 
-      Bylaws can possibly restrict present Commissioners from abstaining for certain categories of vote, or from a certain votes from being considered if there are absences. Unless specifics are noted, presume both could occur.
+      Bylaws can possibly restrict present Commissioners from abstaining for certain categories of vote, or restrict certain votes from being considered if there are absences. Unless specifics are noted, presume both abstentions and absences can occur.
   - title: |
       ## majority
     content: |
