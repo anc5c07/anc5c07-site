@@ -29,6 +29,14 @@ feature_row:
     url: "/issues/"
     btn_label: "Issues"
     btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/3000blk-20th-short.jpg
+    alt: "20th St"
+    title: "3/22/2023: 5B06/5C07 Joint SMD meeting"
+    excerpt: "A Joint SMD meeting on many topics"
+    url: "/issues/20230322-jointmeeting/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row0:
   - image_path: /assets/images/20th/looking-south-sanitized-short.jpg
     alt: "20th St"
@@ -56,6 +64,8 @@ feature_row2:
 ---
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row0" type="left" %}
 
