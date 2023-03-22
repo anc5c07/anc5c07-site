@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-21T16:44:57
+last_modified_at: 2023-03-22T00:23:32
 notes: footnotes
 ---
 This concerns a future meeting; it should be considered the most up-to-date resource of information about the meeting up until it occurs.
@@ -63,7 +63,7 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |method|outreach performed|
 |---|---|
 |routine scheduling|This is the second recurring 5B06/5C07 meeting on the month's *fourth Wednesday*; the decision to make these routine was made after the first, but going forward the expectation should exist unless otherwise notified|
-|website|This meeting information page was first posted to this website on 3/12/2023 around 10pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/)|
+|website|This meeting information page was first posted to this website on 3/12/2023 around 10pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/) and from [the 5C website](https://anc-5c.com/calendar/).|
 |social media|I posted this to [Twitter on 3/17](https://twitter.com/anc5c07/status/1636764893755097088), [on Nextdoor on 3/18](https://nextdoor.com/p/-MNdY8nNnCWg?utm_source=share&extras=MjM2NDU5Nw%3D%3D), and [on the Woodridge DC Neighbors Facebook group on 3/18](https://www.facebook.com/groups/woodridgedc/posts/1614887688985004/)|
 |direct email|The 5C07 [March 2023 newsletter](https://mailchi.mp/03ad1c65a72f/anc5c07?e=2c31022c82) dispatched 3/12/2023 around 9pm ET contained mention of this meeting under the top header `Upcoming Meetings`|
 |email listservs|I do not currently make use of email group listservs for meeting notices; if there is one that seems especially relevant to the 5C07 boundaries, please let me know.|
