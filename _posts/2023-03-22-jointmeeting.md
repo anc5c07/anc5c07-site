@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-22T19:37:30
+last_modified_at: 2023-03-22T20:24:35
 notes: footnotes
 ---
 This concerns a future meeting; it should be considered the most up-to-date resource of information about the meeting up until it occurs.
@@ -44,6 +44,7 @@ Feel free to reach out if you have suggestions for this agenda!
 - An exploration of issues coming down the pike
   - A new Bikeshare station at 24th and Rhode Island Ave NE
   - Probable redevelopment of [2001 Rhode Island Ave NE](/issues/2100ria/) and the push for more retail along the corridor
+- Mayor's Office of Community Outreach (MOCR) update
 - Presentation from Hazle Crawford at [Department of Buildings](https://dob.dc.gov/) on [illegal construction](https://dcra.kustomer.help/contact/illegal-construction-inspection-request-form-SJLMTS2PD)
 - An update on the [22nd and Franklin mudslide](/issues/22nd-franklin-mudslide/)
 - An update from Allison Clausen of [Langdon Park Neighbors](http://www.langdonparkneighbors.org) on the [Model Cities/Engine 26 redevelopment proposal](/issues/modelcities/)
