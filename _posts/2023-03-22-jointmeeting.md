@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-22T00:23:32
+last_modified_at: 2023-03-22T19:35:31
 notes: footnotes
 ---
 This concerns a future meeting; it should be considered the most up-to-date resource of information about the meeting up until it occurs.
@@ -55,7 +55,7 @@ Feel free to reach out if you have suggestions for this agenda!
 - Presentation from Hazle Crawford at [Department of Buildings](https://dob.dc.gov/) on [illegal construction](https://dcra.kustomer.help/contact/illegal-construction-inspection-request-form-SJLMTS2PD)
 - An update from Allison Clausen of [Langdon Park Neighbors](http://www.langdonparkneighbors.org) on the [Model Cities/Engine 26 redevelopment proposal](/issues/modelcities/)
 - Presentation from Sherin Koshy at [Friends of South Dakota Ave](https://twitter.com/FoSDANE) on efforts to improve the roadway safety of South Dakota Ave
-- An update on the [22nd and Franklin mudslide](/22nd-franklin-modslide/)
+- An update on the [22nd and Franklin mudslide](/issues/22nd-franklin-mudslide/)
 
 ## Notification History
 I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact avenues on the footer of this webpage.

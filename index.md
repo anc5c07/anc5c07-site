@@ -50,7 +50,7 @@ feature_row1:
     alt: "22nd and Franklin"
     title: "22nd and Franklin mudslide"
     excerpt: "Since early 2021, land-disrupting construction at the church at 22nd and Franklin has led to deteriorating land and sidewalk conditions."
-    url: "/issues/22nd-franklin-modslide/"
+    url: "/issues/22nd-franklin-mudslide/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:

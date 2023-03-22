@@ -1,6 +1,6 @@
 ---
 title: "22nd and Franklin mudslide"
-permalink: /issues/22nd-franklin-modslide/
+permalink: /issues/22nd-franklin-mudslide/
 excerpt: "a church and a mudslide"
 author_profile: false
 header:
@@ -12,7 +12,7 @@ categories: active traffic-safety problematic-construction 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-19T21:38:00
+last_modified_at: 2023-03-22T19:35:31
 ---
 <meta name="format-detection" content="telephone=no"/>
 <div id="development-map" class="map-container"></div>
