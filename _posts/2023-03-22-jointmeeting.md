@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-22T19:35:31
+last_modified_at: 2023-03-22T19:37:30
 notes: footnotes
 ---
 This concerns a future meeting; it should be considered the most up-to-date resource of information about the meeting up until it occurs.
@@ -41,6 +41,13 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 ## Agenda
 Feel free to reach out if you have suggestions for this agenda!
 
+- An exploration of issues coming down the pike
+  - A new Bikeshare station at 24th and Rhode Island Ave NE
+  - Probable redevelopment of [2001 Rhode Island Ave NE](/issues/2100ria/) and the push for more retail along the corridor
+- Presentation from Hazle Crawford at [Department of Buildings](https://dob.dc.gov/) on [illegal construction](https://dcra.kustomer.help/contact/illegal-construction-inspection-request-form-SJLMTS2PD)
+- An update on the [22nd and Franklin mudslide](/issues/22nd-franklin-mudslide/)
+- An update from Allison Clausen of [Langdon Park Neighbors](http://www.langdonparkneighbors.org) on the [Model Cities/Engine 26 redevelopment proposal](/issues/modelcities/)
+- Presentation from Sherin Koshy at [Friends of South Dakota Ave](https://twitter.com/FoSDANE) on efforts to improve the roadway safety of South Dakota Ave
 - A debrief from Commissioners Piekara and Kapur on the 3/15 5B and [5C](/issues/20230315-5cmeeting/) meetings
   - both Commissions approving (with caveat) the BZA case for [2026 Jackson St NE](/issues/2026jackson/)
   - 5B approving the BZA case for [3315 12th St NE](/issues/3315-12th/)
@@ -49,13 +56,6 @@ Feel free to reach out if you have suggestions for this agenda!
   - 5B approving [a resolution](https://docs.google.com/file/d/1Z7nMWZn_69E-rzO87vFSC2HH_mWIbatX/edit?usp=docslist_api&filetype=msword) on Councilmember Parker’s transit and traffic safety priorities
   - 5C tabling [a more limited resolution](https://dcgovict-my.sharepoint.com/personal/5c07_anc_dc_gov2/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F5c07%5Fanc%5Fdc%5Fgov2%2FDocuments%2F20230315%20meeting%2FDraft%5FResolution%5F5C%2DReliable%5FBus%5FService%5FStreet%5FSafety%5FImprovements%2Epdf&parent=%2Fpersonal%2F5c07%5Fanc%5Fdc%5Fgov2%2FDocuments%2F20230315%20meeting&ga=1) supporting Councilmember Parker’s budget priorities for bus service improvements and arterial redesign
   - 5B approving [a resolution](https://docs.google.com/file/d/1vK3v8JpmoY3hbVuafM6k_MaE4peCRrXb/edit?usp=docslist_api&filetype=msword) supporting legislation to inventory sidewalk conditions, with 5C hopefully to follow in April
-- An exploration of issues coming down the pike
-  - A new Bikeshare station at 24th and Rhode Island Ave NE
-  - Probable redevelopment of [2001 Rhode Island Ave NE](/issues/2100ria/) and the push for more retail along the corridor
-- Presentation from Hazle Crawford at [Department of Buildings](https://dob.dc.gov/) on [illegal construction](https://dcra.kustomer.help/contact/illegal-construction-inspection-request-form-SJLMTS2PD)
-- An update from Allison Clausen of [Langdon Park Neighbors](http://www.langdonparkneighbors.org) on the [Model Cities/Engine 26 redevelopment proposal](/issues/modelcities/)
-- Presentation from Sherin Koshy at [Friends of South Dakota Ave](https://twitter.com/FoSDANE) on efforts to improve the roadway safety of South Dakota Ave
-- An update on the [22nd and Franklin mudslide](/issues/22nd-franklin-mudslide/)
 
 ## Notification History
 I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact avenues on the footer of this webpage.
