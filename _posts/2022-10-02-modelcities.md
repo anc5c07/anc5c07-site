@@ -12,7 +12,7 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-10-02T21:12:13
+last_modified_at: 2023-03-23T21:21:05
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
@@ -24,11 +24,11 @@ This project is in 5C02.
 - **The Engine Company 26 building** (1340 Rhode Island Ave NE) is **planned for retirement**; it's no longer the appropriate size or located far east enough to accomodate current population size/distribution
 - **There are multiple options for replacing the firehouse**; including placing [a new one in Fort Lincoln](https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/ATTACHMENT%20A2%20-TECHNICAL%20REQUIREMENTS%20AND%20SUBMITTAL.pdf), or colocating one with Model Cities
 - **The [notional Model Cities/FEMS plan](/issues/modelcities/#langdonwoodridge-e26-plans)** would pave over a considerable amount of forested area in our neighborhood and create a lot of emergency vehicle traffic on our streets, presumably making traffic safety mitigations more difficult
+- **Site selection remains in progress** with a few heavily forested DC-owned parcels under consideration.
 
 ## background
 ### Model Cities
-I still need to collect some information on the history and current uses of Model Cities.
-{: .notice--info}
+This building houses services for seniors.
 
 #### Some sources
 - [official page](https://www.seaburyresources.org/model-cities-senior-wellness-center) at Seabury Resources website
@@ -38,14 +38,11 @@ I still need to collect some information on the history and current uses of Mode
 > Model Cities Senior Wellness Center offers a variety of comprehensive programs, classes and activities designed to educate and promote active and healthy aging for older adults in DC. Free for DC residents 60 years of age and older. Come join us to learn, socialize, and engage in some fun healthy activities!
 
 ### Engine Company 26
-I still need to collect some information on the history on the plans to move Engine Company 26.
-{: .notice--info}
-
 #### Some sources
 - [Wikipedia article](https://en.wikipedia.org/wiki/Engine_Company_26_(Washington,_D.C.)) on Engine Company 26 (interchangeably refers to the FEMS company and the historically preserved building it currently occupies)
 - [DGS project page](https://dgs.dc.gov/event/dcam-19-ae-rfp-0024-architecturalengineering-services-fire-and-emergency-medical-services-fems) containing various RFP elements related to building a new Engine Company 26 facility in Fort Lincoln (though there are also references to Brentwood)
 
-#### My citationless understanding
+#### Background on relocation
 The current E26 building is not large enough to support current population needs. It's also not centrally located enough for the service area, which now includes many new residents/buildings in Fort Lincoln (around the Costco).
 
 [![E26 service area](/assets/images/modelcities/fems-service.png)](/assets/images/modelcities/fems-service.png)
@@ -96,30 +93,22 @@ The agenda item reads as follows:
 > Services c/o Emeka Nwabunwanne - Owner: DC Department of General Services c/o Emeka Nwabunwanne -
 > Paving: Driveway(s) Close Existing, Driveway(s) New- Commercial # 395238
 
-The permit now appears as `Approved Pending Payment` in the TOPS system. You can view it [here](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx?tn=395238), though there are very few details there as well. The permit start date is **1/1/23** and end date is **3/31/23**; it's unclear exactly what the scope of this work is. I'm presuming/hoping this would be related to the existing Model Cities building and not any reconstruction effort, given the timeframe.
-
 [![Langdon FEMS proposal](/assets/images/modelcities/fencing.png)](/assets/images/modelcities/fencing.png)
 <p class="caption">Construction Fencing (taken 10/3/2022)</p>
 
-I will attempt to get more information on this particular application/permit and report back. There is already construction fencing erected at the site.
-
-## Attempts to get further info on active plans
-
-|venue|date|result|
-|---|---|---|
-|email to Emeka Nwabunwanne, DGS Sr. Project Manager listed on permit|10/24/2022|no response yet|
+While the Public Space Committee hearing concerned all three curb cuts in the notional plans, it would appear only one is being built out at this time, as part of an expansion of the Model Cities parking lot. Future use of this authorization will depend on site selection and funding of the Engine 26 relocation project, which remains in progress.
 
 ## The Forest Patch
 Thanks to Allison Clausen and Delores Bushong, Langdon Park Forest Patch volunteers, for helping with the below.
 {: .notice--info}
 The E26 plans would disrupt a forest patch that currently sits in the area.
 
-Unlike the [Langdon Park Forest Patch](https://biologistsoup.wordpress.com/2022/10/04/a-little-more-about-langdon-forest-patch/), which is officially designated and already protected as part of Langdon Park, the patch of forest that these plans would disrupt does not have a name. For now, I'll be using the shorthand **Douglas Street Forest Patch**, after one of the [paper streets](https://wamu.org/story/20/02/17/paper-streets-arent-real-but-they-can-lead-to-big-problems-for-developers/) it covers.
+Unlike the [Langdon Park Forest Patch](https://biologistsoup.wordpress.com/2022/10/04/a-little-more-about-langdon-forest-patch/), which is officially designated and already protected as part of Langdon Park, the patch of forest that these plans would disrupt does not have a name. For now, I'll be using the shorthand **Paper Street Patch**, after the [paper streets](https://wamu.org/story/20/02/17/paper-streets-arent-real-but-they-can-lead-to-big-problems-for-developers/) it covers.
 
 [![Real Property Map](/assets/images/modelcities/plats.png)](/assets/images/modelcities/plats.png)
 <p class="caption">Platted land, snapshotted from DC's <a href="https://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=9a5c11c11dd347cc9c05d64499cc98ee">Real Property Map</a></p>
 
-The Douglas Street Forest Patch covers the entirety of two undeveloped DC-owned plots, part of the plot containing the Model Cities and Office of Aging facilities, and four paper street segments (20th, Douglas, Channing, and Park Ave). The Model Cities building and Office of Aging facilities are to the west, with a shuttle parking facility nestled in the middle of the forest patch. [Langdon Elementary School](https://www.langdonelementaryschool.org/) is across Evarts to the north, and [The Ionia Whipper Home](http://ioniawhipperhome.org/about-us/) (a shelter for families experiencing homelessness) and a few detached houses are around Park Ave to the south.
+The Paper Street Patch covers the entirety of two undeveloped DC-owned plots, part of the plot containing the Model Cities and Office of Aging facilities, and four paper street segments (20th, Douglas, Channing, and Park Ave). The Model Cities building and Office of Aging facilities are to the west, with a shuttle parking facility nestled in the middle of the forest patch. [Langdon Elementary School](https://www.langdonelementaryschool.org/) is across Evarts to the north, and [The Ionia Whipper Home](http://ioniawhipperhome.org/about-us/) (a shelter for families experiencing homelessness) and a few detached houses are around Park Ave to the south.
 
 The forest patch is currently the site of frequent dumping, is minimally maintained, and is surrounded by uninviting No Trespassing/Dumping signs.
 
