@@ -43,7 +43,7 @@ Feel free to reach out if you have suggestions for this agenda!
 
 - An exploration of issues coming down the pike
   - A new Bikeshare station at 24th and Rhode Island Ave NE
-  - Probable redevelopment of [2001 Rhode Island Ave NE](/issues/2100ria/) and the push for more retail along the corridor
+  - Probable redevelopment of [2001 Rhode Island Ave NE](/issues/2001ria/) and the push for more retail along the corridor
 - Mayor's Office of Community Relations and Services (MOCRS) update
 - Presentation from Hazle Crawford at [Department of Buildings](https://dob.dc.gov/) on [illegal construction](https://dcra.kustomer.help/contact/illegal-construction-inspection-request-form-SJLMTS2PD)
 - An update on the [22nd and Franklin mudslide](/issues/22nd-franklin-mudslide/)
