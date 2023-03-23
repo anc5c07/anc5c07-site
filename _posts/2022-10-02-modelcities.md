@@ -12,7 +12,7 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-23T21:21:05
+last_modified_at: 2023-03-23T22:03:03
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
@@ -24,7 +24,8 @@ This project is in 5C02.
 - **The Engine Company 26 building** (1340 Rhode Island Ave NE) is **planned for retirement**; it's no longer the appropriate size or located far east enough to accomodate current population size/distribution
 - **There are multiple options for replacing the firehouse**; including placing [a new one in Fort Lincoln](https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/ATTACHMENT%20A2%20-TECHNICAL%20REQUIREMENTS%20AND%20SUBMITTAL.pdf), or colocating one with Model Cities
 - **The [notional Model Cities/FEMS plan](/issues/modelcities/#langdonwoodridge-e26-plans)** would pave over a considerable amount of forested area in our neighborhood and create a lot of emergency vehicle traffic on our streets, presumably making traffic safety mitigations more difficult
-- **Site selection remains in progress** with a few heavily forested DC-owned parcels under consideration.
+- **Site selection remains in progress** with a two heavily forested DC-owned parcels under consideration and FY24 funding being critical to the trajectory of the project
+- **[You can write a letter](#community-action)** to the relevant Council Committee and Councilmember Parker to advocate that funding go towards sites that don't result in loss of tree canopy or otherwise jeopardize safety in the community.
 
 ## background
 ### Model Cities
@@ -42,7 +43,7 @@ This building houses services for seniors.
 - [Wikipedia article](https://en.wikipedia.org/wiki/Engine_Company_26_(Washington,_D.C.)) on Engine Company 26 (interchangeably refers to the FEMS company and the historically preserved building it currently occupies)
 - [DGS project page](https://dgs.dc.gov/event/dcam-19-ae-rfp-0024-architecturalengineering-services-fire-and-emergency-medical-services-fems) containing various RFP elements related to building a new Engine Company 26 facility in Fort Lincoln (though there are also references to Brentwood)
 
-#### Background on relocation
+#### Current need to relocate
 The current E26 building is not large enough to support current population needs. It's also not centrally located enough for the service area, which now includes many new residents/buildings in Fort Lincoln (around the Costco).
 
 [![E26 service area](/assets/images/modelcities/fems-service.png)](/assets/images/modelcities/fems-service.png)
@@ -81,6 +82,41 @@ We should monitor this situation closely. These are DC Government buildings repl
 
 end of opinion block
 {: .notice--warning}
+
+### Community Action
+Allison Clausen of [Langdon Park Neighbors](http://www.langdonparkneighbors.org) and I drafted this letter; feel free to adapt it or send it as is if you'd like to help preserve our forests:
+
+#### receipients
+Funding decisions for Engine 26 relocation now run through the Council's Committee of the Judiciary and Public Safety, as well as the Council itself. This letter is directed towards the Committee, but should be CCed to our own Ward 5 representative on the council, Councilmember Zachary Parker, and his constituent affairs representatives for our area.
+
+|field|recipient|role|email|
+|To|Councilmember Brooke Pinto|Committee Chairperson|bpinto@dccouncil.gov|
+|To|Councilmember Charles Allen|Committee Member|callen@dccouncil.gov|
+|To|Councilmember Anita Bonds|Committee Member|abonds@dccouncil.gov|
+|To|Councilmember Vincent Gray|Committee Member|vgray@dccouncil.gov|
+|To|Councilmember Christina Henderson|Committee Member|chenderson@dccouncil.gov|
+|To|Michael Porcello|Committee Director|mporcello@dccouncil.gov|
+|To|Aukima Benjamin|Committee and Constituent Services Manager|abenjamin@dccouncil.gov|
+|CC|Councilmember Zachary Parker|Ward 5 Councilmember|zparker@dccouncil.gov|
+|CC|Carlos McKnight|CM Parker's Constituent Services|cmcknight@dccouncil.gov|
+
+#### letter text
+
+> Dear Chairperson Pinto and Members/Staff of the Committee on the Judiciary and Public Safety,
+> 
+> I am writing in regard to the development of a new DC Fire and Emergency Medical Services (DC FEMS) Engine 26 facility in Ward 5. DC FEMS is considering two locations, one in Langdon (at the junction of 20th St, Evarts St, and Queens Chapel Rd NE) and another in Fort Lincoln (adjacent to the Theodore Hagans pool). These sites were chosen following a feasibility study based on improved response time and service. I appreciate FEMS’ commitment to improving emergency services in our community. Unfortunately, both of the proposed locations pose health risks to the same community members Engine 26 seeks to serve.
+> 
+> The two locations are on District-owned land that include forested natural areas. These forests provide a myriad of public health services including: filtering air, water, and noise pollution, lowering air temperature, and absorbing stormwater. Research also shows they can increase learning outcomes at nearby schools, improve community mental health, and motivate physical exercise. As the ward with the highest heat island effect, the most industrial zones, and the most canopy loss, Ward 5’s forested areas play an outsized role. We cannot afford to lose any more forested land in Ward 5.
+> 
+> In addition, the Langdon site is adjacent to an elementary school and senior living facilities; placing a DC FEMS station here would pose a disruption to the peace and a traffic safety hazard in our neighborhood. Emergency vehicle routing is a commonly cited reason by DDOT for not installing traffic calming mitigations, and the stretch of 20th St. adjacent to the proposed site was just subject to a high-speed fatal crash on February 3rd, 2023.
+> 
+> While I do hope the Committee and the Council fund the important work of providing adequate facilities for Engine 26, I ask that:
+funding for FEMS Engine 26 site selection, design, and construction be provisioned with conditions that existing forest canopy will be preserved 
+If needed, additional allowances and funding be made to facilitate site selection on land not already owned by DC, to secure adequate facilities without compromising public health and safety
+> 
+> Very respectfully,
+> (your name)
+
 
 ## 8/25/2022 Public Space Committee hearing
 Some plans related to this project and driveways were summarily approved by the DC Public Space Committee on 8/25/2022, but it's not clear what.
