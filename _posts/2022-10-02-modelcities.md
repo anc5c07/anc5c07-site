@@ -98,7 +98,7 @@ Funding decisions for Engine 26 relocation now run through the Council's Committ
 |To|Michael Porcello|Committee Director|mporcello@dccouncil.gov|
 |To|Aukima Benjamin|Committee and Constituent Services Manager|abenjamin@dccouncil.gov|
 |CC|Councilmember Zachary Parker|Ward 5 Councilmember|zparker@dccouncil.gov|
-|CC|Carlos McKnight|CM Parker's Constituent Services|cmcknight@dccouncil.gov|
+|CC|CM Parker staff|CM Parker's Constituent Services|ward5contact@dccouncil.gov|
 
 #### letter text
 
