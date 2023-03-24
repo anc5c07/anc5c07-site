@@ -84,10 +84,10 @@ end of opinion block
 {: .notice--warning}
 
 ### Community Action
-Allison Clausen of [Langdon Park Neighbors](http://www.langdonparkneighbors.org) and I drafted this letter; feel free to adapt it or send it as is if you'd like to help preserve our forests:
+Allison Clausen of [Langdon Park Neighbors](http://www.langdonparkneighbors.org) and I drafted this letter; feel free to adapt it or send it as is if you'd like to help preserve our forests.
 
 #### recipients
-Funding decisions for Engine 26 relocation now run through the Council's Committee of the Judiciary and Public Safety, as well as the Council itself. This letter is directed towards the Committee, but should be CCed to our own Ward 5 representative on the council, Councilmember Zachary Parker, and his constituent affairs representatives for our area.
+The Mayor released her proposed budget for the fiscal year starting October 2023 and it includes Engine 26 site relocation funding. Additional work on this budget item will now occur in the Council's Committee of the Judiciary and Public Safety, as well as the Council itself. This letter is directed towards the Committee, but should be CCed to our own Ward 5 representative on the council, Councilmember Zachary Parker, and his constituent affairs representatives for our area.
 
 |field|recipient|role|email|
 |To|Councilmember Brooke Pinto|Committee Chairperson|bpinto@dccouncil.gov|
