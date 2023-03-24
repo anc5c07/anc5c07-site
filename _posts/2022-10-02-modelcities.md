@@ -86,7 +86,7 @@ end of opinion block
 ### Community Action
 Allison Clausen of [Langdon Park Neighbors](http://www.langdonparkneighbors.org) and I drafted this letter; feel free to adapt it or send it as is if you'd like to help preserve our forests:
 
-#### receipients
+#### recipients
 Funding decisions for Engine 26 relocation now run through the Council's Committee of the Judiciary and Public Safety, as well as the Council itself. This letter is directed towards the Committee, but should be CCed to our own Ward 5 representative on the council, Councilmember Zachary Parker, and his constituent affairs representatives for our area.
 
 |field|recipient|role|email|
