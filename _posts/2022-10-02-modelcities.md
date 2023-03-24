@@ -12,7 +12,7 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-03-23T22:03:03
+last_modified_at: 2023-03-24T18:59:06
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
@@ -87,7 +87,7 @@ end of opinion block
 Allison Clausen of [Langdon Park Neighbors](http://www.langdonparkneighbors.org) and I drafted this letter; feel free to adapt it or send it as is if you'd like to help preserve our forests.
 
 #### recipients
-The Mayor released her proposed budget for the fiscal year starting October 2023 and it includes Engine 26 site relocation funding. Additional work on this budget item will now occur in the Council's Committee of the Judiciary and Public Safety, as well as the Council itself. This letter is directed towards the Committee, but should be CCed to our own Ward 5 representative on the council, Councilmember Zachary Parker, and his constituent affairs representatives for our area.
+The Mayor released her proposed budget for the fiscal year starting October 2023 and it includes Engine 26 site relocation funding. Additional work on this budget item will now occur in the Council's Committee of the Judiciary and Public Safety, as well as the Council itself. This letter is directed towards the Committee, but can be CCed to our own Ward 5 representative on the Council, Councilmember Zachary Parker and his staff.
 
 |field|recipient|role|email|
 |To|Councilmember Brooke Pinto|Committee Chairperson|bpinto@dccouncil.gov|
