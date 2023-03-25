@@ -8,10 +8,12 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[20th St construction](/assets/images/3000blk-20th.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-03-23T22:10:14
+last_modified_at: 2023-03-25T23:47:52
 notes: footnotes
 ---
 <iframe src="https://dcgovict-my.sharepoint.com/personal/5c07_anc_dc_gov2/_layouts/15/embed.aspx?UniqueId=a098b796-e8b9-4045-acb9-3a619d76144c&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="100%" height="360" frameborder="0" scrolling="no" allowfullscreen title="5B06_5C07 Joint SMD Meeting-20230322_190340-Meeting Recording.mp4"></iframe>
+
+If the above isn't viewable, you can also [click here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EZa3mKC56EVArLk6YZ12FEwB7JBSaL0rpVOPxwnrFTNa1A).
 
 ## tl;dr
 - Our **monthly hybrid** (in-person and virtual) **joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
