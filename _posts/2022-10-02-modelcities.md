@@ -95,6 +95,7 @@ The Mayor released her proposed budget for the fiscal year starting October 2023
 |To|Councilmember Anita Bonds|Committee Member|abonds@dccouncil.gov|
 |To|Councilmember Vincent Gray|Committee Member|vgray@dccouncil.gov|
 |To|Councilmember Christina Henderson|Committee Member|chenderson@dccouncil.gov|
+|To|Committee staff|Committee general inbox|judiciary@dccouncil.gov|
 |To|Michael Porcello|Committee Director|mporcello@dccouncil.gov|
 |To|Aukima Benjamin|Committee and Constituent Services Manager|abenjamin@dccouncil.gov|
 |CC|Councilmember Zachary Parker|Ward 5 Councilmember|zparker@dccouncil.gov|
