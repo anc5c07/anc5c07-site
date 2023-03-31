@@ -1,0 +1,23 @@
+---
+permalink: /act/
+title: "Do Something"
+excerpt: "A one-stop shop for Civic Action"
+header:
+  overlay_image: /assets/images/notime.jpg
+  overlay_filter: rgba(127, 127, 127, 0.5)
+  caption: "[No Time](/assets/images/notime.jpg)"
+layout: single
+---
+## Do Something
+I try to incorporate chances to agitate to targeted decisionmakers (or their public-facing staff) for any pressing issues we're facing as a community. Here are some things you can take action on right now. Any of these action items can also be turned into a petition if you want to grab even more support quickly from neighbors.
+
+|act on|if you care about|
+|---|---|
+|[20th St traffic safety](/issues/20thst/#community-action)|traffic safety in our neighborhood|
+|[2026 Jackson St NE](/issues/2026jackson/#community-action)|more retail spaces on RIA|
+|[Engine 26 relocation](/issues/modelcities/#community-action)|protecting our forest/natural spaces|
+
+#### tips for a good letter
+- **Be respectful;** use honorifics instead of first names, and thank folks for their service no matter how you may feel about it
+- **Be specific;** always use (and bold) specific Service Request/Work Order numbers to avoid adding a layer of research to follow-through
+- **Add emotion/color** in the form of your experiences (but don't lose the thread on the specific action being advocated for)
