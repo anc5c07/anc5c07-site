@@ -112,8 +112,8 @@ The Mayor released her proposed budget for the fiscal year starting October 2023
 > In addition, the Langdon site is adjacent to an elementary school and senior living facilities; placing a DC FEMS station here would pose a disruption to the peace and a traffic safety hazard in our neighborhood. Emergency vehicle routing is a commonly cited reason by DDOT for not installing traffic calming mitigations, and the stretch of 20th St. adjacent to the proposed site was just subject to a high-speed fatal crash on February 3rd, 2023.
 > 
 > While I do hope the Committee and the Council fund the important work of providing adequate facilities for Engine 26, I ask that:
-funding for FEMS Engine 26 site selection, design, and construction be provisioned with conditions that existing forest canopy will be preserved 
-If needed, additional allowances and funding be made to facilitate site selection on land not already owned by DC, to secure adequate facilities without compromising public health and safety
+> - funding for FEMS Engine 26 site selection, design, and construction be provisioned with conditions that existing forest canopy will be preserved 
+> - If needed, additional allowances and funding be made to facilitate site selection on land not already owned by DC, to secure adequate facilities without compromising public health and safety
 > 
 > Very respectfully,
 > (your name)
