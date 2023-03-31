@@ -8,7 +8,6 @@ header:
   caption: "[No Time](/assets/images/notime.jpg)"
 layout: single
 ---
-## Do Something
 I try to incorporate chances to agitate to targeted decisionmakers (or their public-facing staff) for any pressing issues we're facing as a community. Here are some things you can take action on right now. Any of these action items can also be turned into a petition if you want to grab even more support quickly from neighbors.
 
 |act on|if you care about|
