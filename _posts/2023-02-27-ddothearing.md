@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[original rec center crosswalk](/assets/images/20th/original-rec-crosswalk.jpg)"
 categories: council-matters traffic-safety
-last_modified_at: 2023-03-12T18:39:36
+last_modified_at: 2023-04-12T21:53:59
 notes: footnotes
 ---
 
@@ -31,7 +31,7 @@ You can watch my testimony [on Youtube here](https://www.youtube.com/watch?v=-hZ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-hZZM4UDzlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### written
-You can see my formal submission [in PDF form here](/assets/documents/Kapur%20DDOT%20testimony.pdf).
+You can see my formal submission [in PDF form here](/assets/documents/2023-02-27%20Kapur%20DDOT%20performance%20testimony.pdf).
 
 #### text
 Chairperson Allen and members of the Committee:
