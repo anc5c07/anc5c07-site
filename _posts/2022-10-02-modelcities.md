@@ -12,7 +12,7 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-04-17T11:13:08
+last_modified_at: 2023-04-17T11:17:28
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
@@ -26,8 +26,8 @@ This project is in 5C02.
 - **The [notional Model Cities/FEMS plan](/issues/modelcities/#langdonwoodridge-e26-plans)** would pave over a considerable amount of forested area in our neighborhood and create a lot of emergency vehicle traffic on our streets, presumably making traffic safety mitigations more difficult
 - **Site selection remains in progress** with a two heavily forested DC-owned parcels under consideration and FY24 funding being critical to the trajectory of the project
 - **[You can write a letter](#community-action)** to the relevant Council Committee and Councilmember Parker to advocate that funding go towards sites that don't result in loss of tree canopy or otherwise jeopardize safety in the community.
-- This topic was discussed heavily in the [Council committee hearing on the FEMS budget](https://dc.granicus.com/MediaPlayer.php?view_id=28&clip_id=8196); the Mayor's budget proposal contains $3.5M for Engine 26 site selection and acquisition, a price likely too low for what many would consider an acceptable site that does not do inadvertent harm to public safety
-- Allison Clausen of the Langdon Park Tree Stewards [testified verbally (and written)](/assets/documents/2023-03-29%20Clausen%20FEMS%20budget%20testimony.pdf) primarily on the ecological impacts; [I submitted written testimony](/assets/documents/2023-03-29%20Kapur%20FEMS%20budget%20testimony.pdf) primarily on the traffic safety impacts.
+- **This topic was discussed heavily in the [Council committee hearing on the FEMS budget](https://dc.granicus.com/MediaPlayer.php?view_id=28&clip_id=8196);** the Mayor's budget proposal contains $3.5M for Engine 26 site selection and acquisition, a price likely too low for what many would consider an acceptable site that does not do inadvertent harm to public safety
+- **Allison Clausen of the Langdon Park Tree Stewards [testified verbally (and written)](/assets/documents/2023-03-29%20Clausen%20FEMS%20budget%20testimony.pdf)** primarily on the ecological impacts and was the only public witness testifying verbally at this hearing; [I submitted written testimony](/assets/documents/2023-03-29%20Kapur%20FEMS%20budget%20testimony.pdf) primarily on the traffic safety impacts.
 
 ## background
 ### Model Cities
