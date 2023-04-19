@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-17T21:16:48
+last_modified_at: 2023-04-19T20:41:45
 notes: footnotes
 ---
 ## tl;dr
@@ -47,7 +47,34 @@ Feel free to reach out if you have suggestions for this agenda!
 - Community updates
 - A presentation by [Aurora Market](https://auroramarket.biz/) on their new lease of 2006 Rhode Island Ave NE (formerly Good Foods Market) and alcohol licensing matters
 - A discussion (and hopefully presentation) from Xscape Lounge on their plans for 1812 Hamlin St NE (formerly SIP/1812 Lounge)
+- A presentation on the 1800 Hamlin St NE development
 - A debrief from Commissioner Kapur on the 4/19 [5C](/issues/20230419-5cmeeting/) meeting (5B is on recess this month)
+
+## 1800 Hamlin St NE (Pleasant Grove Baptist Church)
+This project was previously briefed to a 5C07 Single-Member District on July 13th, 2022 ([video](https://dcnet.webex.com/webappng/sites/dcnet/recording/6ce78429e525103abbff005056813512/playback)).
+
+[![rendering from the north](/assets/images/1800hamlin/rendering-north.jpg)](/assets/images/1800hamlin/rendering-north.jpg)
+<p class="caption">Rendering from the north, showing the church space in front</p>
+
+At that time, the plan was for
+- 66 rental homes
+- with around 90% Affordable (income-restricted) (AMI mix to be decided)
+- and a two-story church space (with no homes above it) on the north end of the lot
+
+They were seeking a voluntary [Design Review](https://dcoz.dc.gov/page/design-review) case with the Zoning Commission, all together seeking:
+- a little more height in areas of the building
+- variance on loading zone requirements
+- variance on minimum off-street parking requirements
+
+The latter two variances above could be done through a Board of Zoning Adjustment (BZA) case, but can also be rolled into a single case through the Design Review process. The taller height (presumably acheived through some averaging of allowable height for the zone) requires a Design Review (or could otherwise require a more substantial ZC case, such as a Map Amendment).
+
+The limiting factors cited for the loading zone and parking relief were the lot size and shape, and the desire to make the building more transit- and pedestrian-friendly.
+
+[![rendering from the south](/assets/images/1800hamlin/rendering-south.jpg)](/assets/images/1800hamlin/rendering-south.jpg)
+<p class="caption">Rendering from the south, showing residences as presented in July 2022</p>
+
+[![overhead map](/assets/images/1800hamlin/overhead-map.jpg)](/assets/images/1800hamlin/overhead-map.jpg)
+<p class="caption">overhead diagram of the building as presented in July 2022</p>
 
 ## Notification History
 I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact avenues on the footer of this webpage.
