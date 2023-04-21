@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-21T09:15:12
+last_modified_at: 2023-04-21T09:20:02
 notes: footnotes
 ---
 ## tl;dr
@@ -82,9 +82,9 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |method|outreach performed|
 |---|---|
 |routine scheduling|This is the third recurring 5B06/5C07 meeting on the month's *fourth Wednesday*; meetings on this date and time should be expected|
-|website|This meeting information page was first posted to this website on 3/17/2023 around 5pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/) and from [the 5C website](https://anc-5c.com/calendar/).|
+|website|This meeting information page was first posted to this website on 4/17/2023 around 5pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/) and from [the 5C website](https://anc-5c.com/calendar/).|
 |social media|none yet; but I'll post to Nextdoor, Twitter, and Facebook groups|
-|direct email|The pending 5C07 April newsletters will feature this meeting under the top header `Upcoming Meetings`|
+|direct email|The 5C07 [April 2023 newsletter](https://mailchi.mp/f117d1195555/anc5c07-5810999?e=2c31022c82) dispatched 4/17/2023 around 9:45pm ET contained mention of this meeting under the top header `Upcoming Meetings`|
 |email listservs|I do not currently make use of email group listservs for meeting notices; if there is one that seems especially relevant to the 5C07 boundaries, please let me know.|
 |[paper flyer](/flyers/)|This meeting is included in my [4/20/2023 dispatch flyer](/assets/documents/flyer-20230420.pdf).|
 
