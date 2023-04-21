@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-21T08:55:34
+last_modified_at: 2023-04-21T09:15:12
 notes: footnotes
 ---
 ## tl;dr
@@ -86,7 +86,7 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |social media|none yet; but I'll post to Nextdoor, Twitter, and Facebook groups|
 |direct email|The pending 5C07 April newsletters will feature this meeting under the top header `Upcoming Meetings`|
 |email listservs|I do not currently make use of email group listservs for meeting notices; if there is one that seems especially relevant to the 5C07 boundaries, please let me know.|
-|[paper flyer](/flyers/)|This meeting will be included in my pending April dispatch flyer|
+|[paper flyer](/flyers/)|This meeting is included in my [4/20/2023 dispatch flyer](/assets/documents/flyer-20230420.pdf).|
 
 *[ABCA]: DC Alcoholic Beverage and Cannabis Administration (formerly ABRA)
 *[SMD]: Single-Member District
