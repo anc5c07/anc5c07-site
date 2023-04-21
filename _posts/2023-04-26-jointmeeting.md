@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-19T20:41:45
+last_modified_at: 2023-04-21T03:04:23
 notes: footnotes
 ---
 ## tl;dr
@@ -46,7 +46,7 @@ Feel free to reach out if you have suggestions for this agenda!
 
 - Community updates
 - A presentation by [Aurora Market](https://auroramarket.biz/) on their new lease of 2006 Rhode Island Ave NE (formerly Good Foods Market) and alcohol licensing matters
-- A discussion (and hopefully presentation) from Xscape Lounge on their plans for 1812 Hamlin St NE (formerly SIP/1812 Lounge)
+- A presentation from Xscape Restaurant Lounge on their plans for 1812 Hamlin St NE (formerly SIP/1812 Lounge)
 - A presentation on the 1800 Hamlin St NE development
 - A debrief from Commissioner Kapur on the 4/19 [5C](/issues/20230419-5cmeeting/) meeting (5B is on recess this month)
 
