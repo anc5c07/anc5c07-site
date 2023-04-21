@@ -8,12 +8,12 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-21T03:04:23
+last_modified_at: 2023-04-21T08:55:34
 notes: footnotes
 ---
 ## tl;dr
 - Our **monthly hybrid** (in-person and virtual) **joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
-- **We'll have presentations** from **the Commissioners**, **Aurora Market**, and possibly **Xscape Lounge**
+- **We'll have presentations** from **the Commissioners**, **Aurora Market**, **Xscape Restaurant Lounge**, and the developers of **1800 Hamlin St NE**
 - Any other community updates or suggestions welcome
 
 ## Background
