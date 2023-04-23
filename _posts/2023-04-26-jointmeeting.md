@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-23T14:22:41
+last_modified_at: 2023-04-23T14:31:58
 notes: footnotes
 ---
 ## tl;dr
@@ -57,7 +57,7 @@ Aurora Market is a neighborhood grocer and event space planning to open on May 3
 [![Aurora Market setting up!](/assets/images/aurora/setting-up.jpg)](/assets/images/aurora/setting-up.jpg)
 <p class="caption">Aurora Market setting up!</p>
 
-They are seeking a Class B Retail license (to sell alcohol as part of grocery operations) and a Class C Tavern license (to serve alcohol in the basement event space). I'll post the ABCA placard here once it's posted. Aurora Market has voluntarily offered their existing [Settlement Agreement](https://abca.dc.gov/page/settlement-agreements) (SA) as a template ([it can be read here](https://abca.dc.gov/sites/default/files/dc/sites/abra/publication/attachments/500%20Irving%20Street%20NW%20-%203%201%202023.pdf)), and is also seeking approval for a [Stipulated License](https://abca.dc.gov/page/stipulated-licenses) (SL) to begin operating with ANC approval before they have their final licensing.
+They are seeking a Class B Retail license (to sell alcohol as part of grocery operations) and a Class C Tavern license (to serve alcohol in the basement event space). I'll share the ABCA placard here once it's posted. Aurora Market has voluntarily offered their existing [Settlement Agreement](https://abca.dc.gov/page/settlement-agreements) (SA) as a template ([it can be read here](https://abca.dc.gov/sites/default/files/dc/sites/abra/publication/attachments/500%20Irving%20Street%20NW%20-%203%201%202023.pdf)), and is also seeking approval for a [Stipulated License](https://abca.dc.gov/page/stipulated-licenses) (SL) to begin operating with ANC approval before they have their final licensing.
 
 ### ABCA/ANC processes
 An alcohol license [can be protested](https://abca.dc.gov/page/license-protests) by:
