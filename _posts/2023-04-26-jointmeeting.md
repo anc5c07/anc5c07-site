@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-23T14:49:46
+last_modified_at: 2023-04-23T15:28:45
 notes: footnotes
 ---
 ## tl;dr
@@ -52,7 +52,7 @@ Feel free to reach out if you have suggestions for this agenda!
 - A debrief from Commissioner Kapur on the 4/19 [5C](/issues/20230419-5cmeeting/) meeting (5B is on recess this month)
 
 ## Aurora Market
-Aurora Market is a neighborhood grocer and event space planning to open on May 3rd in the old Good Food Market space (2006 Rhode Island Ave NE). The owners are nearby neighbors, and already operate one location in Park View (500 Irving St NW).
+Aurora Market is a neighborhood grocer and event space planning to soft-open on May 6th in the old Good Food Market space (2006 Rhode Island Ave NE) with a Grand Opening on June 3rd. The owners are nearby neighbors, and already operate one location in Park View (500 Irving St NW).
 
 [![Aurora Market setting up!](/assets/images/aurora/setting-up.jpg)](/assets/images/aurora/setting-up.jpg)
 <p class="caption">Aurora Market setting up!</p>
