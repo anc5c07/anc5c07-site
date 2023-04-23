@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-23T14:31:58
+last_modified_at: 2023-04-23T14:49:46
 notes: footnotes
 ---
 ## tl;dr
@@ -71,7 +71,7 @@ Interplay of events in the case of a Stipulated License and voluntary Settlement
 - If a protest by one of the above parties with standing is entered, the business can no longer operate on the Stipulated License.
 - Once a Settlement Agreement is approved by "an" affected ANC, that last category of residents is no longer eligible to protest.
 
-It is likely that the both the SL and SA will be approved by 5B and the SA by 5C on 5/17. Aurora Market should be able to operate as a grocer without active alcohol operations throughout this process, though there can certainly be business challenges associated with the lack of some business functions/revenue related to alcohol.
+It is likely that both the SL and SA will be approved by 5B and the SA by 5C on 5/17. Aurora Market should be able to operate as a grocer without active alcohol operations throughout this process, though there can certainly be business challenges associated with the lack of some business functions/revenue related to alcohol.
 
 ### Placard details
 This placard hasn't posted yet.
@@ -95,8 +95,8 @@ The protest deadline for this application is **5/22/2023**; absent a deferral or
 #### Hours:
 rephrasing for clarity:
 - **7 days/week, 10am-1am:** consumption inside and on patio, live entertainment inside only, and carry-out/delivery
-- **7 days/week, 1am-2am:** all of the above but carry-out/delivery
-- **Fri/Sat, 2am-3am:** an additional hour of all of the above but carry-out/delivery
+- **7 days/week, 1am-2am:** all of the above except carry-out/delivery
+- **Fri/Sat, 2am-3am:** an additional hour of all of the above except carry-out/delivery
 
 [![full placard](/assets/images/xscape/placard.png)](/assets/images/xscape/placard.png)
 <p class="caption">full placard as electronically noticed to the ANCs and civic group</p>
