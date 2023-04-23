@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-23T14:18:52
+last_modified_at: 2023-04-23T14:22:41
 notes: footnotes
 ---
 ## tl;dr
@@ -21,6 +21,7 @@ notes: footnotes
 
 Single-Member District meetings are:
 - optional outreach efforts by Commissioners
+- per cultural norms, a precondition to bring official actions to 5B and 5C
 - a chance to discuss issues with their immediate constituents
 - not a venue for any official actions
 - more common in some parts of DC than others
