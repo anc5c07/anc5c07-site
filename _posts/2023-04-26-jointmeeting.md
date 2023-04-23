@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-23T15:28:45
+last_modified_at: 2023-04-23T16:26:03
 notes: footnotes
 ---
 ## tl;dr
@@ -71,7 +71,7 @@ Interplay of events in the case of a Stipulated License and voluntary Settlement
 - If a protest by one of the above parties with standing is entered, the business can no longer operate on the Stipulated License.
 - Once a Settlement Agreement is approved by "an" affected ANC, that last category of residents is no longer eligible to protest.
 
-It is likely that both the SL and SA will be approved by 5B and the SA by 5C on 5/17. Aurora Market should be able to operate as a grocer without active alcohol operations throughout this process, though there can certainly be business challenges associated with the lack of some business functions/revenue related to alcohol.
+It is likely that both the SL and SA will be voted on by 5B on 5/17, and that 5C will likely vote on the SA that same evening. Aurora Market should be able to operate as a grocer without active alcohol operations throughout this process, though there can certainly be business challenges associated with the lack of some business functions/revenue related to alcohol.
 
 ### Placard details
 This placard hasn't posted yet.
@@ -117,7 +117,7 @@ They were seeking a voluntary [Design Review](https://dcoz.dc.gov/page/design-re
 - variance on loading zone requirements
 - variance on minimum off-street parking requirements
 
-The latter two variances above could be done through a Board of Zoning Adjustment (BZA) case, but can also be rolled into a single case through the Design Review process. The taller height (presumably acheived through some averaging of allowable height for the zone) requires a Design Review (or could otherwise require a more substantial ZC case, such as a Map Amendment).
+The latter two variances above could be done through a Board of Zoning Adjustment (BZA) case, but can also be rolled into a single case through the Design Review process. The taller height (presumably justified through some averaging of allowable height for the zone) requires a Design Review (or could otherwise require a more substantial ZC case, such as a Map Amendment).
 
 The limiting factors cited for the loading zone and parking relief were the lot size and shape, and the desire to make the building more transit- and pedestrian-friendly.
 
