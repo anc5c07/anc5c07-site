@@ -30,11 +30,11 @@ feature_row:
     btn_label: "Issues"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/3000blk-20th-short.jpg
-    alt: "20th St"
-    title: "3/22/2023: 5B06/5C07 Joint SMD meeting"
-    excerpt: "A Joint SMD meeting on many topics"
-    url: "/issues/20230322-jointmeeting/"
+  - image_path: /assets/images/gfm-emptying-short.jpg
+    alt: "GFM emptying"
+    title: "4/26/2023: 5B06/5C07 Joint SMD meeting"
+    excerpt: "two alcohol and one zoning cases"
+    url: "/issues/20230426-jointmeeting/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row0:
