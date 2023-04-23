@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-21T09:20:02
+last_modified_at: 2023-04-23T14:18:52
 notes: footnotes
 ---
 ## tl;dr
@@ -50,6 +50,56 @@ Feel free to reach out if you have suggestions for this agenda!
 - A presentation on the 1800 Hamlin St NE development
 - A debrief from Commissioner Kapur on the 4/19 [5C](/issues/20230419-5cmeeting/) meeting (5B is on recess this month)
 
+## Aurora Market
+Aurora Market is a neighborhood grocer and event space planning to open on May 3rd in the old Good Food Market space (2006 Rhode Island Ave NE). The owners are nearby neighbors, and already operate one location in Park View (500 Irving St NW).
+
+[![Aurora Market setting up!](/assets/images/aurora/setting-up.jpg)](/assets/images/aurora/setting-up.jpg)
+<p class="caption">Aurora Market setting up!</p>
+
+They are seeking a Class B Retail license (to sell alcohol as part of grocery operations) and a Class C Tavern license (to serve alcohol in the basement event space). I'll post the ABCA placard here once it's posted. Aurora Market has voluntarily offered their existing [Settlement Agreement](https://abca.dc.gov/page/settlement-agreements) (SA) as a template ([it can be read here](https://abca.dc.gov/sites/default/files/dc/sites/abra/publication/attachments/500%20Irving%20Street%20NW%20-%203%201%202023.pdf)), and is also seeking approval for a [Stipulated License](https://abca.dc.gov/page/stipulated-licenses) (SL) to begin operating with ANC approval before they have their final licensing.
+
+### ABCA/ANC processes
+An alcohol license [can be protested](https://abca.dc.gov/page/license-protests) by:
+- "an affected ANC" (in this case, 5B for sure and probably also 5C. Seeking clarity.)
+- a duly registered civic group covering the area
+- an adjacent property owner
+- a group of no fewer than five nearby residents
+
+Interplay of events in the case of a Stipulated License and voluntary Settlement Agreement:
+- Once a stipulated license is approved by "the" affected ANC (presumably only 5B; seeking clarity), the business can begin licensed operations.
+- If a protest by one of the above parties with standing is entered, the business can no longer operate on the Stipulated License.
+- Once a Settlement Agreement is approved by "an" affected ANC, that last category of residents is no longer eligible to protest.
+
+It is likely that the both the SL and SA will be approved by 5B and the SA by 5C on 5/17. Aurora Market should be able to operate as a grocer without active alcohol operations throughout this process, though there can certainly be business challenges associated with the lack of some business functions/revenue related to alcohol.
+
+### Placard details
+This placard hasn't posted yet.
+
+## Xscape Restaurant and Lounge
+Xscape Restaurant and Lounge is planning to open in the old SIP/1812 Lounge space (1812 Hamlin St NE, the space on the left that shares an address with Rhode Island Ave Liquors to the right).
+
+I am well-aware of the long history of problems with the previous occupants of this space. I've confirmed with the owner that she has no personal or financial relationship to the old businesses that occupied this space whatsoever. She is hoping to substantially renovate the space as well.
+
+### ABCA/ANC processes
+It's still unclear whether Xscape is seeking a Stipulated License or a voluntary Settlement Agreement, but we'll be working with the owner on these details. If seeking both, the process would look like Aurora Market's above.
+
+The protest deadline for this application is **5/22/2023**; absent a deferral or a special meeting, any actions on this will need to be taken at **the 5/17 regular meetings**.
+
+### Placard details
+[![posted placard on the building](/assets/images/xscape/posted-placard.jpg)](/assets/images/xscape/posted-placard.jpg)
+<p class="caption">placard as posted on the building</p>
+#### Nature of Operation
+> The Establishment will be a Tavern serving tapas fusion cuisine. Total Occupancy Load is 99 with seating for 60. Sidewalk Café with 10 seats. The licensee is requesting an Entertainment Endorsement with Dancing and Cover Charge to provide live entertainment inside of premises only. Carry-out and Delivery Endorsement and Holiday Extension of Hours Endorsement.
+
+#### Hours:
+rephrasing for clarity:
+- **7 days/week, 10am-1am:** consumption inside and on patio, live entertainment inside only, and carry-out/delivery
+- **7 days/week, 1am-2am:** all of the above but carry-out/delivery
+- **Fri/Sat, 2am-3am:** an additional hour of all of the above but carry-out/delivery
+
+[![full placard](/assets/images/xscape/placard.png)](/assets/images/xscape/placard.png)
+<p class="caption">full placard as electronically noticed to the ANCs and civic group</p>
+
 ## 1800 Hamlin St NE (Pleasant Grove Baptist Church)
 This project was previously briefed to a 5C07 Single-Member District on July 13th, 2022 ([video](https://dcnet.webex.com/webappng/sites/dcnet/recording/6ce78429e525103abbff005056813512/playback)).
 
@@ -83,7 +133,7 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |---|---|
 |routine scheduling|This is the third recurring 5B06/5C07 meeting on the month's *fourth Wednesday*; meetings on this date and time should be expected|
 |website|This meeting information page was first posted to this website on 4/17/2023 around 5pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/) and from [the 5C website](https://anc-5c.com/calendar/).|
-|social media|none yet; but I'll post to Nextdoor, Twitter, and Facebook groups|
+|social media|On the morning of 4/23, I posted about this to [Twitter](https://twitter.com/anc5c07/status/1650126053224902658), [Nextdoor](https://nextdoor.com/p/m3wbfC8rwjjR), and Facebook groups [Woodridge DC Neighbors](https://www.facebook.com/groups/woodridgedc/posts/1634677150339391/) and [Brookland DC](https://www.facebook.com/groups/brookand/posts/10159806951134121/)|
 |direct email|The 5C07 [April 2023 newsletter](https://mailchi.mp/f117d1195555/anc5c07-5810999?e=2c31022c82) dispatched 4/17/2023 around 9:45pm ET contained mention of this meeting under the top header `Upcoming Meetings`|
 |email listservs|I do not currently make use of email group listservs for meeting notices; if there is one that seems especially relevant to the 5C07 boundaries, please let me know.|
 |[paper flyer](/flyers/)|This meeting is included in my [4/20/2023 dispatch flyer](/assets/documents/flyer-20230420.pdf).|
