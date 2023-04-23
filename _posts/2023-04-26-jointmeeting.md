@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-23T16:26:03
+last_modified_at: 2023-04-23T16:49:07
 notes: footnotes
 ---
 ## tl;dr
@@ -17,6 +17,9 @@ notes: footnotes
 - Any other community updates or suggestions welcome
 
 ## Background
+If these terms are confusing and/or you don't know if you live in 5B06 or 5C07, [visit the FAQ](/ancs/) or [the OpenANC map](https://openanc.org).
+{: .notice--warning}
+
 **This is a joint meeting of SMDs 5B06 and 5C07** to be held on **3/22/2023** starting at 7pm. **The meeting will be hybrid;** in person at Woodridge Library and virtually over Microsoft Teams.
 
 Single-Member District meetings are:
