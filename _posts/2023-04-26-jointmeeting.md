@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-26T14:23:31
+last_modified_at: 2023-04-26T19:53:26
 notes: footnotes
 ---
 ## tl;dr
@@ -50,6 +50,10 @@ Feel free to reach out if you have suggestions for this agenda! Due to the infor
 
 - Community updates
   - Langdon Park Neighbors intro and kickoff event details
+  - WMATA's [Better Bus Network Redesign](https://wmata.com/initiatives/plans/Better-Bus/index.cfm) reimagines our bus service for modern needs; folks can give feedback on some new notional lines serving our area, like:
+    - [DC214](https://betterbus.wmata.com/downloads/routes/DC214_EN.pdf) (24-hour Fort Lincoln/SDA/RIA/downtown line)
+    - [DC208](https://betterbus.wmata.com/downloads/routes/DC208_EN.pdf) (all-day Fort Totten/Ivy City/Union Market/Union Station line)
+    - carrying forward of many other lines: H6 becomes DC212, all four running RIA routes get new names
 - A presentation by [Aurora Market](https://auroramarket.biz/) on their new lease of 2006 Rhode Island Ave NE (formerly Good Foods Market) and alcohol licensing matters
 - A presentation from Xscape Restaurant Lounge on their plans for 1812 Hamlin St NE (formerly SIP/1812 Lounge)
 - A presentation on the 1800 Hamlin St NE development
