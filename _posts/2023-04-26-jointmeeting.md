@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-26T14:16:05
+last_modified_at: 2023-04-26T14:23:31
 notes: footnotes
 ---
 ## tl;dr
@@ -45,8 +45,8 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 - +1 206-420-0854,,955959030# (United States, Seattle)
 - **Phone Conference ID:** 955 959 030#
 
-## Draft Agenda
-Feel free to reach out if you have suggestions for this agenda!
+## Agenda
+Feel free to reach out if you have suggestions for this agenda! Due to the informal nature of of SMD meetings, this agenda is flexible and may change anytime.
 
 - Community updates
   - Langdon Park Neighbors intro and kickoff event details
