@@ -8,10 +8,10 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-28T06:01:40
+last_modified_at: 2023-04-28T11:42:44
 notes: footnotes
 ---
-This meeting has occurred; [video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EbSlerJliHVPsrKGaCkN1V4BRJ_01cwfa4hxfD2TOu3YbA?e=oJdEKL)
+This meeting has occurred; you can see the [video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EbSlerJliHVPsrKGaCkN1V4BRJ_01cwfa4hxfD2TOu3YbA?e=oJdEKL).
 {: .notice--warning}
 
 ## tl;dr
@@ -59,7 +59,7 @@ Feel free to reach out if you have suggestions for this agenda! Due to the infor
     - carrying forward of many other lines: H6 becomes DC212, all four running RIA routes get new names
 - A presentation by [Aurora Market](https://auroramarket.biz/) on their new lease of 2006 Rhode Island Ave NE (formerly Good Foods Market) and alcohol licensing matters
 - A presentation from Xscape Restaurant Lounge on their plans for 1812 Hamlin St NE (formerly SIP/1812 Lounge)
-- A presentation on the 1800 Hamlin St NE development
+- A presentation on the [1800 Hamlin St NE](/issues/1800hamlin/) development
 - A debrief from Commissioner Kapur on the 4/19 [5C](/issues/20230419-5cmeeting/) meeting (5B is on recess this month)
 
 ## Aurora Market
@@ -115,7 +115,7 @@ rephrasing for clarity:
 ## 1800 Hamlin St NE (Pleasant Grove Baptist Church)
 This project was previously briefed to a 5C07 Single-Member District on July 13th, 2022 ([video](https://dcnet.webex.com/webappng/sites/dcnet/recording/6ce78429e525103abbff005056813512/playback)).
 
-[![rendering from the north](/assets/images/1800hamlin/rendering-north.jpg)](/assets/images/1800hamlin/rendering-north.jpg)
+[![rendering from the north](/assets/images/1800hamlin/2022-rendering-north.jpg)](/assets/images/1800hamlin/2022-rendering-north.jpg)
 <p class="caption">Rendering from the north, showing the church space in front</p>
 
 At that time, the plan was for
@@ -132,10 +132,10 @@ The latter two variances above could be done through a Board of Zoning Adjustmen
 
 The limiting factors cited for the loading zone and parking relief were the lot size and shape, and the desire to make the building more transit- and pedestrian-friendly.
 
-[![rendering from the south](/assets/images/1800hamlin/rendering-south.jpg)](/assets/images/1800hamlin/rendering-south.jpg)
+[![rendering from the south](/assets/images/1800hamlin/2022-rendering-south.jpg)](/assets/images/1800hamlin/2022-rendering-south.jpg)
 <p class="caption">Rendering from the south, showing residences as presented in July 2022</p>
 
-[![overhead map](/assets/images/1800hamlin/overhead-map.jpg)](/assets/images/1800hamlin/overhead-map.jpg)
+[![overhead map](/assets/images/1800hamlin/2022-overhead-map.jpg)](/assets/images/1800hamlin/2022-overhead-map.jpg)
 <p class="caption">overhead diagram of the building as presented in July 2022</p>
 
 ## Notification History
