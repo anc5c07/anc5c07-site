@@ -8,11 +8,11 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-04-28T11:42:44
+last_modified_at: 2023-04-29T18:26:24
 notes: footnotes
 ---
 This meeting has occurred; you can see the [video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EbSlerJliHVPsrKGaCkN1V4BRJ_01cwfa4hxfD2TOu3YbA?e=oJdEKL).
-{: .notice--warning}
+{: .notice--success}
 
 ## tl;dr
 - Our **monthly hybrid** (in-person and virtual) **joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
@@ -21,7 +21,7 @@ This meeting has occurred; you can see the [video here](https://dcgovict-my.shar
 
 ## Background
 If these terms are confusing and/or you don't know if you live in 5B06 or 5C07, [visit the FAQ](/ancs/) or [the OpenANC map](https://openanc.org).
-{: .notice--warning}
+{: .notice--info}
 
 **This is a joint meeting of SMDs 5B06 and 5C07** to be held on **3/22/2023** starting at 7pm. **The meeting will be hybrid;** in person at Woodridge Library and virtually over Microsoft Teams.
 
@@ -70,17 +70,20 @@ Aurora Market is a neighborhood grocer and event space planning to soft-open on 
 
 They are seeking a Class B Retail license (to sell alcohol as part of grocery operations) and a Class C Tavern license (to serve alcohol in the basement event space). I'll share the ABCA placard here once it's posted. Aurora Market has voluntarily offered their existing [Settlement Agreement](https://abca.dc.gov/page/settlement-agreements) (SA) as a template ([it can be read here](https://abca.dc.gov/sites/default/files/dc/sites/abra/publication/attachments/500%20Irving%20Street%20NW%20-%203%201%202023.pdf)), and is also seeking approval for a [Stipulated License](https://abca.dc.gov/page/stipulated-licenses) (SL) to begin operating with ANC approval before they have their final licensing.
 
+If folks have suggestions for the Aurora Market Settlement Agreement, reach out to myself (5c07@anc.dc.gov) or Commissioner Piekara (5b06@anc.dc.gov) by roughly May 10th.
+{: .notice--danger}
+
 ### ABCA/ANC processes
 An alcohol license [can be protested](https://abca.dc.gov/page/license-protests) by:
-- "an affected ANC" (in this case, 5B for sure and probably also 5C. Seeking clarity.)
+- the containing ANC or one within 600 feet (in this case, 5B or 5C)
 - a duly registered civic group covering the area
 - an adjacent property owner
 - a group of no fewer than five nearby residents
 
 Interplay of events in the case of a Stipulated License and voluntary Settlement Agreement:
-- Once a stipulated license is approved by "the" affected ANC (presumably only 5B; seeking clarity), the business can begin licensed operations.
+- Once a stipulated license is approved by the containing ANC (5B), the business can begin licensed operations.
 - If a protest by one of the above parties with standing is entered, the business can no longer operate on the Stipulated License.
-- Once a Settlement Agreement is approved by "an" affected ANC, that last category of residents is no longer eligible to protest.
+- Once a Settlement Agreement is approved by an affected ANC, that last category of residents is no longer eligible to protest, but other parties still can; other parties joining the agreement further reduces the chance of protest.
 
 It is likely that both the SL and SA will be voted on by 5B on 5/17, and that 5C will likely vote on the SA that same evening. Aurora Market should be able to operate as a grocer without active alcohol operations throughout this process, though there can certainly be business challenges associated with the lack of some business functions/revenue related to alcohol.
 
