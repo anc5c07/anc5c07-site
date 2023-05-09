@@ -12,11 +12,13 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-04-17T11:17:28
+last_modified_at: 2023-05-09T20:54:12
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
 {: .notice--warning}
+On May 8th, FEMS indicated to Councilmember Parker that the Model Cities site was no longer being considered for the Engine 26 relocation. Stay tuned for updates on the Engine 26 relocation effort, as well as efforts to preserve and make good community use of the four-acre Paper Street Forest Patch.
+{: .notice--danger}
 
 ## tl;dr
 - **The Model Cities building** is a government-owned facility at **1901 Evarts St. NE** leased to service providers for senior residents' needs
