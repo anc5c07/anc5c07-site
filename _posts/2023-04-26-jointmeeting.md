@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-05-02T21:09:38
+last_modified_at: 2023-05-13T23:09:58
 notes: footnotes
 ---
 This meeting has occurred; you can see the [video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EbSlerJliHVPsrKGaCkN1V4BRJ_01cwfa4hxfD2TOu3YbA?e=oJdEKL).
@@ -23,7 +23,7 @@ This meeting has occurred; you can see the [video here](https://dcgovict-my.shar
 If these terms are confusing and/or you don't know if you live in 5B06 or 5C07, [visit the FAQ](/ancs/) or [the OpenANC map](https://openanc.org).
 {: .notice--info}
 
-**This is a joint meeting of SMDs 5B06 and 5C07** to be held on **3/22/2023** starting at 7pm. **The meeting will be hybrid;** in person at Woodridge Library and virtually over Microsoft Teams.
+**This is a joint meeting of SMDs 5B06 and 5C07** to be held on **4/26/2023** starting at 7pm. **The meeting will be hybrid;** in person at Woodridge Library and virtually over Microsoft Teams.
 
 Single-Member District meetings are:
 - optional outreach efforts by Commissioners
@@ -33,9 +33,7 @@ Single-Member District meetings are:
 - more common in some parts of DC than others
 
 ## Physical Location
-The meeting will be at Woodridge Library (1801 Hamlin St. NE), upstairs in Conference Room B. The room has a 20-person capacity. We'll continue to improve our hybrid meeting techniques, hopefully using a camera tripod and hooking up to the conference room television this time.
-
-There will be a children's craft/play corner set up.
+The meeting will be at Woodridge Library (1801 Hamlin St. NE), upstairs in Conference Room B. The room has a 20-person capacity.
 
 ## Virtual Connection Details
 The meeting will be available virtually on [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app).
