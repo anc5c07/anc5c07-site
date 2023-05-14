@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Joint Meeting placeholder image](/assets/images/jointmeeting.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-05-13T23:51:16
+last_modified_at: 2023-05-14T00:36:48
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -16,7 +16,7 @@ This is a future meeting. This page is meant to preview topics.
 
 ## tl;dr
 - Our **monthly hybrid** (in-person and virtual) **joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
-- **We'll have presentations** from **the Commissioners**, (and other presenters)
+- **We'll have presentations** from **the Commissioners**, a presentation on at least one zoning case
 - Any other community updates or suggestions welcome
 
 ## Background
