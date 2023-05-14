@@ -7,12 +7,12 @@ header:
   overlay_image: /assets/images/modelcities/front.png
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Model Cities building today](/assets/images/modelcities/front.png)"
-categories: active development 5c02
+categories: resolved development 5c02
 # toc: true
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-14T01:14:20
+last_modified_at: 2023-05-14T04:16:16
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
