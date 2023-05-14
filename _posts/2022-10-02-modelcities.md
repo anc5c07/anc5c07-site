@@ -12,12 +12,13 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-10T03:05:45
+last_modified_at: 2023-05-14T01:14:20
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
 {: .notice--warning}
-On May 8th, FEMS indicated to Councilmember Parker that the Model Cities site was no longer being considered for the Engine 26 relocation. Stay tuned for updates on the Engine 26 relocation effort, as well as efforts to preserve and make community-serving use of the four-acre Paper Street Forest Patch.
+
+On May 8th, FEMS indicated to Councilmember Parker that the Model Cities site was no longer being considered for the Engine 26 relocation. It's expected that this will be formally and officially announced on the record by FEMS at [the 5/17 ANC 5C meeting](/issues/20230517-5cmeeting/). Check the new pages on [Engine 26](/issues/engine26) and the [Paper Street Forest Patch](/issues/paperstreetforestpatch) for further discussion.
 {: .notice--danger}
 
 ## tl;dr
