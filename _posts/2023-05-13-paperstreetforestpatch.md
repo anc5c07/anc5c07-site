@@ -12,7 +12,7 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-22T01:43:17
+last_modified_at: 2023-05-22T01:56:24
 ---
 <div id="development-map" class="map-container"></div>
 This community concern is in 5C02.
@@ -45,7 +45,7 @@ The forest patch sits on a slope and absorbs/filters stormwater that would other
 
 All of this is particularly important here in Ward 5, which has outsized share of DC's PDR zones and has experienced [dramatic canopy loss in recent years](https://caseytrees.org/get-involved/conservation-easements/).
 
-Efforts could conceivably be made to clean up, nurture, and protect this forest patch, while making it available to visitors as with the recently built 680-foot Langdon Park Forest Patch trail. This also allow community volunteers to freely enter and assess tree health, plan new trees, remove invasives, and otherwise maintain the forest patch and set it up to thrive.
+Efforts could conceivably be made to clean up, nurture, and protect this forest patch, while making it available to visitors as with the recently built 680-foot Langdon Park Forest Patch trail. If built, such a trail could allow community volunteers to freely enter and assess tree health, plant new trees, remove invasive species, and otherwise maintain the forest patch and set it up to thrive.
 
 *[DPR]: DC Department of Parks and Recreation
 *[FEMS]: DC Fire and Emergency Medical Services
