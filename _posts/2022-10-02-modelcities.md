@@ -12,13 +12,13 @@ categories: resolved development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-14T04:16:16
+last_modified_at: 2023-05-22T01:34:41
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
 {: .notice--warning}
 
-On May 8th, FEMS indicated to Councilmember Parker that the Model Cities site was no longer being considered for the Engine 26 relocation. It's expected that this will be formally and officially announced on the record by FEMS at [the 5/17 ANC 5C meeting](/issues/20230517-5cmeeting/). Check the new pages on [Engine 26](/issues/engine26) and the [Paper Street Forest Patch](/issues/paperstreetforestpatch) for further discussion.
+On May 8th, FEMS indicated to Councilmember Parker that the Model Cities site was no longer being considered for the Engine 26 relocation. This was formally and officially announced on the record by FEMS at [the 5/17 ANC 5C meeting](/issues/20230517-5cmeeting/), citing issues with the cost-sharing with Department of Aging as well as not wanting a political fight. This page will remain for historical context, but check the new pages on [Engine 26](/issues/engine26) and the [Paper Street Forest Patch](/issues/paperstreetforestpatch) for further discussion.
 {: .notice--danger}
 
 ## tl;dr
