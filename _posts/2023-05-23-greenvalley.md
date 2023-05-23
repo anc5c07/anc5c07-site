@@ -12,10 +12,10 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-23T17:04:35
+last_modified_at: 2023-05-23T17:29:07
 ---
 <div id="development-map" class="map-container"></div>
-I have not yet filled this out with details from [BZA case 20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948) but they are public available
+I have not yet filled this out with details from [BZA case 20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948) but they are publicly available
 {: .notice--warning}
 
 ## tl;dr
