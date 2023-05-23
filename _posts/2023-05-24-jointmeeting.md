@@ -4,11 +4,11 @@ permalink: /issues/20230524-jointmeeting/
 excerpt: "placeholder"
 author_profile: false
 header:
-  overlay_image: /assets/images/jointmeeting.jpg
+  overlay_image: /assets/images/greenvalley/north-elevation.png
   overlay_filter: rgba(127, 127, 127, 0.5)
-  caption: "[Joint Meeting placeholder image](/assets/images/jointmeeting.jpg)"
+  caption: "[Green Valley North Elevation](/assets/images/greenvalley/north-elevation.png)"
 categories: meeting-summary
-last_modified_at: 2023-05-23T02:19:54
+last_modified_at: 2023-05-23T15:48:13
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -62,7 +62,7 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 Feel free to reach out if you have suggestions for this agenda! Given the informal nature of of SMD meetings, this agenda is flexible and may change anytime.
 
 - Community updates
-- Presentation on Green Valley Apartments, 2412 Franklin St NE; BZA case for renovation of a nonconforming building
+- Presentation on Green Valley Apartments, 2412 Franklin St NE; BZA case ([20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)) for renovation of a nonconforming building
 - A debrief from the Commissioners on ANC 5B and 5C actions
 
 ## Notification History
