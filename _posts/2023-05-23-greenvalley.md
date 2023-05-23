@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-23T17:30:05
+last_modified_at: 2023-05-23T17:34:35
 ---
 <div id="development-map" class="map-container"></div>
 I have not yet filled this out with details from [BZA case 20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948) but they are publicly available
@@ -30,7 +30,7 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |tracker|This building was added to the [Real Estate Development Tracker](/development/) on 5/23/2023 around noon ET|
 |website|This info page was first posted to this website on 5/23/2023 around noon ET|
 |meetings|See below for [Meeting History](#meeting-history)|
-|[paper flyer](/flyers/)|A neighbor created and distributed [a paper flyer about the case and 5/24 SMD meeting](/assets/documents/flyer-greenvalley-20230523.pdf) to nearby neighbors.|
+|[paper flyer](/flyers/)|A neighbor created and distributed [a paper flyer about the case and 5/24 SMD meeting](/assets/documents/flyer-greenvalley-20230524.pdf) to nearby neighbors.|
 
 ### Meeting History
 
