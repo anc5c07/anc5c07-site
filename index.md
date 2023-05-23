@@ -49,7 +49,7 @@ feature_row1:
   - image_path: /assets/images/greenvalley/entryway-short.jpg
     alt: "Green Valley Apartments"
     title: "Green Valley Apartments"
-    excerpt: "A zoning-conforming apartment building providing affordable senior homes requires a BZA case to modernize."
+    excerpt: "A zoning-nonconforming apartment building providing affordable senior homes requires a BZA case to modernize."
     url: "/issues/greenvalley/"
     btn_label: "Read More"
     btn_class: "btn--primary"
