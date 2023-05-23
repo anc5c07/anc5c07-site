@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-23T17:29:07
+last_modified_at: 2023-05-23T17:30:05
 ---
 <div id="development-map" class="map-container"></div>
 I have not yet filled this out with details from [BZA case 20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948) but they are publicly available
@@ -23,7 +23,7 @@ I have not yet filled this out with details from [BZA case 20948](https://app.dc
 - The building is zoning non-conformant; I believe due to a [1990 map amendment](https://app.dcoz.dc.gov/Home/ViewCase?case_id=90-16) that removed commercial zoning in this area (more research needed)
 
 ## Outreach History
-I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact avenues on the footer of this webpage.
+I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact methods on the footer of this webpage.
 
 |method|outreach performed|
 |---|---|
