@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Green Valley North Elevation](/assets/images/greenvalley/north-elevation.png)"
 categories: meeting-summary
-last_modified_at: 2023-05-23T15:48:13
+last_modified_at: 2023-05-23T15:49:40
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -16,8 +16,8 @@ This is a future meeting. This page is meant to preview topics.
 
 ## tl;dr
 - Our **monthly hybrid** (in-person and virtual) **joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
-- **We'll have presentations** from **the Commissioners**, a presentation on at least one zoning case
-- Any other community updates or suggestions welcome
+- **We'll have presentations** from **the Commissioners**, a presentation on at least one zoning case for Green Valley Apartments
+- Any other community updates or suggestions welcome; [agenda](#agenda) below
 
 ## Background
 If these terms are confusing and/or you don't know if you live in 5B06 or 5C07, [visit the FAQ](/ancs/) or [the OpenANC map](https://openanc.org).
