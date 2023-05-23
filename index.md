@@ -30,11 +30,11 @@ feature_row:
     btn_label: "Issues"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/gfm-emptying-short.jpg
-    alt: "GFM emptying"
-    title: "4/26/2023: 5B06/5C07 Joint SMD meeting"
-    excerpt: "two alcohol and one zoning cases"
-    url: "/issues/20230426-jointmeeting/"
+  - image_path: /assets/images/greenvalley/entryway-short.jpg
+    alt: "Green Valley Apartments"
+    title: "5/24/2023: 5B06/5C07 Joint SMD meeting"
+    excerpt: "a BZA case for Green Valley Apartments"
+    url: "/issues/20230524-jointmeeting/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row0:
@@ -46,20 +46,20 @@ feature_row0:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row1:
-  - image_path: /assets/images/22ndfranklin/muddy-pre-fix-short.jpg
-    alt: "22nd and Franklin"
-    title: "22nd and Franklin mudslide"
-    excerpt: "Since early 2021, land-disrupting construction at the church at 22nd and Franklin has led to deteriorating land and sidewalk conditions."
-    url: "/issues/22nd-franklin-mudslide/"
+  - image_path: /assets/images/greenvalley/entryway-short.jpg
+    alt: "Green Valley Apartments"
+    title: "Green Valley Apartments"
+    excerpt: "A zoning-conforming apartment building providing affordable senior homes requires a BZA case to modernize."
+    url: "/issues/greenvalley/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/2026jackson/plot1-short.jpg
-    alt: "2026 Jackson St rendering"
-    title: "2026 Jackson St NE"
-    excerpt: 'There is an upcoming zoning case to build a new mixed-use building on a vacant lot owned by New Macedonia Baptist Church.'
-    url: "/issues/2026jackson"
-    btn_label: "Case Background"
+  - image_path: /assets/images/sda/faded-crosswalk-short.jpg
+    alt: "South Dakota Ave"
+    title: "South Dakota Ave"
+    excerpt: 'FY24 budget allocations may give us a chance to improve the safety for all users of this dangerous roadway.'
+    url: "/issues/sda"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
