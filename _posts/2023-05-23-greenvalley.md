@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-24T19:52:50
+last_modified_at: 2023-05-24T19:57:26
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -41,7 +41,7 @@ The proposed construction involves:
 
 ### Needed Zoning Relief
 All of this creates four components of necessary relief:
-- **Area Variance: The non-conforming use requirements** of `Subtitle C § 204.1`: the new elevator enclosure and expanded vestibule will (marginally) increase gross floor area of the nonconforming building; any increase in gross floor area of nonconforming building requires this type of variance.
+- **Area Variance: The non-conforming use requirements** of `Subtitle C § 204.1`: the new elevator enclosure and expanded vestibule will (marginally) increase gross floor area of the nonconforming building; any increase in gross floor area of a nonconforming building requires this type of variance.
 - **Area Variance: The height requirements** of `Subtitle D § 303.1`: the new elevator enclosure will rise higher than the 40 feet currently allowed, due to a need to service the fourth floor of the existing 44-foot building.
 - **Special Exception: The penthouse setback requirements** of `Subtitle C § 1504.1`: the new elevator enclosure, in rising slightly higher than the general 44-foot height of the building, makes use of penthouse allowances, but does not conform to setback requirements (the need to rise further back than the exterior of the building to reduce the visual height from ground view) as it is being added to the exterior of the existing building.
 - **Special Exception: The penthouse enclosing wall requirements** of `Subtitle C § 1503.4`: the new elevator enclosure, in not rising as high as the existing penthouse elevator enclosure, creates a non-uniform penthouse height, which in turn creates another needed exception.
