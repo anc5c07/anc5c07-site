@@ -1,7 +1,7 @@
 ---
 title: "5/24/2023: 5B06/5C07 Joint SMD meeting"
 permalink: /issues/20230524-jointmeeting/
-excerpt: "placeholder"
+excerpt: "an affordable senior building gets a retrofit"
 author_profile: false
 header:
   overlay_image: /assets/images/greenvalley/north-elevation.png
