@@ -12,11 +12,9 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-24T19:51:37
+last_modified_at: 2023-05-24T19:52:50
 ---
 <div id="development-map" class="map-container"></div>
-I have not yet filled this out with details from [BZA case 20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948) but they are publicly available
-{: .notice--warning}
 
 ## tl;dr
 - [**Green Valley Apartments**](https://abcmgt.orleanco.com/locations/green-valley-apartments/) is an affordable senior living facility located at **2412 Franklin St NE**
@@ -87,7 +85,7 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 <script>
 var map = L.map('development-map',  {
       zoomSnap: 0.25
-  }).setView([38.92616767115602, -76.97120881514503], 18.5);
+  }).setView([38.92616420697469, -76.9715107396461], 18.5);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '© OpenStreetMap'
