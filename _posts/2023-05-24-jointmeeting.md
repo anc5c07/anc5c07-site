@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Green Valley North Elevation](/assets/images/greenvalley/north-elevation.png)"
 categories: meeting-summary
-last_modified_at: 2023-05-24T16:47:06
+last_modified_at: 2023-05-25T04:38:48
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -62,9 +62,10 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 Feel free to reach out if you have suggestions for this agenda! Given the informal nature of of SMD meetings, this agenda is flexible and may change anytime.
 
 - Community updates
+- Update from Langdon Park Neighbors on their events
 - Update from Allison Clausen on efforts to preserve the [Paper Street Forest Patch](/issues/paperstreetforestpatch)
 - Update from Friends of [South Dakota Ave](/issues/sda/) NE (FoSDANE), including a debrief on the May 11th site visit by CM Parker and Director Lott.
-- Presentation on Green Valley Apartments, 2412 Franklin St NE; BZA case ([20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)) for renovation of a nonconforming building
+- Presentation on [Green Valley Apartments, 2412 Franklin St NE](/issues/greenvalley/); BZA case ([20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)) for renovation of a nonconforming building
 - A debrief from the Commissioners on ANC 5B and 5C actions
 
 ## Notification History
