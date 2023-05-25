@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-25T05:09:46
+last_modified_at: 2023-05-25T05:14:16
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -36,7 +36,7 @@ Some particularly interesting artifacts include:
 
 ## Plans
 The proposed construction involves:
-- **renovating the existing 100 low-income senior homes**, without a change in qualifications to live there, number of homes, or expected occupancy of homes
+- **renovating the existing 100 low-income senior homes**, without a change in qualifications to live there, number of homes, or expected occupancy of homes; the homes will be renovated in phases to allow for continuous occupation by tenants
 - **adding a third elevator enclosure to the external building on the south side** to accomodate modern emergency needs such as stretchers; this enclosure will rise up to slightly higher than the predominant building height of 44 feet (which is four feet higher than current zoning allowances for this site) and join with the existing elevator enclosure (while not rising up nearly as high)
 - **expanding the entry vestibule** to allow for ADA-compliant mailboxes and easier wheelchair access into the building
 
