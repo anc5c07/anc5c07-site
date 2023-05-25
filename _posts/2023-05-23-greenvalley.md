@@ -12,15 +12,14 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-25T05:03:02
+last_modified_at: 2023-05-25T05:08:57
 ---
 <div id="development-map" class="map-container"></div>
 
 ## tl;dr
 - [**Green Valley Apartments**](https://abcmgt.orleanco.com/locations/green-valley-apartments/) is an affordable senior living facility located at **2412 Franklin St NE**
-- **The building is zoning nonconforming;** as best as I can tell, this isn't due to a change of zoning for this parcel (which was subdivided as part of the proposal to build this building), but due to a change in allowances (or typical variances) for the R-1-B zone.
-- **Any change in the building footprint of a nonconforming building requires zoning relief;** in this case, they're seeking to increase the size of the elevator containment and entry vestibule to accomodate modern wheelchairs and stretchers, among other considerations
-- **A few additional pieces of zoning relief** all relate to design considerations for a retrofit that minimally disturbs the existing structure, layout, and number of homes
+- **The building is zoning nonconforming;** as best as I can tell, this isn't due to a change of zoning for this parcel, but due to a change in allowances (or typical variances) for the R-1-B zone since its construction in 1971
+- **Any change in the building footprint of a nonconforming building requires zoning relief;** in this case, they're seeking to add a new elevator enclosure and entry vestibule to accomodate modern wheelchairs and stretchers; there are a few additional [pieces of zoning relief](#needed-zoning-relief) related to the elevator containment height and shape
 - **I am planning to issue a report** for ANC 5C approval at the 6/21 Full-Commission Meeting
 - [**You can submit a letter**](#community-action) into the record for this zoning case
 - **You can also help me distribute [flyers](/flyers/)** to residents around (and in!) the building so they're aware of the plans and their opportunities to voice support (or opposition)
