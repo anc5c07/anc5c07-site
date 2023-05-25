@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-25T04:59:24
+last_modified_at: 2023-05-25T05:00:31
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -106,7 +106,7 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |date|body|summary|
 |---|---|---|
 |[5/24/2023](/issues/20230524-jointmeeting/)|[SMD 5B06/5C07]((/issues/20230524-jointmeeting/))|On the agenda for presentation by the management company and other team members.|
-|June or September|ANC 5C|Anticipated vote on a report in this case.|
+|6/21/2023|ANC 5C|Anticipated vote on a report in this case.|
 
 <script>
 var map = L.map('development-map',  {
