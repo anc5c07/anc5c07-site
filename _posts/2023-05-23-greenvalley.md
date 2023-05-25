@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-24T19:57:26
+last_modified_at: 2023-05-25T04:59:24
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -21,17 +21,19 @@ last_modified_at: 2023-05-24T19:57:26
 - **The building is zoning nonconforming;** As best as I can tell, this isn't due to a change of zoning for this parcel (which was subdivided as part of the proposal to build this building), but due to a change in allowances for the R-1-B zone.
 - **Any change in the building footprint of a nonconforming building requires zoning relief;** in this case, they're seeking to increase the size of the elevator containment and entry vestibule to accomodate modern wheelchairs and stretchers, among other considerations
 - **A few additional pieces of zoning relief** all relate to design considerations for a retrofit that minimally disturbs the existing structure, layout, and number of homes
+- **I am planning to issue a report** for ANC 5C approval at the 6/21 Full-Commission Meeting
+- **You can submit a letter** into the record for this zoning case
+- **You can also help me distribute flyers** to residents around (and in!) the building so they're aware of the plans
 
 ## Case Record
 This case will be heard by the Board of Zoning Adjustment (BZA).
 
 |agency|case|summary|next hearing|ANC status|case status|
 |---|---|---|---|---|---|
-|[BZA](https://dcoz.dc.gov/bza/about)|[20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)|[Four elements](#needed-zoning-relief) related to the minimal retrofit of a nonconforming building|not scheduled|no action yet|no action yet|
+|[BZA](https://dcoz.dc.gov/bza/about)|[20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)|[Four elements](#needed-zoning-relief) related to the minimal retrofit of a nonconforming building|9/27/2023 (not posted)|anticipated for June agenda|no action yet|
 
 Some particularly interesting artifacts include:
 - **[Applicant Statement of Support](https://app.dcoz.dc.gov/CaseReport/ViewExhibit.aspx?exhibitId=309702):** this states the comprehensive case for this relief application, written on behalf of the applicant by land-use attorneys
-
 
 ## Plans
 The proposed construction involves:
@@ -64,6 +66,30 @@ There are a number of prior zoning cases related to this property. Here are some
 |1970-71|[10472](https://app.dcoz.dc.gov/Home/ViewCase?case_id=10472)|Subdivision of the building lot and the church lot to allow construction of this building|
 |1971-72|[10791](https://app.dcoz.dc.gov/Home/ViewCase?case_id=10791), [10792](https://app.dcoz.dc.gov/Home/ViewCase?case_id=10792)|Further relief to allow construction of the existing building within an R-1-B zone, on a site of "three small singlefamily dwellings that are to be demolished"|
 |1993|[15845](https://app.dcoz.dc.gov/Home/ViewCase?case_id=15845)|Summary judgement related to lot coverage of a nonconforming lot; unclear if impacts the apartment building or only the adjacent church|
+
+## Community Action
+[Anyone can submit comments](https://dcoz.dc.gov/node/1211256) in support or opposition into the case record, to be considered by the BZA when judging the application. I would be happy to help regardless of your position, so feel free to reach out if you aren't sure what to write. You may also choose to speak at the hearing, but you will have to submit written comments either way.
+
+### Submitting a Letter
+To submit a letter:
+- send before 9:30am **Tuesday 9/26/2023** to be sure it's received in time
+- email it to **bzasubmissions@dc.gov**
+- include the case number (`BZA 20948`) and address (`2412 Franklin St NE`) in the subject
+- including some information about your proximity to the site, or residency within 5C07 if applicable, may help strengthen the weighing of your comments
+
+A template to start might be:
+
+> `Subject: ` Letter in (Support/Opposition) of BZA 20948, 2412 Franklin St NE
+
+>To whom it may concern:
+>
+>This letter of (support/opposition) is in regard to Board of Zoning Adjustment case 20948, relief related to retrofitting the nonconforming building with a new elevator enclosure and entry vestibule.
+>
+>I (do not) believe the BZA should allow this building expansion, because (reasons).
+>
+>Very respectfully,<br/>
+>(your name)<br/>
+>(your address)
 
 ## Outreach History
 I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact methods on the footer of this webpage.
