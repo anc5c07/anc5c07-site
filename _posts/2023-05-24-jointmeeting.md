@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Green Valley North Elevation](/assets/images/greenvalley/north-elevation.png)"
 categories: meeting-summary
-last_modified_at: 2023-05-25T04:38:48
+last_modified_at: 2023-05-25T04:48:48
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -75,7 +75,7 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |---|---|
 |routine scheduling|This is the recurring 5B06/5C07 meeting on the month's *fourth Wednesday*; meetings on this date and time should be expected|
 |website|This meeting information page was first posted to this website on 5/13/2023 around 8pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/) and from [the 5C website](https://anc-5c.com/calendar/).|
-|social media|I usually post about meetings on Twitter, Facebook (Woodridge DC Neighbors and Brookland DC groups), and Nextdoor; I'll update here with links when I do.|
+|social media|On the morning of 5/23, I posted about this to [Twitter](https://twitter.com/anc5c07/status/1661072730525949953), [Nextdoor](https://nextdoor.com/p/9cG7Z7m7Z2kK), and the [Brookland DC Facebook group](https://www.facebook.com/groups/brookand/posts/10159865963289121/); Theresa W. also posted to [Woodridge DC Neighbors](https://www.facebook.com/groups/woodridgedc/posts/1652679858539120/)|
 |[direct email](https://us9.campaign-archive.com/home/?u=208f79fec14599c11c77bc927&id=150da6f8d6)|This meeting was mentioned in the [5C07 May update](https://us9.campaign-archive.com/?u=208f79fec14599c11c77bc927&id=409e99a715) email. I mention meetings in my monthly newsletters which I try to dispatch a few days before the Full-Commission meetings (around ten days before joint SMD meetings); [subscribe now](https://anc5c07.us9.list-manage.com/subscribe/post) if you haven't!|
 |[paper flyer](/flyers/)|I list meetings in my monthly dispatch flyers, which I usually refresh a few days before Full-Commission meetings.|
 |email listservs|I do not currently make use of email group listservs for meeting notices; if there is one that seems especially relevant to the 5C07 boundaries, please let me know.|
