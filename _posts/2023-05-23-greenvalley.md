@@ -23,7 +23,7 @@ last_modified_at: 2023-05-24T19:57:26
 - **A few additional pieces of zoning relief** all relate to design considerations for a retrofit that minimally disturbs the existing structure, layout, and number of homes
 
 ## Case Record
-This case has been heard by the Zoning Commission, and will subsequently be heard by the Board of Zoning Adjustment (BZA).
+This case will be heard by the Board of Zoning Adjustment (BZA).
 
 |agency|case|summary|next hearing|ANC status|case status|
 |---|---|---|---|---|---|
