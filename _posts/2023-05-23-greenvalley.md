@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-25T05:44:23
+last_modified_at: 2023-05-26T18:37:00
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -22,7 +22,7 @@ last_modified_at: 2023-05-25T05:44:23
 - **Any change in the floor area of a nonconforming building requires zoning relief;** in this case, they're seeking to add a new elevator enclosure and entry vestibule to accomodate modern wheelchairs and stretchers; there are a few additional [pieces of zoning relief](#needed-zoning-relief) related to the elevator containment height and shape
 - **I am planning to issue a report** for ANC 5C approval at the 6/21 Full-Commission Meeting
 - [**You can submit a letter**](#community-action) into the record for this zoning case
-- **You can also help me distribute [flyers](/assets/documents/flyer-20230525.pdf)** to residents in and around the building so they're aware of the plans and their opportunities to voice support (or opposition)
+- **You can also help me distribute [flyers](/flyers/)** to residents in and around the building so they're aware of the plans and their opportunities to voice support (or opposition)
 
 ## Case Record
 This case will be heard by the Board of Zoning Adjustment (BZA).
