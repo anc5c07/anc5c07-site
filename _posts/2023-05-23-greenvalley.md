@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-26T18:37:00
+last_modified_at: 2023-05-27T21:06:18
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -74,7 +74,7 @@ To submit a letter:
 - send before 9:30am **Tuesday 9/26/2023** to be sure it's received in time
 - email it to **bzasubmissions@dc.gov**
 - include the case number (`BZA 20948`) and address (`2412 Franklin St NE`) in the subject
-- including some information about your proximity to the site, or residency within 5C07 if applicable, may help strengthen the weighing of your comments
+- including some information about your proximity to the site, and/or residency within 5C07 if applicable, may help strengthen the weighing of your comments
 
 A template to start might be:
 
@@ -98,14 +98,15 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |tracker|This building was added to the [Real Estate Development Tracker](/development/) on 5/23/2023 around noon ET|
 |website|This info page was first posted to this website on 5/23/2023 around noon ET|
 |meetings|See below for [Meeting History](#meeting-history)|
-|[paper flyer](/flyers/)|A neighbor created and distributed [a paper flyer about the case and 5/24 SMD meeting](/assets/documents/flyer-greenvalley-20230524.pdf) to nearby neighbors.|
+|[paper flyer](/flyers/)|A neighbor created and distributed [a paper flyer about the case and 5/24 SMD meeting](/assets/documents/flyer-greenvalley-20230524.pdf) to nearby neighbors. My [May/June dispatch flyer](/assets/documents/flyer-20230525.pdf) contains Green Valley's zoning relief as the first top-of-mind issue, and [my prints of the flyer](https://twitter.com/anc5c07/status/1662169831867547662) also have [a backside](/assets/documents/flyer-greenvalley-20230526.pdf) directed at Green Valley Apartments residents that I've been passing to residents (and in stacks to place in common areas). I also posted [a full-page version](/assets/documents/flyer-greenvalley-20230526-fullpage.pdf) of that message [in various places](https://twitter.com/anc5c07/status/1662516701202620417) around the building.|
 
 ### Meeting History
 
 |date|body|summary|
 |---|---|---|
-|[5/24/2023](/issues/20230524-jointmeeting/)|[SMD 5B06/5C07]((/issues/20230524-jointmeeting/))|On the agenda for presentation by the management company and other team members.|
-|6/21/2023|ANC 5C|Anticipated vote on a report in this case.|
+|[5/24/2023](/issues/20230524-jointmeeting/)|[SMD 5B06/5C07]((/issues/20230524-jointmeeting/))|The property manager and architect presented on the plans and answered questions from the Commissioner and community|
+|6/14/2023|ANC 5C Committee-of-the-Whole meeting|Anticipated discussion and placing on the agenda for the 6/21 Full-Commission meeting.|
+|6/21/2023|ANC 5C|Anticipated vote on a report on the sought zoning relief.|
 
 <script>
 var map = L.map('development-map',  {
