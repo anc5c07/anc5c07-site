@@ -8,11 +8,11 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Green Valley North Elevation](/assets/images/greenvalley/north-elevation.png)"
 categories: meeting-summary
-last_modified_at: 2023-05-25T04:48:48
+last_modified_at: 2023-05-27T21:23:40
 notes: footnotes
 ---
-This is a future meeting. This page is meant to preview topics.
-{: .notice--warning}
+This meeting has occurred; you can see the [video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/ESN-YX7kZipHiBk1MngfW60BpnaUIu8IDICqt1WJnNFpgQ?e=okoH24).
+{: .notice--success}
 
 ## tl;dr
 - Our **monthly hybrid** (in-person and virtual) **joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
