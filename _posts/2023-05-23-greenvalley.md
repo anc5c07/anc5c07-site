@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-27T21:38:10
+last_modified_at: 2023-05-27T21:55:50
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -32,6 +32,7 @@ This case will be heard by the Board of Zoning Adjustment (BZA).
 |[BZA](https://dcoz.dc.gov/bza/about)|[20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)|[Four elements](#needed-zoning-relief) related to the minimal retrofit of a nonconforming building|9/27/2023 (not posted)|anticipated for June agenda|no action yet|
 
 Some particularly interesting artifacts include:
+- **[Proposed Plans](https://app.dcoz.dc.gov/CaseReport/ViewExhibit.aspx?exhibitId=309658):** this document contains renderings and elevations for the proposed modifications
 - **[Applicant Statement of Support](https://app.dcoz.dc.gov/CaseReport/ViewExhibit.aspx?exhibitId=309702):** this states the comprehensive case for this relief application, written on behalf of the applicant by land-use attorneys
 
 ## Plans
