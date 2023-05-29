@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-05-29T05:43:45
+last_modified_at: 2023-05-29T06:01:23
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02.
 {: .notice--warning}
@@ -16,7 +16,7 @@ This community concern runs through 5C07, but also along the boundary of 5C06 an
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=16eQ4pEvQNLWAV7ExmHi2A2CypZ78y_M&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ## tl;dr
-- **The 18th St NE bike lanes** are a set of painted lanes on 18th St NE running in some form in the half mile from Montana Ave NE to Rhode Island Ave NE, that were installed sometime in the 2007-2009 timeframe
+- **The 18th St NE bike lanes** are a set of painted lanes on 18th St NE running in some form for the half mile from Montana Ave NE to Rhode Island Ave NE, that were installed sometime in the 2007-2009 timeframe
 - **The lanes are inconsistent**; running on only one or the other side of the roadway (with sharrows on the other side), and jumping laterally across intersections without guidelines or good visibility
 - **This is confusing and unsafe for bikers and drivers alike**; the double-yellow median frequently jumps around with the bike lanes
 - **A number of nearby infrastructure improvements** and long-term plans to extend the bike priority along 18th St NE make it a good time to push for improvements to this infrastructure
