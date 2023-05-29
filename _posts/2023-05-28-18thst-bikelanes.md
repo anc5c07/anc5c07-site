@@ -8,8 +8,11 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-05-29T04:50:50
+last_modified_at: 2023-05-29T05:06:02
 ---
+This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02.
+{: .notice--warning}
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=16eQ4pEvQNLWAV7ExmHi2A2CypZ78y_M&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ## tl;dr
