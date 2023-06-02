@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-05-27T21:55:50
+last_modified_at: 2023-06-02T11:04:14
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -59,7 +59,10 @@ All of this creates four components of necessary relief:
 [![New Entryway and Mailboxes](/assets/images/greenvalley/entryway-mailboxes.png)](/assets/images/greenvalley/entryway-mailboxes.png)
 <p class="caption">A diagram showing the expansion of the entry vestibule and the ADA-complaint mailboxes to be added. As the entryway is set back rather far from Franklin St NE; there would be minimal change to the public view of the building</p>
 
-## Previous Zoning Cases
+## History
+The Green Valley Apartments were built in 1971 by the adjacent Second New Saint Paul Baptist Church, which owns the building and has operated in the adjacent sanctuary building since 1957. You can learn about the vision the lead to the building's construction [on the church's website](http://snspbc.org/announcement/green-valley-senior-citizen-apartments-1969-1971).
+
+### Previous Zoning Cases
 There are a number of prior zoning cases related to this property. Here are some I've found:
 
 |year|case|summary|
