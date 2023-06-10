@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-10T22:49:15
+last_modified_at: 2023-06-10T22:51:32
 ---
 
 This community concern runs along the boundary of 5C07, 5B03, and 5B06
@@ -18,7 +18,7 @@ This community concern runs along the boundary of 5C07, 5B03, and 5B06
 
 ## tl;dr
 - **Rhode Island Ave NE generally has off-peak street parking along the curbside lane**, and this has been the case for decades
-- **Off-peak parking (informally also called rush-hour parking restrictions)** is the condition of street parking being allowed most of the time, but not during peak roadeway use (generally 7:30am-9am inbound or 4-6:30pm outbound, Monday through Friday)
+- **Off-peak parking (informally also called rush-hour parking restrictions)** is the condition of street parking being allowed most of the time, but not during peak roadway volume (generally 7:30am-9am inbound or 4-6:30pm outbound, Monday through Friday)
 - **This condition creates a number of problems** related to enforcement priority, induced roadway volume, aggressive right-passing, pedestrian safety, and business needs related to driving patrons
 - **This condition also prevents any adaptive reuse of the curbside lane in small portions** such as with curb extensions for pedestrian safety at crossings, bus stop islands, sidewalk extensions to preserve access around heritage trees, on-street installations such as bikeshare docks, and public space permitting for streeteries and other temporary or permanent amenities
 - **It is possible to reprogram the curbside to 24/7 parking**, in other words end rush-hour parking restrictions; this was done for the in-bound blocks from 20th St NE to 24th St NE around the time Zeke's Coffee opened
