@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-11T00:55:58
+last_modified_at: 2023-06-11T00:59:57
 ---
 
 This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
@@ -59,9 +59,9 @@ This would involve drafting a request as a letter, and seeking:
 
 and submitting it to DDOT Curbside Management Division.
 
-In discussions with CMD, I was advised to be moderately ambitious on scope. Some possible scoping for the ask:
-- implement 24/7 parking on the outbound side of Rhode Island Ave NE from 20th St NE to 24th St NE (the other side of the street from where this has been the case for nearly a decade)
-- implement 24/7 parking in both directions for the entirety of the MU-4 zone from 13th St NE to 24th St NE
-- implement 24/7 parking for the entirety of the Rhode Island Ave Main Street operating area, from 4th St NE to Eastern Ave NE
+In discussions with CMD, I was advised to be moderately ambitious on scope. Some possible scoping for the ask would be implementing 24/7 parking on:
+- **the outbound side of Rhode Island Ave NE from 20th St NE to 24th St NE** (the other side of the street from where this has been the case for nearly a decade)
+- **in both directions for the entirety of the MU-4 zone** from 13th St NE to 24th St NE
+- **in both directions for the entirety of the Rhode Island Ave Main Street operating area**, from 4th St NE to Eastern Ave NE
 
-The letter may include 2-3 tiers of ask.
+The letter/resolutions may include 2-3 tiers of ask.
