@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-11T00:25:25
+last_modified_at: 2023-06-11T00:54:54
 ---
 
 This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
@@ -19,9 +19,7 @@ This community concern runs along the boundary of 5C07, as well as through many 
 ## tl;dr
 - **Rhode Island Ave NE generally has off-peak street parking along the curbside lane**, and this has been the case for decades
 - **Off-peak parking (informally also called rush-hour parking restrictions)** is the condition of street parking being allowed most of the time, but not during peak roadway volume (generally 7:30am-9am inbound or 4-6:30pm outbound, Monday through Friday)
-- **This condition creates [a number of problems](#the-problem-with-off-peak-parking)** related to enforcement priority, induced roadway volume, aggressive right-passing, pedestrian safety, and business needs
-- **This condition also prevents [any adaptive reuse of the curbside lane](the-benefits-of-a-247-parking-lane) in small portions** such as with curb extensions for pedestrian safety at crossings, bus stop islands, sidewalk extensions to preserve access around heritage trees, on-street installations such as bikeshare docks, and public space permitting for streeteries and other temporary or permanent amenities
-- **While there could be [concerns about creating a new parking entitlement](#interplay-with-future-roadway-uses)** and how that could influence future roadway changes, I believe given all circumstances that embracing 24/7 could improve our future prospects, such as for [bus lanes](http://localhost:4000/issues/ria-parking/#future-bus-lanes)
+- **This condition creates [a number of problems](#the-problem-with-off-peak-parking), prevents [any adaptive reuse of the curbside lane](the-benefits-of-a-247-parking-lane)** in small portions, and has **major implications for future [bus lanes](http://localhost:4000/issues/ria-parking/#future-bus-lanes)**
 - **Some of Rhode Island Ave NE has been reprogrammed to 24/7 parking**, in other words ending rush-hour parking restrictions; [I have a plan to expand this condition](#advocating-for-change) to more of Rhode Island Ave NE.
 
 {% include_relative repeat-content/rush-hour-parking.md %}
@@ -55,9 +53,9 @@ Not only will implementing 24/7 parking today not conflict with offset bus lanes
 I've discussed implementing 24/7 parking with DDOT's Curbside Management Division, and we devised a roadmap for the community, affected ANCs, RIA Main Street, and/or business owners to come together and seek this change for some additional portion of Rhode Island Ave. I plan to work with all of the above stakeholders to make the case and submit a comprehensive request to DDOT.
 
 This would involve drafting a request as a letter, and seeking:
-- Endorsement from ANCs 5B and 5C (and possibly 5F depending on scope)
-- Endorsement by DC Squared (the organization the administers RIA Main Street)
+- Endorsement by DC Squared (the organization that administers RIA Main Street)
 - Additional sign-on from business owners and residents of the corridor
+- Endorsement from ANCs 5B and 5C (and possibly 5F depending on scope) of the same letter or a more expansive resolution
 
 and submitting it to DDOT Curbside Management Division.
 
