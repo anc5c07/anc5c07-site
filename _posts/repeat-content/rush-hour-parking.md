@@ -45,7 +45,7 @@ DDOT Curbside Management indicated to me that business concerns (and those of af
 
 A 24/7 parking lane, not hindered by the need to accomodate through traffic at any point in the day, can be augmented on the margins for other temporary or permanent uses, such as with:
 - curb extensions for pedestrian safety at crossings
-- bus stop islands
+- bus stop [bulb-outs](https://nacto.org/publication/urban-street-design-guide/street-design-elements/curb-extensions/bus-bulbs/) or [islands](https://nacto.org/publication/transit-street-design-guide/stations-stops/stop-configurations/side-boarding-island-stop/)
 - sidewalk extensions to preserve access around heritage trees
 - on-street installations such as bikeshare docks
 - public space permitting for streeteries and other amenities

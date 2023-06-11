@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-11T01:00:22
+last_modified_at: 2023-06-11T11:07:55
 ---
 
 This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
@@ -35,7 +35,10 @@ However, in the current timeline for bus priority projects, it will be many year
 Much of Georgia Ave followed this progression:
 - **sometime in the mid '00s:** 24/7 parking was implemented, where off-peak parking had been the prevailing condition
 - **2011:** curb extensions into the curbside lane were implemented for many intersections
-- **present-day:** DDOT has recommended 24/7 offset bus lanes, and they are currently undergoing design work for implementation
+- **present-day:** DDOT has recommended 24/7 offset bus lanes, [currently undergoing design work for implementation](https://buspriority.ddot.dc.gov/pages/03426fcc0a3b4abf8f1c8a47a989ec38)
+
+[![Offset Bus Lane demonstration](/assets/images/offset-bus-lane.png)](/assets/images/offset-bus-lane.png)
+<p class="caption">An NYCDOT rendering demonstrating curbside vs offset bus lanes (with a bus stop in a curb extension ie <a href="https://nacto.org/publication/urban-street-design-guide/street-design-elements/curb-extensions/bus-bulbs/">bus bulb</a>)</p>
 
 There are many benefits to offset bus lanes:
 - **bus priority will be in place 24/7** rather than only during rush-hour
