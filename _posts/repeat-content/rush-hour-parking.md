@@ -39,4 +39,15 @@ Lastly, any curbside commercial loading or pick-up/dropoff is also generally sus
 DDOT Curbside Management indicated to me that business concerns (and those of affected Business Improvement District (BID) organizations, which broadly would apply to DC Squared, the organization that administers the Rhode Island Ave Main Street and Bladensburg Road Main Street programs) would be a large consideration in ending any existing rush-hour parking restrictions.
 
 ## The Benefits of a 24/7 Parking Lane
-A 24/7 parking lane, not hindered by the need to accomodate through traffic at any point in the day, can be augmented on the margins for other temporary or permanent uses, such as with curb extensions for pedestrian safety at crossings, bus stop islands, sidewalk extensions to preserve access around heritage trees, on-street installations such as bikeshare docks, and public space permitting for streeteries and other amenities.
+
+[![Georgia Ave NW at Webster St NW](/assets/images/georgia-bumpout.jpg)](/assets/images/georgia-bumpout.jpg)
+<p class="caption">A bumpout at the intersection of Georgia Ave NW and Webster St NW (photo taken during Open Streets 2022); these were built in 2011 at most intersections from Webster south along the corridor</p>
+
+A 24/7 parking lane, not hindered by the need to accomodate through traffic at any point in the day, can be augmented on the margins for other temporary or permanent uses, such as with:
+- curb extensions for pedestrian safety at crossings
+- bus stop islands
+- sidewalk extensions to preserve access around heritage trees
+- on-street installations such as bikeshare docks
+- public space permitting for streeteries and other amenities
+
+All of these are higher and better uses of public space that create a safe and vibrant community, rather than simply expediting drivers passing through.
