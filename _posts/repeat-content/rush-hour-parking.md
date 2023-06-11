@@ -8,10 +8,12 @@ This condition theoretically allows for through traffic to make use of an extra 
 However, I believe there are a number of problems with this.
 
 ### Induced Volume
-It is accepted that introducing roadway volume induces roadway use, a phenomenon known as [induced demand](https://en.wikipedia.org/wiki/Induced_demand).
+It is accepted that introducing roadway volume induces roadway use, a phenomenon known as [induced demand](https://en.wikipedia.org/wiki/Induced_demand). In this way, the extra lane is as much creating new roadway volume as it is accommodating it.
 
 ### Limited Utility
-I would contend that additional volume capacity induced by the off-peak parking lane at rush hour is limited in utility to only the most aggressive drivers who are willing to repeatedly pass on the right and merge back into traffic. This is because the curbside lane is rarely clear of obstruction due to:
+Consistency is an important factor in traffic flow. Inconsistent availability of the curbside lane, and resulting mergers back into traffic, may not significantly improve traffic flow on net.
+
+I would contend that additional volume capacity induced by the off-peak parking lane at rush-hour is limited in utility to only the most aggressive drivers who are willing to repeatedly pass on the right and merge back into traffic. This is because the curbside lane is rarely clear of obstruction due to:
 - noncompliant parking
 - noncompliant pickup/dropoff
 - stopped buses
