@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-11T00:15:16
+last_modified_at: 2023-06-11T00:16:19
 ---
 
 This community concern runs along the boundary of 5C07, 5B03, and 5B06
@@ -22,7 +22,7 @@ This community concern runs along the boundary of 5C07, 5B03, and 5B06
 - **This condition creates [a number of problems](#the-problem-with-off-peak-parking)** related to enforcement priority, induced roadway volume, aggressive right-passing, pedestrian safety, and business needs
 - **This condition also prevents [any adaptive reuse of the curbside lane](the-benefits-of-a-247-parking-lane) in small portions** such as with curb extensions for pedestrian safety at crossings, bus stop islands, sidewalk extensions to preserve access around heritage trees, on-street installations such as bikeshare docks, and public space permitting for streeteries and other temporary or permanent amenities
 - **While there could be [concerns about creating a new parking entitlement](#interplay-with-future-roadway-uses)** and how that could influence future roadway changes, I believe given all circumstances that embracing 24/7 could improve our future prospects, such as for [bus lanes](http://localhost:4000/issues/ria-parking/#future-bus-lanes)
-- **Some of Rhode Island Ave NE has been reprogrammed to 24/7 parking**, in other words ending rush-hour parking restrictions; [I have a plan and intend to expand this condition](#advocating-for-change) to more of Rhode Island Ave NE.
+- **Some of Rhode Island Ave NE has been reprogrammed to 24/7 parking**, in other words ending rush-hour parking restrictions; [I have a plan to expand this condition](#advocating-for-change) to more of Rhode Island Ave NE.
 
 {% include_relative repeat-content/rush-hour-parking.md %}
 
