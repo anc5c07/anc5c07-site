@@ -11,7 +11,7 @@ However, I believe there are a number of problems with this.
 It is accepted that introducing roadway volume induces roadway use, a phenomenon known as [induced demand](https://en.wikipedia.org/wiki/Induced_demand).
 
 ### Limited Utility
-I would contend that additional volume capacity induced by the off-peak parking lane at rush hour is limited in utility to only the most aggressive drivers who are willing repeatedly pass on the right. This is because the curbside lane is rarely clear of obstruction due to:
+I would contend that additional volume capacity induced by the off-peak parking lane at rush hour is limited in utility to only the most aggressive drivers who are willing to repeatedly pass on the right and merge back into traffic. This is because the curbside lane is rarely clear of obstruction due to:
 - noncompliant parking
 - noncompliant pickup/dropoff
 - stopped buses
