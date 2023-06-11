@@ -8,10 +8,10 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-11T00:20:22
+last_modified_at: 2023-06-11T00:25:25
 ---
 
-This community concern runs along the boundary of 5C07, through many other SMDs in 5B, 5C, and 5F
+This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
 {: .notice--warning}
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1aK4BShptY4Eb0_5pI9X60vibVW8LfCg&ehbc=2E312F" width="100%" height="480"></iframe>
