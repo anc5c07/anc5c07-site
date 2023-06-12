@@ -30,15 +30,14 @@ The enforcement of rush-hour no parking zones is generally a high priority for t
 - an unfortunate allocation of limited parking enforcement resources that might be dedicated to critical safety needs elsewhere in our neighborhoods
 
 ### Hindering Business Patronage and Operations
-Issues with rush-hour parking along Rhode Island Ave are always a top-of-mind issue for businesses along Rhode Island Ave. At a time when there are many potential customers driving through the neighborhood, their capacity to stop and patronize local businesses is limited by the rush-hour parking restrictions.
+Rush-hour parking restrictions along Rhode Island Ave are always a top-of-mind issue for businesses along Rhode Island Ave, as they hinder:
+- **stop-in patronage by drivers:** At a time when there are many potential customers driving through the neighborhood, their capacity to stop and patronize local businesses is limited by the rush-hour parking restrictions.
+- **foot traffic:** the inhospitable pedestrian environment reduces foot traffic and also deprives businesses of this patronage during the times most folks are out of work and most likely to stop in for breakfast or dinner services.
+- **deliveries and pickup/dropoff:** any curbside commercial loading or pick-up/dropoff is also generally suspended during rush-hour in these areas, taking away space businesses might use for deliveries or pick-up/dropoff patronage.
 
-A desire to allow stop-in driving patrons at Zeke's Coffee in 2014 was a large factor in ending the rush-hour restrictions on the 2000-2100 and 2200-2300 blocks of Rhode Island Ave inbound. This concern continues to affect other businesses where the restrictions remain in place. It's also detrimental for the same reasons to the businesses on the inbound side, as outbound drivers may also likely park and cross the street to patronize these businesses in the evenings.
+A desire to allow stop-in driving patrons at Zeke's Coffee in 2014 was a large factor in ending the rush-hour restrictions on the 2000-2100 and 2200-2300 blocks of Rhode Island Ave inbound. Nearly ten years later, the restrictions remain in place on the outbound side of the same stretch of RIA, so the benefits have not extended to the evening (for businesses on either side of the road, assuming driving patrons might cross the street).
 
-Meanwhile, the inhospitable pedestrian environment reduces foot traffic and also deprives businesses of this patronage during the times most folks are out of work and most likely to stop in for breakfast or dinner services.
-
-Lastly, any curbside commercial loading or pick-up/dropoff is also generally suspended during rush-hour in these areas, taking away space businesses might use for deliveries or pick-up/dropoff patronage.
-
-DDOT Curbside Management indicated to me that business concerns (and those of affected Business Improvement District (BID) organizations, which broadly would apply to DC Squared, the organization that administers the Rhode Island Ave Main Street and Bladensburg Road Main Street programs) would be a large consideration in ending any existing rush-hour parking restrictions.
+DDOT Curbside Management indicated to me that business concerns, including those of affected Business Improvement District (BID) organizations (which broadly would apply to [DC Squared](https://www.dcsquared.org/), the organization that administers the Rhode Island Ave Main Street and Bladensburg Road Main Street programs) would be a large consideration in ending any existing rush-hour parking restrictions.
 
 ## The Benefits of a 24/7 Parking Lane
 

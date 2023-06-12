@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-11T11:07:55
+last_modified_at: 2023-06-12T13:11:02
 ---
 
 This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
@@ -50,7 +50,7 @@ There are many benefits to offset bus lanes:
   - interior lane for general use
   - occasional left-turn pocket lanes
 
-Not only will implementing 24/7 parking today not conflict with offset bus lanes in the future, but they're essentially a precondition; it's hard to imagine implementing curbside bus lanes direction from the current condition of three general-use lanes during peak volume, as this would be an instantaneous reduction of general-us lanes at peak use from three lanes to one.
+Not only will implementing 24/7 parking today not conflict with offset bus lanes in the future, but they're essentially a precondition; it's hard to imagine implementing curbside bus lanes directly from the current condition of three general-use lanes during peak volume, as this would be an instantaneous reduction of general-us lanes at peak use from three lanes to one.
 
 ## Advocating for Change
 I've discussed implementing 24/7 parking with DDOT's Curbside Management Division, and we devised a roadmap for the community, affected ANCs, RIA Main Street, and/or business owners to come together and seek this change for some additional portion of Rhode Island Ave. I plan to work with all of the above stakeholders to make the case and submit a comprehensive request to DDOT.
