@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-12T15:02:47
+last_modified_at: 2023-06-12T15:06:32
 ---
 
 This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
@@ -60,7 +60,6 @@ This would involve drafting a request as a letter and/or ANC resolutions, and se
 - ANCs 5B and 5C (and possibly 5F depending on scope)
 - Councilmember Parker as the Ward 5 Councilmember, and/or CM McDuffie as Chairperson of the Council Committee on Business and Economic Development
 - as many business owners and residents of the corridor as might want to sign on
-
 
 and submitting it to DDOT Curbside Management Division.
 
