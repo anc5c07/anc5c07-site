@@ -40,7 +40,6 @@ A desire to allow stop-in driving patrons at Zeke's Coffee in 2014 was a large f
 DDOT Curbside Management indicated to me that business concerns, including those of affected Business Improvement District (BID) organizations (which broadly would apply to [DC Squared](https://www.dcsquared.org/), the organization that administers the Rhode Island Ave Main Street and Bladensburg Road Main Street programs) would be a large consideration in ending any existing rush-hour parking restrictions.
 
 ## The Benefits of a 24/7 Parking Lane
-
 [![Georgia Ave NW at Webster St NW](/assets/images/georgia-bumpout.jpg)](/assets/images/georgia-bumpout.jpg)
 <p class="caption">A bumpout at the intersection of Georgia Ave NW and Webster St NW (photo taken during Open Streets 2022); these were built in 2011 at most intersections from Webster south along the corridor</p>
 
