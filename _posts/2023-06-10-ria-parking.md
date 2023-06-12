@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-12T13:11:02
+last_modified_at: 2023-06-12T13:27:22
 ---
 
 This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
@@ -28,9 +28,9 @@ This community concern runs along the boundary of 5C07, as well as through many 
 There is some legitimate concern that introducing 24/7 parking will create a new expectation for drivers that will only have to be unlearned in the future to introduce dedicated bus/bike lanes along Rhode Island Ave.
 
 ### future bus lanes
-My top priority for reuse of the Rhode Island Ave's excess crosswidth would be implementing dedicated bus lanes. A quick bus lane implementation would make use of the extra lane available because of off-peak parking by creating an off-peak bus lane out of the curbside lane. This is the bus priority recommendation implemented in most places within DC where bus priority lanes have been implemented.
+My top priority for quick-build adaptive reuse of Rhode Island Ave's excess crosswidth would be implementing dedicated bus lanes. The least contentious bus lane implementation would make use of the extra lane available because of off-peak parking, by creating an off-peak bus lane out of the curbside lane. This is the bus priority recommendation implemented in most places in DC where bus priority lanes have been implemented.
 
-However, in the current timeline for bus priority projects, it will be many years before any such lanes are studied for Rhode Island Ave west of North Capitol St, while the pressing reasons for implementing 24/7 parking, and prospect for implementing it quickly, exist today. Additionally, beginning the adaptive reuse of Rhode Island Ave's curbside lane now will help us later push for a recommendation for 24/7 offset bus lanes, rather than peak curbside lanes.
+However, having discussed this with DDOT's Bus Priority team on several occasions, it will be many years before any such lanes are considered for Rhode Island Ave west of North Capitol St. The bus frequency and ridership does not meet DDOT's criteria for prioritization. Plus, beginning the adaptive reuse of Rhode Island Ave's curbside lane now will help us later push for a recommendation for 24/7 offset bus lanes, rather than peak curbside lanes.
 
 Much of Georgia Ave followed this progression:
 - **sometime in the mid '00s:** 24/7 parking was implemented, where off-peak parking had been the prevailing condition
