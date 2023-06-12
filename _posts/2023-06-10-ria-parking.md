@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-12T15:13:29
+last_modified_at: 2023-06-12T15:29:46
 ---
 
 This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
@@ -28,7 +28,7 @@ This community concern runs along the boundary of 5C07, as well as through many 
 There is some legitimate concern that introducing 24/7 parking will create a new expectation for drivers that will only have to be unlearned in the future to introduce dedicated bus/bike lanes along Rhode Island Ave.
 
 ### future bus lanes
-My top priority for quick-build adaptive reuse of Rhode Island Ave's excess crosswidth would be implementing dedicated bus lanes. The least contentious bus lane implementation would make use of the extra lane available because of off-peak parking, by creating an peak-traffic (rush-hour) curbside bus lane. This is currently the most common implementation of bus priority lanes in DC.
+My top priority for quick-build adaptive reuse of Rhode Island Ave's excess crosswidth would be implementing dedicated bus lanes. The least contentious bus lane implementation would make use of the extra lane available because of off-peak parking, by creating a peak-traffic (rush-hour) curbside bus lane. This is currently the most common implementation of bus priority lanes in DC.
 
 However, having discussed this with DDOT's Bus Priority team on several occasions, it will be many years before any such lanes are considered for Rhode Island Ave west of North Capitol St. The bus frequency and ridership does not meet DDOT's criteria for prioritization. Current RIA buses having to merge left and pull into the Rhode Island Row development are another hindrance to the utility of lanes there. As a result, I've reluctantly concluded to pursue 24/7 parking over near-term bus priority lanes, to address the active problems in a readily available way.
 
