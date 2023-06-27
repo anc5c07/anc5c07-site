@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-06-21T22:47:48
+last_modified_at: 2023-06-27T03:50:53
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -20,7 +20,7 @@ last_modified_at: 2023-06-21T22:47:48
 - [**Green Valley Apartments**](https://abcmgt.orleanco.com/locations/green-valley-apartments/) is an affordable senior living facility located at **2412 Franklin St NE**
 - **The building is zoning nonconforming;** as best as I can tell, this isn't due to a change of zoning for this parcel, but due to a change in allowances (or typical variances) for the R-1-B zone since its construction in 1971
 - **Any change in the floor area of a nonconforming building requires zoning relief;** in this case, they're seeking to add a new elevator enclosure and entry vestibule to accomodate modern wheelchairs and stretchers; there are a few additional [pieces of zoning relief](#needed-zoning-relief) related to the elevator containment height and shape
-- **I am planning to issue a report** for ANC 5C approval at the 6/21 Full-Commission Meeting
+- **ANC 5C issued a report recommending approval** at the 6/21 Full-Commission Meeting
 - [**You can submit a letter**](#community-action) into the record for this zoning case
 - **You can also help me distribute [flyers](/flyers/)** to residents in and around the building so they're aware of the plans and their opportunities to voice support (or opposition)
 
@@ -29,7 +29,7 @@ This case will be heard by the Board of Zoning Adjustment (BZA).
 
 |agency|case|summary|next hearing|ANC status|case status|
 |---|---|---|---|---|---|
-|[BZA](https://dcoz.dc.gov/bza/about)|[20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)|[Four elements](#needed-zoning-relief) related to the minimal retrofit of a nonconforming building|9/27/2023 (not posted)|anticipated for June agenda|no action yet|
+|[BZA](https://dcoz.dc.gov/bza/about)|[20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)|[Four elements](#needed-zoning-relief) related to the minimal retrofit of a nonconforming building|10/25/2023|**6/21/2023:** recommended approval 6-0|no action yet|
 
 Some particularly interesting artifacts include:
 - **[Proposed Plans](https://app.dcoz.dc.gov/CaseReport/ViewExhibit.aspx?exhibitId=309658):** this document contains renderings and elevations for the proposed modifications
