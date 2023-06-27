@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-06-27T03:50:53
+last_modified_at: 2023-06-27T03:51:45
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -111,8 +111,8 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |date|body|summary|
 |---|---|---|
 |[5/24/2023](/issues/20230524-jointmeeting/)|[SMD 5B06/5C07]((/issues/20230524-jointmeeting/))|The property manager and architect presented on the plans and answered questions from the Commissioner and community|
-|6/14/2023|ANC 5C Committee-of-the-Whole meeting|Anticipated discussion and placing on the agenda for the 6/21 Full-Commission meeting.|
-|6/21/2023|ANC 5C|Anticipated vote on a report on the sought zoning relief.|
+|6/14/2023|ANC 5C Committee-of-the-Whole meeting|Discussed and placed on the agenda for the 6/21 Full-Commission meeting.|
+|6/21/2023|ANC 5C|Commissioner-led presentation and approval of report recommending approval|
 
 <script>
 var map = L.map('development-map',  {
