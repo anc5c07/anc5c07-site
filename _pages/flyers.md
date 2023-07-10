@@ -20,7 +20,7 @@ layout: single
 |[5/25/2023](/assets/documents/flyer-20230525.pdf)|issue updates and upcoming meetings|
 |[5/26/2023](/assets/documents/flyer-greenvalley-20230526.pdf)|letter to Green Valley residents (quarter-page)|
 |[5/26/2023](/assets/documents/flyer-greenvalley-20230526-fullpage.pdf)|letter to Green Valley residents (full page)|
-|[6/9/2023](/assets/documents/flyer-20230609.pdf)|issue updates and upcoming meetings|
+|[7/9/2023](/assets/documents/flyer-20230709.pdf)|issue updates and upcoming meetings|
 
 ## Purpose and Procedures
 I carry quarter-page flyers of upcoming meetings and top-of-mind issues for distribution during conversations or for targeted awareness campaigns. I'm really appreciative to anyone who chooses to print these at home to distribute to neighbors to make sure they're reached! They're made to be printed on any printer, in color or black and white, and then cut into quarters so each printer page makes four flyers.
