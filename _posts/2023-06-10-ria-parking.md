@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-08-02T02:45:50
+last_modified_at: 2023-08-02T02:50:39
 ---
 
 This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
@@ -21,7 +21,7 @@ This community concern runs along the boundary of 5C07, as well as through many 
 - **Off-peak parking (also referenced as peak/rush-hour parking restrictions)** is the condition of street parking being allowed most of the time, but not during peak roadway volume (generally 7:30am-9am inbound or 4-6:30pm outbound, Monday through Friday).
 - **This condition creates [a number of problems](#the-problem-with-off-peak-parking), prevents [any adaptive reuse of the curbside lane](the-benefits-of-a-247-parking-lane)** in small portions, and has **major implications for future [bus lanes](http://localhost:4000/issues/ria-parking/#future-bus-lanes)**.
 - **Some of Rhode Island Ave NE has been reprogrammed to 24/7 parking**, in other words ending rush-hour parking restrictions
-- I'm working with Michaela from DC Squared (which administers RIA Main Street) to request a study by DDOT to expand 24/7 parking along Rhode Island Ave. You can [read the draft here](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view) and [add your signature here](https://forms.gle/fQVfanqHn3mhsUd57).
+- **I'm working to request a study by DDOT to expand 24/7 parking along Rhode Island Ave.** You can [read the draft here](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view) and [add your signature here](https://forms.gle/fQVfanqHn3mhsUd57).
 
 {% include_relative repeat-content/rush-hour-parking.md %}
 
