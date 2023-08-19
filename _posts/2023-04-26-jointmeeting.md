@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Good Food Market in the waning days](/assets/images/gfm-emptying.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-05-13T23:09:58
+last_modified_at: 2023-07-24T19:08:56
 notes: footnotes
 ---
 This meeting has occurred; you can see the [video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EbSlerJliHVPsrKGaCkN1V4BRJ_01cwfa4hxfD2TOu3YbA?e=oJdEKL).
@@ -89,7 +89,7 @@ It is likely that both the SL and SA will be voted on by 5B on 5/17, and that 5C
 This placard hasn't posted yet.
 
 ## Xscape Restaurant and Lounge
-Please note that the below reflect misrepresentations that were made by the applicant to me (many of which were repeated at the meeting). The applicant in this case is the spouse and business partner of a former named owner of SIP/1812 Lounge. It was also made clear during the meeting that they would be doing substantively similar operations to SIP/1812 Lounge.
+Please note that the below reflects misrepresentations that were made by the applicant to me (many of which were repeated at the meeting). The applicant in this case is the spouse and business partner of a former named owner of SIP/1812 Lounge. It was also made clear during the meeting that they would be doing substantively similar operations to SIP/1812 Lounge. On 5/17, both ANCs 5B and 5C voted to protest this application. On 7/24, after a roll-call hearing, mediation session, and the applicant missing a status hearing and deadline for reinstatement, this license application was closed.
 {: .notice--danger}
 
 Xscape Restaurant and Lounge is planning to open in the old SIP/1812 Lounge space (1812 Hamlin St NE, the space on the left that shares an address with Rhode Island Ave Liquors to the right).

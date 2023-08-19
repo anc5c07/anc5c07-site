@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[typical signage for off-peak parking](/assets/images/ria/rush-hour-parking.jpg)"
 categories: transportation
-last_modified_at: 2023-06-16T23:53:31
+last_modified_at: 2023-08-02T02:50:39
 ---
 
 This community concern runs along the boundary of 5C07, as well as through many other SMDs in 5B, 5C, and 5F
@@ -20,7 +20,8 @@ This community concern runs along the boundary of 5C07, as well as through many 
 - **Rhode Island Ave NE generally has off-peak street parking along the curbside lane**, and this has been the case for decades.
 - **Off-peak parking (also referenced as peak/rush-hour parking restrictions)** is the condition of street parking being allowed most of the time, but not during peak roadway volume (generally 7:30am-9am inbound or 4-6:30pm outbound, Monday through Friday).
 - **This condition creates [a number of problems](#the-problem-with-off-peak-parking), prevents [any adaptive reuse of the curbside lane](the-benefits-of-a-247-parking-lane)** in small portions, and has **major implications for future [bus lanes](http://localhost:4000/issues/ria-parking/#future-bus-lanes)**.
-- **Some of Rhode Island Ave NE has been reprogrammed to 24/7 parking**, in other words ending rush-hour parking restrictions; [I have a plan to expand this condition](#advocating-for-change) to more of Rhode Island Ave NE.
+- **Some of Rhode Island Ave NE has been reprogrammed to 24/7 parking**, in other words ending rush-hour parking restrictions
+- **I'm working to request a study by DDOT to expand 24/7 parking along Rhode Island Ave.** You can [read the draft here](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view) and [add your signature here](https://forms.gle/fQVfanqHn3mhsUd57).
 
 {% include_relative repeat-content/rush-hour-parking.md %}
 
@@ -72,3 +73,6 @@ In discussions with CMD, I was advised to be moderately ambitious on scope. Some
 - **in both directions for the entirety of the Rhode Island Ave Main Street operating area**, from 4th St NE to Eastern Ave NE
 
 The letter/resolutions may include 2-3 tiers of ask.
+
+### August 2023 draft
+You can [read a draft letter to DDOT Curbside Management Division here](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view) and [add your signature here](https://forms.gle/fQVfanqHn3mhsUd57). This is letter is meant to facilitate much of the above, and is currently targeting the largest scoping above.
