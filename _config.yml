@@ -139,6 +139,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Mailchimp"
+      icon: "fab fa-fw fa-mailchimp"
+      url: https://us9.campaign-archive.com/home/?u=208f79fec14599c11c77bc927&id=150da6f8d6
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/anc5c07
