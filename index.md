@@ -15,7 +15,7 @@ feature_row:
     url: "/calendar/"
     btn_label: "Calendar"
     btn_class: "btn--primary"
-  - image_path: /assets/images//bryant-construction.jpg
+  - image_path: /assets/images/bryant-construction.jpg
     alt: "Bryant Street Construction"
     title: "Development Tracker"
     excerpt: "more trackers to come"
@@ -65,14 +65,6 @@ feature_row2:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row0" type="left" %}
-
-{% include feature_row id="feature_row2" type="right" %}
-
-{% include feature_row id="feature_row1" type="left" %}
-
 <div class="feature__wrapper">
   <div class="feature__item--right">
     <div class="archive__item">
@@ -80,16 +72,16 @@ feature_row2:
           <img src="/assets/images/chuck-brown-memorial-mic.jpg" alt="Chuck Brown offer mic" />
         </div>
       <div class="archive__item-body">
-          <h2 class="archive__item-title" style="margin-top: 0em">I want to hear from you!</h2>
+          <h2 class="archive__item-title" style="margin-top: 0em">Subscribe to the email list!</h2>
           <div class="archive__item-excerpt">
             <!--p style="margin-bottom: .2em">
               I want to design a communication strategy that keeps you informed, and could use some feedback:
             </p-->
           </div>
-          <p style="margin-bottom: .2em"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeO08UpYYZ_U3HhtvVjUQ71MHvKmixvo_3LZCU4sJ1eZkWEUQ/viewform?usp=sf_link" class="btn btn--primary">Take my brief survey!</a></p>
+          <!--p style="margin-bottom: .2em"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeO08UpYYZ_U3HhtvVjUQ71MHvKmixvo_3LZCU4sJ1eZkWEUQ/viewform?usp=sf_link" class="btn btn--primary">Take my brief survey!</a></p>
           <div class="archive__item-excerpt" style="margin-top: .2em">
           or just subscribe to my email list:
-          </div>
+          </div-->
           <!-- Begin Mailchimp Signup Form -->
           <!--link href="/assets/css/mailchimp.css" rel="stylesheet" type="text/css"-->
           <style type="text/css">
@@ -132,12 +124,22 @@ feature_row2:
           <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
           <!--End mc_embed_signup-->
           <div class="archive__item-excerpt">
-            or email at <a href="mailto:5c07@anc.dc.gov"><i class="fas fa-envelope" aria-hidden="true"></i> 5c07@anc.dc.gov</a>
+            and/or check <a href="https://us9.campaign-archive.com/home/?u=208f79fec14599c11c77bc927&id=150da6f8d6"><i class="fas fa-envelope" aria-hidden="true"></i> the newsletter history</a>
           </div>
       </div>
     </div>
   </div>
 </div>
+
+{% include feature_row id="feature_row0" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+
 <div class="feature__wrapper">
   <div class="feature__item--left">
     <div class="archive__item">
