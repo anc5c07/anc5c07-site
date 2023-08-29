@@ -12,7 +12,7 @@ categories: active problematic-construction 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-08-29T14:10:05
+last_modified_at: 2023-08-29T14:18:06
 ---
 <meta name="format-detection" content="telephone=no"/>
 
@@ -29,7 +29,7 @@ last_modified_at: 2023-08-29T14:10:05
 |type|rate|description|
 |---|---|---|
 |[Homestead/Senior/ Disabled/Veteran](https://otr.cfo.dc.gov/page/homesteadsenior-citizen-deduction)|0% on first $84k, $445k, or half of assessed value|This is property tax relief available to DC residents who occupy the subject property as their primary residence; see the link for more details|
-|Standard/Active/"Class 1"|.85%|This is the standard DC residential property tax rate (and would apply to the remaining value in the relief case above)|
+|Standard/"Class 1"|.85%|This is the standard DC residential property tax rate (and would apply to the remaining value in the relief case above)|
 |Vacant/"Class 3"|5%|This is a property that is not occupied and not actively being prepared or offered for use|
 |Blighted/"Class 4"|10%|This is a property that is not only vacant, but an active safety/health hazard|
 
