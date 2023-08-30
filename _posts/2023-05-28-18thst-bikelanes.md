@@ -1,5 +1,5 @@
 ---
-title: "18th St NE bike lanes"
+title: "18th St NE bicycle/mobility lanes"
 permalink: /issues/18thst-bikelanes/
 excerpt: "A case for infill protection"
 author_profile: false
@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-05-29T06:01:23
+last_modified_at: 2023-08-30T17:52:28
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02.
 {: .notice--warning}
@@ -20,6 +20,41 @@ This community concern runs through 5C07, but also along the boundary of 5C06 an
 - **The lanes are inconsistent**; running on only one or the other side of the roadway (with sharrows on the other side), and jumping laterally across intersections without guidelines or good visibility
 - **This is confusing and unsafe for bikers and drivers alike**; the double-yellow median frequently jumps around with the bike lanes
 - **A number of nearby infrastructure improvements** and long-term plans to extend the bike priority along 18th St NE make it a good time to push for improvements to this infrastructure
+- **Further, DC's long-term bike plan anticipates 18th St as a bicycle/mobility priority corridor**, a conditioned begged for by geography and family-centric amenities located along 18th St NE; we must protect the infrastructure we have as we seek to extend it from Montana to Michigan.
+
+## The Need
+As DC's low-stress bicycle/mobility priority network grows, we need to keep in mind the necessity for safe and accessible infrastructure along 18th St. There are many reasons, further detailed below:
+- it's already in the MoveDC plan
+- there are unique geographic constraints making 18th and Montana a critical connection
+- there are many unique and family-focused amenities along the corridor
+
+### MoveDC plan
+It's in [DC DDOT's plans already](https://movedc-dcgis.hub.arcgis.com/pages/bicycles). 18th St provides a uniquely necessary north-south route.
+
+### Connectivity
+18th St (and a segment of Montana Ave) are the middle of only three safe connections east of the Metropolitan Branch tracks/trail over the railyards. It is critical that this connection be made safe.
+
+### Amenities
+The 18th St corridor is home to nine schools, four parks, a library, a rec center, a public pool, a large senior assisted living facility, two forest patches, and other future growth areas, making safe and corridor-long connectivity crucial.
+
+The existing (in need of improvement) bicycle/mobility lanes connect Woodridge Library, Langdon Park, Langdon Elementary, and the DACL assisted living facility.
+
+### more specifics
+Some more institutions along the whole corridor:
+- many schools
+  - 2-3 DCPS elementary schools (Langdon ES, John Burroughs ES; Bunker Hill ES is just a bit off the corridor)
+  - the Taft Middle School building, which currently houses:
+    - three charter schools (Perry St Prep, Sojourner Truth, Latin American Bilingual Montessori (LAMB))
+    - a private school (St. Jerome Institute)
+    - a dance school (Princess Mhoon Dance Institute (PMDI))
+  - a school's makerspace (Center City Public Charter's upcoming facility on the 2300 block)
+- one of Ward 5's only two Public Libraries (Woodridge Neighborhood Library)
+- three DPR Parks (Loomis, Langdon, Dwight Mosley) plus a popular publicly accessible playground at Burroughs ES
+- Langdon Park's many unique amenities for the area: a [soon-to-be-modernized recreation center](/issues/langdonrec), a public pool, a skate park
+- a senior assisted living facility (Department of Aging and Community Living's center on the 2500 block)
+- two forest patches (Langdon Park's and the [South Langdon/Queens Chapel/Paper Street Forest Patch](/issues/paperstreetforestpatch/))
+- other large institutional landmasses (Howard University Divinity School and Franciscan Monastery just off the corridor)
+- retail areas along Rhode Island Ave and in a small cluster around 18th/Monroe
 
 ## Present Condition
 From Montana Ave NE to Rhode Island Ave NE, 18th St NE is 42 feet wide, typically divided as follows, from west to east:
