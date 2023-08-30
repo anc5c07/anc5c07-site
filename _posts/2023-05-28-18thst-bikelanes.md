@@ -16,10 +16,10 @@ This community concern runs through 5C07, but also along the boundary of 5C06 an
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=16eQ4pEvQNLWAV7ExmHi2A2CypZ78y_M&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ## tl;dr
-- **The 18th St NE bike lanes** are a set of painted lanes on 18th St NE running in some form for the half mile from Montana Ave NE to Rhode Island Ave NE, that were installed sometime in the 2007-2009 timeframe
+- **The 18th St NE bicycle/mobility lanes** are a set of painted lanes on 18th St NE running in some form for the half mile from Montana Ave NE to Rhode Island Ave NE
 - **The lanes are inconsistent**; running on only one or the other side of the roadway (with sharrows on the other side), and jumping laterally across intersections without guidelines or good visibility
 - **This is confusing and unsafe for bikers and drivers alike**; the double-yellow median frequently jumps around with the bike lanes
-- **A number of nearby infrastructure improvements, geographic constraints, and family-centric amenities** make it especially important that we protect the infrastructure we have as we seek to extend it from Montana to Michigan
+- **A number of nearby infrastructure improvements, [geographic constraints](#connectivity), and [family-centric amenities](#amenities)** make it especially important that we protect the infrastructure we have as we seek to extend it from Montana to Michigan
 
 ## The Need
 As DC's low-stress bicycle/mobility priority network grows, we need to keep in mind the necessity for safe and accessible infrastructure along 18th St. There are many reasons, further detailed below:
