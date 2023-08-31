@@ -38,8 +38,8 @@ The 18th St corridor is home to nine schools, four parks, a library, a rec cente
 
 The existing (in need of improvement) bicycle/mobility lanes connect Woodridge Library, Langdon Park, Langdon Elementary, and the DACL assisted living facility.
 
-### more specifics
-Some more institutions along the whole corridor:
+#### specifics
+Institutions along the whole corridor spelled out:
 - many schools
   - 2-3 DCPS elementary schools (Langdon ES, John Burroughs ES; Bunker Hill ES is just a bit off the corridor)
   - the Taft Middle School building, which currently houses:
