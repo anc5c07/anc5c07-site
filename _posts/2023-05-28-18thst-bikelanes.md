@@ -31,7 +31,7 @@ As DC's low-stress bicycle/mobility priority network grows, we need to keep in m
 It's in [DC DDOT's plans already](https://movedc-dcgis.hub.arcgis.com/pages/bicycles). 18th St provides a uniquely necessary north-south route.
 
 ### Connectivity
-18th St (and a segment of Montana Ave) are the middle of only three safe connections east of the Metropolitan Branch tracks/trail over the railyards. It is critical that this connection be made safe.
+18th St (combined with a segment of Montana Ave) is the middle of only three connections over the railyard east of the Metropolitan Branch tracks/trail. It is critical that this connection be made safe.
 
 ### Amenities
 The 18th St corridor is home to nine schools, four parks, a library, a rec center, a public pool, a large senior assisted living facility, two forest patches, and other future growth areas, making safe and corridor-long connectivity crucial.
