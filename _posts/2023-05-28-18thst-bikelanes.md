@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-08-31T03:52:13
+last_modified_at: 2023-08-31T03:58:20
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02.
 {: .notice--warning}
@@ -66,6 +66,11 @@ A number of important projects are moving forward nearby, and better connectivit
 - [The Bladensburg Road Multimodal Safety and Access Study](https://engage.dc.gov/BladensburgSafetyStudy) which would implement curbside protected bicycle/mobility lanes across the entire span of Bladensburg Road NE
 - [The Mount Olivet Rd multimodal improvements](https://ddotwiki.atlassian.net/wiki/spaces/NI/pages/2207023106/NOI-23-93-TESD) to implement a protected two-way cycletrack on Mount Olivet Road from 9th/Brentwood to Bladensburg
 - [Taylor St NE improvements](https://twitter.com/FixCircle/status/1695908672398889148) may create a new east-west low-stress route from the MBT to some eastern terminus (possibly as far as SDA or 18th St)
+
+## Attempts to put this on DDOT's radar
+In the absence of any serious plans to improve 18th St, I've been trying to keep this on DDOT's radar as I submit comments for tangentially related matters, such as:
+- [Letter in Support of NOI-23-158-TESD](https://drive.google.com/file/d/1R6REc9kHooIGKxlQn47hRYsVynsp58Du/view?usp=sharing) for an all-way stop control at 18th/Bryant
+- [Letter in Support of NOI-23-161-PSD](https://drive.google.com/file/d/1OFh5r-EAojshX_Lwy35_-9btImaIC-Ew/view?usp=sharing) to fill the two-block gap in painted K St NE bicycle/mobility lanes separating them from the southern terminus of the West Virginia Ave lanes (which would connect across New York Avenue to Montana Ave/18th St to the north)
 
 ## Present Condition
 From Montana Ave NE to Rhode Island Ave NE, 18th St NE is 42 feet wide, typically divided as follows, from west to east:
