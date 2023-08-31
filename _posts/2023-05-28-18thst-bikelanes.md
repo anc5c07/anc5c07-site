@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-08-31T03:58:20
+last_modified_at: 2023-08-31T04:25:10
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02.
 {: .notice--warning}
@@ -35,7 +35,7 @@ As DC's low-stress bicycle/mobility priority network grows, we need to keep in m
 - Queens Chapel Rd NE/Bladensburg Road NE
 
 ### Amenities
-The 18th St corridor is home to nine schools, four parks, a library, a rec center, a public pool, a large senior assisted living facility, two forest patches, and several future growth areas, making safe and corridor-long connectivity crucial.
+The 18th St corridor is home to nine schools, five parks, a library, a rec center, a public pool, a large senior assisted living facility, two forest patches, and several future growth areas, making safe and corridor-long connectivity crucial.
 
 The existing (in need of improvement) bicycle/mobility lanes connect Woodridge Library, Langdon Park, Langdon Elementary, and the DACL assisted living facility.
 
@@ -49,7 +49,7 @@ Institutions along the whole corridor spelled out:
     - a dance school (Princess Mhoon Dance Institute (PMDI))
   - a school's makerspace (Center City Public Charter's upcoming facility on the 2300 block)
 - one of Ward 5's only two Public Libraries (Woodridge Neighborhood Library)
-- three DPR Parks (Loomis, Langdon, Dwight Mosley) plus the popular publicly accessible playground and field at Burroughs ES
+- four DPR Parks (Loomis, Langdon, Dwight Mosley, Bunker Hill Triangle) plus the popular publicly accessible playground and field at Burroughs ES
 - Langdon Park's many unique amenities for the area: a [soon-to-be-modernized recreation center](/issues/langdonrec), a public pool, a skate park
 - a senior assisted living facility (Department of Aging and Community Living's center on the 2500 block)
 - two forest patches (Langdon Park's and the [South Langdon/Queens Chapel/Paper Street Forest Patch](/issues/paperstreetforestpatch/))
