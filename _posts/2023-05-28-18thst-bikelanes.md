@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-08-31T04:28:05
+last_modified_at: 2023-08-31T04:35:38
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -19,7 +19,8 @@ This community concern runs through 5C07, but also along the boundary of 5C06 an
 - **The 18th St NE bicycle/mobility lanes** are a set of painted lanes on 18th St NE running in some form for the half mile from Montana Ave NE to Rhode Island Ave NE
 - **The lanes are inconsistent**; running on only one or the other side of the roadway (with sharrows on the other side), and jumping laterally across intersections without guidelines or good visibility
 - **This is confusing and unsafe for bikers and drivers alike**; the double-yellow median frequently jumps around with the bike lanes
-- **A number of nearby infrastructure improvements, [geographic constraints](#connectivity), and [family-centric amenities](#amenities)** make it especially important that we protect the infrastructure we have as we seek to extend it from Montana to Michigan
+- **A number of [nearby infrastructure improvements](#nearby-projects), [geographic constraints](#connectivity), and [family-centric amenities](#amenities)** make it especially important that we protect the infrastructure we have as we seek to extend it from Montana to Michigan
+- **I've been [attempting to draw attention](#advocacy)** on this need to get DDOT to move on it sooner rather than later.
 
 ## The Need
 As DC's low-stress bicycle/mobility priority network grows, we need to keep in mind the necessity for safe and accessible infrastructure along 18th St. There are many reasons, further detailed below:
@@ -68,10 +69,13 @@ A number of important projects are moving forward nearby, and better connectivit
 - [The Mount Olivet Rd multimodal improvements](https://ddotwiki.atlassian.net/wiki/spaces/NI/pages/2207023106/NOI-23-93-TESD) to implement a protected two-way cycletrack on Mount Olivet Road from 9th/Brentwood to Bladensburg
 - [Taylor St NE improvements](https://twitter.com/FixCircle/status/1695908672398889148) may create a new east-west low-stress route from the MBT to some eastern terminus (possibly as far as SDA or 18th St)
 
-## Attempts to put this on DDOT's radar
+## Advocacy
 In the absence of any serious plans to improve 18th St, I've been trying to keep this on DDOT's radar as I submit comments for tangentially related matters, such as:
 - [Letter in Support of NOI-23-158-TESD](https://drive.google.com/file/d/1R6REc9kHooIGKxlQn47hRYsVynsp58Du/view?usp=sharing) for an all-way stop control at 18th/Bryant
 - [Letter in Support of NOI-23-161-PSD](https://drive.google.com/file/d/1OFh5r-EAojshX_Lwy35_-9btImaIC-Ew/view?usp=sharing) to fill the two-block gap in painted K St NE bicycle/mobility lanes separating them from the southern terminus of the West Virginia Ave lanes (which would connect across New York Avenue to Montana Ave/18th St to the north)
+
+### Community Action
+Absent any other clear focus, email advocating for improvements and expansions to the 18th St bicycle/mobility lanes can be emailed to DDOT's Community Engagment Specialist for Ward 5, Dalando Baker (dalando.baker@dc.gov). Feel free to CC me (5c07@anc.dc.gov) and Conor from CM Parker's office (cshaw@dccouncil.gov).
 
 ## Present Condition
 From Montana Ave NE to Rhode Island Ave NE, 18th St NE is 42 feet wide, typically divided as follows, from west to east:
