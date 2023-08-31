@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-08-30T17:52:28
+last_modified_at: 2023-08-31T03:52:13
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02.
 {: .notice--warning}
@@ -23,18 +23,19 @@ This community concern runs through 5C07, but also along the boundary of 5C06 an
 
 ## The Need
 As DC's low-stress bicycle/mobility priority network grows, we need to keep in mind the necessity for safe and accessible infrastructure along 18th St. There are many reasons, further detailed below:
-- it's already in the MoveDC plan
 - there are unique geographic constraints making 18th and Montana a critical connection
 - there are many unique and family-focused amenities along the corridor
-
-### MoveDC plan
-It's in [DC DDOT's plans already](https://movedc-dcgis.hub.arcgis.com/pages/bicycles). 18th St provides a uniquely necessary north-south route.
+- this connectivity is considered in the existing MoveDC Bicycle Priority plan
+- there are a number of substantial investments in new bicycle/mobility infrastructure being made nearby
 
 ### Connectivity
-18th St (combined with a segment of Montana Ave) is the middle of only three connections over the railyard east of the Metropolitan Branch tracks/trail. It is critical that this connection be made safe.
+18th St (combined with a segment of Montana Ave) is the middle of only three connections over the railyard and tracks extending east from the Metropolitan Branch tracks/trail. The three connections, from west to east, are:
+- Brentwood Rd NE/9th St NE
+- 18th St NE/Montana Ave NE
+- Queens Chapel Rd NE/Bladensburg Road NE
 
 ### Amenities
-The 18th St corridor is home to nine schools, four parks, a library, a rec center, a public pool, a large senior assisted living facility, two forest patches, and other future growth areas, making safe and corridor-long connectivity crucial.
+The 18th St corridor is home to nine schools, four parks, a library, a rec center, a public pool, a large senior assisted living facility, two forest patches, and several future growth areas, making safe and corridor-long connectivity crucial.
 
 The existing (in need of improvement) bicycle/mobility lanes connect Woodridge Library, Langdon Park, Langdon Elementary, and the DACL assisted living facility.
 
@@ -54,6 +55,17 @@ Institutions along the whole corridor spelled out:
 - two forest patches (Langdon Park's and the [South Langdon/Queens Chapel/Paper Street Forest Patch](/issues/paperstreetforestpatch/))
 - other large institutional landmasses (Howard University Divinity School and Franciscan Monastery just off the corridor)
 - retail areas along Rhode Island Ave and in a small cluster around 18th/Monroe
+
+### MoveDC plan
+[DDOT's MoveDC Bicycle Priority plans](https://movedc-dcgis.hub.arcgis.com/pages/bicycles) include plans for future improvement along all of Montana Ave, and 18th St north from the existing lanes to South Dakota Ave NE. 18th St provides a uniquely necessary north-south route parallel with the existing (and now finally complete) MBT/8th St route.
+
+### Nearby Projects
+A number of important projects are moving forward nearby, and better connectivity on and around 18th St NE will be critical for connectivity to and among them. These projects include:
+- [The 8th St safety improvements](https://ddot.dc.gov/8thstreetne), nearing completion, which implemented a protected two-way cycletrack on 8th St NE to bridge the gap between the two existing segments of the Metropolitan Branch Trail (MBT), creating a comprehensive north-south route just under a mile west of 18th St NE
+- [The New York Ave NE trail project](https://nyave.ddot.dc.gov/) to create mixed-used trails on either side of New York Ave NE
+- [The Bladensburg Road Multimodal Safety and Access Study](https://engage.dc.gov/BladensburgSafetyStudy) which would implement curbside protected bicycle/mobility lanes across the entire span of Bladensburg Road NE
+- [The Mount Olivet Rd multimodal improvements](https://ddotwiki.atlassian.net/wiki/spaces/NI/pages/2207023106/NOI-23-93-TESD) to implement a protected two-way cycletrack on Mount Olivet Road from 9th/Brentwood to Bladensburg
+- [Taylor St NE improvements](https://twitter.com/FixCircle/status/1695908672398889148) may create a new east-west low-stress route from the MBT to some eastern terminus (possibly as far as SDA or 18th St)
 
 ## Present Condition
 From Montana Ave NE to Rhode Island Ave NE, 18th St NE is 42 feet wide, typically divided as follows, from west to east:
