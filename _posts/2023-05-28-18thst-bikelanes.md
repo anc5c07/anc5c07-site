@@ -48,7 +48,7 @@ Institutions along the whole corridor spelled out:
     - a dance school (Princess Mhoon Dance Institute (PMDI))
   - a school's makerspace (Center City Public Charter's upcoming facility on the 2300 block)
 - one of Ward 5's only two Public Libraries (Woodridge Neighborhood Library)
-- three DPR Parks (Loomis, Langdon, Dwight Mosley) plus a popular publicly accessible playground at Burroughs ES
+- three DPR Parks (Loomis, Langdon, Dwight Mosley) plus the popular publicly accessible playground and field at Burroughs ES
 - Langdon Park's many unique amenities for the area: a [soon-to-be-modernized recreation center](/issues/langdonrec), a public pool, a skate park
 - a senior assisted living facility (Department of Aging and Community Living's center on the 2500 block)
 - two forest patches (Langdon Park's and the [South Langdon/Queens Chapel/Paper Street Forest Patch](/issues/paperstreetforestpatch/))
