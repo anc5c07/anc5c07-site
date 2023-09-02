@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-09-02T16:41:35
+last_modified_at: 2023-09-02T17:15:55
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -56,8 +56,8 @@ Institutions along the whole corridor spelled out:
     - Bellas Artes (a block west on RIA)
     - Petit Scholars RIA (two blocks east on RIA)
     - Woodbridge Daycare (3300 block)
-    - daycare 1 (3400 block)
-    - daycare 2 (3400 block)
+    - 18th Street Early Learning (3400 block)
+    - Prep Enrichment Center (3400 block)
 - one of Ward 5's only two Public Libraries (Woodridge Neighborhood Library)
 - 4-6 parks:
   - Arboretum playground/rec center (just off Montana)
@@ -72,7 +72,11 @@ Institutions along the whole corridor spelled out:
 - two forest patches (Langdon Park's and the [South Langdon/Queens Chapel/Paper Street Forest Patch](/issues/paperstreetforestpatch/))
 - Douglas Development's [NewCityDC project](https://douglasdevelopment.com/properties/new-city-dc/)
 - other large institutional landmasses (Howard University Divinity School, Franciscan Monastery, and US Arboretum just off the corridor)
-- retail areas along Rhode Island Ave and in a small clusters around 18th/Monroe and 18th/Montana
+- important retail areas:
+  - along Rhode Island Ave
+  - around 18th/Monroe
+  - around 18th/Montana
+  - Ivy City/Hecht Warehouse
 - a high-frequency bus corridor along Rhode Island Ave (with 18th itself serving as a critical connector via the E2 line from Fort Totten to Ivy City)
 
 ### MoveDC plan
