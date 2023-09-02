@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-08-31T04:35:38
+last_modified_at: 2023-09-02T15:30:42
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -35,8 +35,10 @@ As DC's low-stress bicycle/mobility priority network grows, we need to keep in m
 - 18th St NE/Montana Ave NE
 - Queens Chapel Rd NE/Bladensburg Road NE
 
+South Dakota Ave and Eastern Ave each pass over the northern track line only before connecting to New York Ave where it's essentially in interstate form.
+
 ### Amenities
-The 18th St corridor is home to nine schools, five parks, a library, a rec center, a public pool, a large senior assisted living facility, two forest patches, and several future growth areas, making safe and corridor-long connectivity crucial.
+The 18th St corridor is home to nine schools, six daycares, six parks, two rec centers, a library, a public pool, a large senior assisted living facility, a pediatric rehabilitation center, two forest patches, large institutional facility, and several anticipated large-scale developments, making safe and corridor-long connectivity crucial.
 
 The existing (in need of improvement) bicycle/mobility lanes connect Woodridge Library, Langdon Park, Langdon Elementary, and the DACL assisted living facility.
 
@@ -49,14 +51,23 @@ Institutions along the whole corridor spelled out:
     - a private school (St. Jerome Institute)
     - a dance school (Princess Mhoon Dance Institute (PMDI))
   - a school's makerspace (Center City Public Charter's upcoming facility on the 2300 block)
-  - several daycare facilities
+  - many daycares:
+    - Kiddie Blossom University (opening soon on the 2800 block)
+    - Bellas Artes (a block west on RIA)
+    - Petit Scholars RIA (two blocks east on RIA)
+    - Woodbridge Daycare (3300 block)
+    - daycare 1 (3400 block)
+    - daycare 2 (3400 block)
 - one of Ward 5's only two Public Libraries (Woodridge Neighborhood Library)
 - four DPR Parks (Loomis, Langdon, Dwight Mosley, Bunker Hill Triangle) plus the popular publicly accessible playground and field at Burroughs ES
 - Langdon Park's many unique amenities for the area: a [soon-to-be-modernized recreation center](/issues/langdonrec), a public pool, a skate park
 - a senior assisted living facility (Department of Aging and Community Living's center on the 2500 block)
+- a pediatric rehabilitation facility ([Children's National's HSC Pediatric Center](https://childrensnational.org/hsc))
 - two forest patches (Langdon Park's and the [South Langdon/Queens Chapel/Paper Street Forest Patch](/issues/paperstreetforestpatch/))
-- other large institutional landmasses (Howard University Divinity School and Franciscan Monastery just off the corridor)
-- retail areas along Rhode Island Ave and in a small cluster around 18th/Monroe
+- Douglas Development's [NewCityDC project](https://douglasdevelopment.com/properties/new-city-dc/)
+- other large institutional landmasses (Howard University Divinity School, Franciscan Monastery, and US Arboretum just off the corridor)
+- retail areas along Rhode Island Ave and in a small clusters around 18th/Monroe and 18th/Montana
+- a high-frequency bus corridor along Rhode Island Ave (with 18th itself serving as a critical connector via the E2 line from Fort Totten to Ivy City)
 
 ### MoveDC plan
 [DDOT's MoveDC Bicycle Priority plans](https://movedc-dcgis.hub.arcgis.com/pages/bicycles) include plans for future improvement along all of Montana Ave, and 18th St north from the existing lanes to South Dakota Ave NE. 18th St provides a uniquely necessary north-south route parallel with the existing (and now finally complete) MBT/8th St route.
