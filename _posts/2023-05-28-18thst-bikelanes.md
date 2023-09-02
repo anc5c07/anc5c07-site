@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-09-02T15:30:42
+last_modified_at: 2023-09-02T16:13:48
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -71,6 +71,38 @@ Institutions along the whole corridor spelled out:
 
 ### MoveDC plan
 [DDOT's MoveDC Bicycle Priority plans](https://movedc-dcgis.hub.arcgis.com/pages/bicycles) include plans for future improvement along all of Montana Ave, and 18th St north from the existing lanes to South Dakota Ave NE. 18th St provides a uniquely necessary north-south route parallel with the existing (and now finally complete) MBT/8th St route.
+
+#### Montana from Bladensburg to 18th
+This span is anticipated in the MoveDC plans and has no existing infrastructure or planned improvements along Montana. It runs along the NewCityDC development site (currently temporary WMATA bus storage) and connects to Bladensburg on the south. This segment is bisected by a notoriously unsafe virtual circle, generally called Montana Circle, which DDOT does at some point anticipate rebuilding.
+
+This span of Montana Ave has variable crosswidth, with the areas around Montana Circle being chaotic and interrupted, and the consistent spans being different widths north and south of it. The two spans are:
+- **38' wide north of Montana Circle, with two travel lanes in each direction and no street parking.** Implementing protected bike lanes for this span would likely involve taking a travel lane and replacing another with a median and left-turn "pocket" lanes; this is a 4:3 road diet.
+- **42' wide south of Montana Circle, with one travel lane and one street parking lane in each direction.** Implementing protected bike lanes for this span would likely involve taking a parking lane; parking here is not heavily in use, though there are some residences using street parking on the west side of the span.
+
+#### 18th from Montana to RIA
+This span has [existing lanes](#present-condition), though they're unprotected and inconsistent.
+
+As the roadway is 42' wide, with 37' consistently allocated north of Bryant to one travel lane and one parking lane in each direction, implementing consistent and protected lanes here would likely require eliminating one parking lane. Parking here is low-utilization; on the east side, 18th runs along Langdon Park and the DACL assisted senior living facility (which has a parking lot fronting 18th). This lane sees intermittent non-resident use. On the west side, residents mostly make use of off-street parking.
+
+#### RIA to Irving
+This span is marked for having existing infrastructure in the MoveDC plans, though I'm not aware of any. At around 35' of crosswidth with only one travel lane in each direction and no parking, this roadway is already primed for introducing bike lanes, as it would just be a matter of right-sizing the travel lanes and would not remove any existing parking.
+
+I'm hopeful at least a quick painted extension of the existing lanes (mirroring the span from Montana to Bryant) could occur as part of the public space work for the [1800 Hamlin St NE](/issues/1800hamlin) development.
+
+#### Irving north
+This span is anticipated in the MoveDC plans up to South Dakota Ave NE, though the roadway characteristics remain the same all the way to just shy of Michigan (and continuing northbound in phases should be a longer-term goal).
+
+At 29' of crosswidth and containing important two-way bus service (and parking along one side only), finding a way forward here will be tricky. Some options include:
+- Splitting bus and/or bicycle/mobility infrastructure between 18th and 20th, two consistently parallel collector roads from Evarts to Varnum.
+- Eliminating the parking lane entirely, and leaving 10' for bus and car traffic in each direction with 9 feet left for a two-way cycletrack including buffer
+
+I'm on the lookout for other options/ideas here.
+
+Some notes on the street parking here (moving south to north):
+- **Irving to Newton**: residential parking usage is relatively low, and could likely be carried over to cross streets
+- **Newton to Otis:** the 3600 block is a dense stretch of rowhouses with heavy street parking utilization; buy-in from these residents would be important
+- **Randolph to SDA:** This is a transitional block with no parking and a left-turn pocket lane onto SDA for northbound traffic; some considerations here could be given as part of the upcoming [South Dakota Ave project](/issues/sda/)
+- **SDA to Varnum/Michigan:** The parking lane switches from the west/southbound side to the east/northbound side
 
 ### Nearby Projects
 A number of important projects are moving forward nearby, and better connectivity on and around 18th St NE will be critical for connectivity to and among them. These projects include:
