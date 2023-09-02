@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-09-02T17:15:55
+last_modified_at: 2023-09-02T17:32:17
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -38,7 +38,7 @@ As DC's low-stress bicycle/mobility priority network grows, we need to keep in m
 South Dakota Ave and Eastern Ave each pass over the northern track line only before connecting to New York Ave where it's essentially in interstate form.
 
 ### Amenities
-The 18th St corridor is home to nine schools, six daycares, six parks, two rec centers, a library, a public pool, a large senior assisted living facility, a pediatric rehabilitation center, two forest patches, large institutional facility, and several anticipated large-scale developments, making safe and corridor-long connectivity crucial.
+The 18th St corridor is home to nine schools, many daycares, six parks, two rec centers, a library, a public pool, a large senior assisted living facility, a pediatric rehabilitation center, two forest patches, large institutional facility, and several anticipated large-scale developments, making safe and corridor-long connectivity crucial.
 
 The existing (in need of improvement) bicycle/mobility lanes connect Woodridge Library, Langdon Park, Langdon Elementary, and the DACL assisted living facility.
 
@@ -52,6 +52,7 @@ Institutions along the whole corridor spelled out:
     - a dance school (Princess Mhoon Dance Institute (PMDI))
   - a school's makerspace (Center City Public Charter's upcoming facility on the 2300 block)
   - many daycares:
+    - Gatari Child Development Center (just off the corridor in Ivy City)
     - Kiddie Blossom University (opening soon on the 2800 block)
     - Bellas Artes (a block west on RIA)
     - Petit Scholars RIA (two blocks east on RIA)
@@ -69,6 +70,9 @@ Institutions along the whole corridor spelled out:
 - Langdon Park's many unique amenities for the area: a [soon-to-be-modernized recreation center](/issues/langdonrec), a public pool, a skate park
 - a senior assisted living facility (Department of Aging and Community Living's center on the 2500 block)
 - a pediatric rehabilitation facility ([Children's National's HSC Pediatric Center](https://childrensnational.org/hsc))
+- 2 pediatric dentists:
+  - Ivy City Pediatric Dentistry (just off the corridor in Ivy City)
+  - Children's Choice Pediatric Dentistry (a couple block to the east on Bunker Hill)
 - two forest patches (Langdon Park's and the [South Langdon/Queens Chapel/Paper Street Forest Patch](/issues/paperstreetforestpatch/))
 - Douglas Development's [NewCityDC project](https://douglasdevelopment.com/properties/new-city-dc/)
 - other large institutional landmasses (Howard University Divinity School, Franciscan Monastery, and US Arboretum just off the corridor)
@@ -104,7 +108,7 @@ This span is anticipated in the MoveDC plans up to South Dakota Ave NE, though t
 
 At 29' of crosswidth and containing important two-way bus service (and parking along one side only), finding a way forward here will be tricky. Some options include:
 - Splitting bus and/or bicycle/mobility infrastructure between 18th and 20th, two consistently parallel collector roads from Evarts to Varnum.
-- Eliminating the parking lane entirely, and leaving 10' for bus and car traffic in each direction with 9 feet left for a two-way cycletrack including buffer
+- Eliminating the parking lane entirely, and leaving 10' for bus and car traffic in each direction with 9' left for a two-way cycletrack including buffer
 
 I'm on the lookout for other options/ideas here.
 
