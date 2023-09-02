@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-09-02T16:27:45
+last_modified_at: 2023-09-02T16:41:35
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -63,8 +63,8 @@ Institutions along the whole corridor spelled out:
   - Arboretum playground/rec center (just off Montana)
   - Loomis Park
   - Langdon Park
-  - Dwight Mosley Park and Taft Field
   - publicly accessible playground and field as Burroughs ES
+  - Dwight Mosley Park and Taft Field
   - Bunker Hill Triangle Park
 - Langdon Park's many unique amenities for the area: a [soon-to-be-modernized recreation center](/issues/langdonrec), a public pool, a skate park
 - a senior assisted living facility (Department of Aging and Community Living's center on the 2500 block)
