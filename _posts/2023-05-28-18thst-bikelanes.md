@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-09-02T17:32:17
+last_modified_at: 2023-09-02T17:40:25
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -59,6 +59,7 @@ Institutions along the whole corridor spelled out:
     - Woodbridge Daycare (3300 block)
     - 18th Street Early Learning (3400 block)
     - Prep Enrichment Center (3400 block)
+    - Children of the Future (two blocks east on Bunker Hill)
 - one of Ward 5's only two Public Libraries (Woodridge Neighborhood Library)
 - 4-6 parks:
   - Arboretum playground/rec center (just off Montana)
@@ -70,17 +71,18 @@ Institutions along the whole corridor spelled out:
 - Langdon Park's many unique amenities for the area: a [soon-to-be-modernized recreation center](/issues/langdonrec), a public pool, a skate park
 - a senior assisted living facility (Department of Aging and Community Living's center on the 2500 block)
 - a pediatric rehabilitation facility ([Children's National's HSC Pediatric Center](https://childrensnational.org/hsc))
-- 2 pediatric dentists:
+- two pediatric dentists:
   - Ivy City Pediatric Dentistry (just off the corridor in Ivy City)
   - Children's Choice Pediatric Dentistry (a couple block to the east on Bunker Hill)
 - two forest patches (Langdon Park's and the [South Langdon/Queens Chapel/Paper Street Forest Patch](/issues/paperstreetforestpatch/))
 - Douglas Development's [NewCityDC project](https://douglasdevelopment.com/properties/new-city-dc/)
 - other large institutional landmasses (Howard University Divinity School, Franciscan Monastery, and US Arboretum just off the corridor)
 - important retail areas:
+  - Ivy City/Hecht Warehouse
+  - around 18th/Montana
   - along Rhode Island Ave
   - around 18th/Monroe
-  - around 18th/Montana
-  - Ivy City/Hecht Warehouse
+  - around 20th/Bunker Hill
 - a high-frequency bus corridor along Rhode Island Ave (with 18th itself serving as a critical connector via the E2 line from Fort Totten to Ivy City)
 
 ### MoveDC plan
