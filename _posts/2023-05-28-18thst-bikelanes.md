@@ -1,14 +1,14 @@
 ---
 title: "18th St NE bicycle/mobility lanes"
 permalink: /issues/18thst-bikelanes/
-excerpt: "Protect and Expand this vital infrastructure from Montana to Michigan"
+excerpt: "Protect and Expand from Montana to Michigan"
 author_profile: false
 header:
   overlay_image: /assets/images/18thst/south-from-dock.jpg
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-09-03T12:28:39
+last_modified_at: 2023-09-03T12:29:03
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
