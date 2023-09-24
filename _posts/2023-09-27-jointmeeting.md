@@ -4,11 +4,11 @@ permalink: /issues/20230927-jointmeeting/
 excerpt: "a fall check-in"
 author_profile: false
 header:
-  overlay_image: /assets/images/jointmeeting.jpg
+  overlay_image: /assets/images/1800hamlin/current-northwest.jpg
   overlay_filter: rgba(127, 127, 127, 0.5)
-  caption: "[Joint Meeting placeholder image](/assets/images/jointmeeting.jpg)"
+  caption: "[1800 Hamlin St NE](/assets/images/1800hamlin/current-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-09-24T02:07:35
+last_modified_at: 2023-09-24T02:13:49
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
