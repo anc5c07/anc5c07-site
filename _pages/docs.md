@@ -44,8 +44,11 @@ I take this opportunity to echo DPR's own permit regulations, as well as highlig
 ## DDOT NOI responses
 DDOT issues an "NOI" (Notice of Intent) for any projects, to make the available for public comment. Commissioner (and, even moreso, Commission) feedback is given special weight. For these letters, I frequently point out other places where similar mitigations are necessary, or advocate for why subsequent phases to go further than the noticed action should follow as soon as possible.
 
-## Zoning case testimony
+## Zoning case responses
 This is feedback to the Zoning Commission or Board of Zoning Adjustment for applications on zoning relief. I frequently take this opportunity to mention I would have supported other relief too, had the applicant been seeking it.
+
+## Public Space case responses
+This is feedback to the Public Space Committee for applications for public space permitting.
 
 ## Settlement Agreements
 These are contractual agreements between parties (frequently Advisory Neighborhood Commissions) and alcohol/cannabis license holders. While the provisions of these are mostly borrowed from existing documents, I do occassionally draft (and vet through ABCA) new provisions as part of creating Settlement Agreements, as I did for Aurora Market's multimodal transportation encouragement provision.
