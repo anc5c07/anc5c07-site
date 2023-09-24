@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Joint Meeting placeholder image](/assets/images/jointmeeting.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-09-24T02:01:23
+last_modified_at: 2023-09-24T02:07:35
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -65,6 +65,7 @@ Feel free to reach out if you have suggestions for this agenda! Given the inform
   - Aurora Market renewal (renewal, ABRA-124890, protest deadline 10/24)
   - New Neighborhood Market (renewal, ABRA-117177, protest deadline 10/24)
   - DC Xtracts submitted (not yet placarded; presentation expected in October)
+- public comments/questions
 
 ## Notification History
 I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact methods on the footer of this webpage.
