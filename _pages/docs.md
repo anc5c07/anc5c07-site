@@ -11,6 +11,9 @@ layout: single
 I'm still working on rounding all of these up, including passed and draft 5C resolutions on which I was primary author.
 {: .notice--warning}
 
+These are distinct from flyers and other handouts; find those on the [Flyers](/flyers/) page.
+{: .notice--success}
+
 This is a collection of written works I've issued or contributed to. I often take these formal issuances to provide commentary on the record for tangentially related issues, such as bringing things back to 5C07 for issues just outside, or pointing out other places where certain mitigations are also needed. More info on common types of letters, and my general practice in broadening their scope for the sake of larger advocacy goals, are below.
 
 |date|type|role|title|
