@@ -1,6 +1,6 @@
 ---
 permalink: /letters/
-title: "Letters, resolutions, etc."
+title: "Letters, written testimony, resolutions, etc."
 excerpt: "Formal written documents for various purposes"
 header:
   overlay_image: /assets/images/papers.jpg
