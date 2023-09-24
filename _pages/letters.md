@@ -29,6 +29,8 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2023-05-25|PSC case response|solo issuer|[Letter in Opposition of PSC Application #411090; 4950 South Dakota Ave NE](https://drive.google.com/file/d/1FlT6i8u70xvo8sqEw660LKoXw59iAgqz/view)|
 |2023-04-21|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 88956](https://drive.google.com/file/d/1umm3m7aBf1FXc5xVYb_AQl1eAWlMirma/view)
 |2023-04-03|BZA case response|solo issuer|[Letter in Support of BZA 20861, 3315 12th St. NE](https://drive.google.com/file/d/1TJAnO69lygCX20a4MFFXzCa2dLfh0JAT/view)|
+|2023-03-29|written Council testimony|solo issuer|[Testimony before Judiciary Committee Budget Oversight Hearing on the DC FEMS](https://drive.google.com/file/d/1ER-smvgD4EEzmYvrAQikOX5WK1s-yPjc/view)|
+|2023-02-27|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on the DDOT](https://drive.google.com/file/d/1kHrd9SYQ1mdMVIX4xkPC961jY-D7J_d2/view)|
 
 ## Amplified Sound letters
 When a person or organization applies for a permit to host an event in a DPR-managed park (such as Langdon Park), and they request an endorsement for amplified sound (such as playing music through speakers), they are instructed to seek approval from the Commissioner of the Single-Member District containing the park. While DPR may still choose to issue the endorsement absent consent from the Commissioner, the process is much easier once this approval has been issued.
