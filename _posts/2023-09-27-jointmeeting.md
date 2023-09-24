@@ -8,14 +8,15 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[1800 Hamlin St NE](/assets/images/1800hamlin/current-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-09-24T02:13:49
+last_modified_at: 2023-09-24T02:18:32
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
 {: .notice--warning}
 
 ## tl;dr
-- Our **monthly joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
+- Our **semi-monthly joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
+- This is our first meeting since May, after a late cancellation in June and summer recess.
 - Due to a Woodridge Library's current early hours, this meeting will be entirely virtual, unlike our meetings earlier this year.
 - Any other community updates or suggestions welcome; [agenda](#agenda) below
 
@@ -60,6 +61,7 @@ Feel free to reach out if you have suggestions for this agenda! Given the inform
   - Langdon Elementary PTO
   - Langdon Park Neighbors
   - Friends of Queens Chapel Forest Patch
+  - Franklin Arms Tenant Association
 - an update on [1800 Hamlin St NE](/issues/1800hamlin/) (ZC 23-18)
 - alcohol/cannabis matters
   - Aurora Market renewal (renewal, ABRA-124890, protest deadline 10/24)
