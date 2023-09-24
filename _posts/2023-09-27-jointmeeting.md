@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[1800 Hamlin St NE](/assets/images/1800hamlin/current-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-09-24T02:34:01
+last_modified_at: 2023-09-24T02:37:07
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -59,10 +59,10 @@ Feel free to reach out if you have suggestions for this agenda! Given the inform
 - community updates
   - John Burroughs Elementary PTO
   - Langdon Elementary PTO
-  - Langdon Park Neighbors
+  - [Langdon Park Neighbors](https://www.langdonparkneighbors.org/)
   - Friends of Queens Chapel Forest Patch
   - Franklin Arms Tenant Association
-  - RIA Main Street/Art All Night
+  - RIA Main Street/[Art All Night](https://www.dcsquared.org/aan)
 - an update on [1800 Hamlin St NE](/issues/1800hamlin/) (ZC 23-18)
 - alcohol/cannabis matters
   - Aurora Market renewal (renewal, ABRA-124890, protest deadline 10/24)
