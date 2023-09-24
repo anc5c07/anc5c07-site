@@ -1,7 +1,7 @@
 ---
-permalink: /letters/
-title: "Letters, written testimony, resolutions, etc."
-excerpt: "Formal written documents for various purposes"
+permalink: /documents/
+title: "Documents"
+excerpt: "Formal written letters, testimony, resolutions, etc."
 header:
   overlay_image: /assets/images/papers.jpg
   overlay_filter: rgba(127, 127, 127, 0.5)
