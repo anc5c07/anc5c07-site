@@ -87,7 +87,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "anc5c07"
+  username               : "vj5c07"
 facebook:
   username               : "vkapur"
   app_id                 :
@@ -99,7 +99,7 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-    - https://twitter.com/anc5c07 # An array of links to social media profiles
+    - https://twitter.com/vj5c07 # An array of links to social media profiles
 
 # Analytics
 analytics:
