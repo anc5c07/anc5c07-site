@@ -12,7 +12,7 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-09-24T22:51:18
+last_modified_at: 2023-09-25T17:04:16
 ---
 <div id="development-map" class="map-container"></div>
 This community concern is in 5C02.
@@ -25,6 +25,7 @@ This community concern is in 5C02.
 - **Volunteer stewardship in the two-acre [Langdon Park Forest Patch](https://biologistsoup.wordpress.com/2022/10/04/a-little-more-about-langdon-forest-patch/) was facilitated by the $25k investment** in a 680-foot unpaved trail constructed through the forest by CaseyTrees, so **the projected cost to do the same in the Queens Chapel patch would be $50k**
 - **Prospects for DDOT trail-building have been considered**, but it's unlikely any such project could occur soon given archeological concerns in the forest and the need for DDOT to build a paved and ADA-accessible trail, a far costlier capital project.
 - **The QCFP has also been nominated for conservative easement**, a process that would indefinitely protect the entirety of the forest from any future development.
+- **There may be near-term stopgaps to keep the forest untrammelled** by simply getting on-the-record memos from DMPED, DGS, and DDOT to this effect.
 
 ## More Forest Info
 Thanks to Allison Clausen and Delores Bushong, Langdon Park Forest Stewards, for helping with the below.
