@@ -30,6 +30,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2023-07-30|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 92658](https://drive.google.com/file/d/1vwh0EWbx90kEYtBEv_zTbawvsNG3iOKU/view)
 |2023-07-24|BZA case response|primary drafter|[Re: Joint Letter in Support of BZA application 20872A, 2026 Jackson St NE](https://drive.google.com/file/d/1KgXJWwRosGPfpSidqRvel8vxWE3evZoX/view)
 |2023-07-17|BZA case response|primary drafter|[Letter regarding BZA 20927; 1015 Rhode Island Ave NE](https://drive.google.com/file/d/1XIpD1kdWI-Uws4QhNJ9Mz-BgWejGgMQp/view)
+|2023-07-12; not passed|ANC 5C resolution|sponsor, primary drafter|[Re: Bladensburg Road, NE Multimodal Safety and Access Study; preferred concepts](https://drive.google.com/file/d/1LmZjklWlUMPuM2npnfoqLKXTYLHY0byx/view)|
 |2023-05-25|PSC case response|solo issuer|[Letter in Opposition of PSC Application #411090; 4950 South Dakota Ave NE](https://drive.google.com/file/d/1FlT6i8u70xvo8sqEw660LKoXw59iAgqz/view)|
 |2023-04-21|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 88956](https://drive.google.com/file/d/1umm3m7aBf1FXc5xVYb_AQl1eAWlMirma/view)
 |2023-04-03|BZA case response|solo issuer|[Letter in Support of BZA 20861, 3315 12th St. NE](https://drive.google.com/file/d/1TJAnO69lygCX20a4MFFXzCa2dLfh0JAT/view)|
