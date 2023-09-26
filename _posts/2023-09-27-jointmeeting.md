@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[1800 Hamlin St NE](/assets/images/1800hamlin/current-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-09-24T02:37:07
+last_modified_at: 2023-09-26T10:55:29
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -64,10 +64,11 @@ Feel free to reach out if you have suggestions for this agenda! Given the inform
   - Franklin Arms Tenant Association
   - RIA Main Street/[Art All Night](https://www.dcsquared.org/aan)
 - an update on [1800 Hamlin St NE](/issues/1800hamlin/) (ZC 23-18)
+- reserved disabled resident space on 2400 block of Girard Pl NE ([DDOT NOI-23-194-TOA](https://ddotwiki.atlassian.net/wiki/spaces/NI/pages/2238939137/NOI-23-194-TOA), [Commissioner Kapur's draft response](https://docs.google.com/document/d/1cLTD2N0kUhT_dDR5J9h5VKKL5JBwQpjCNdGA5ot5aoo/view))
 - alcohol/cannabis matters
-  - Aurora Market renewal (renewal, ABRA-124890, protest deadline 10/24)
+  - DC Xtracts (new cannabis manufacturer, submitted, not yet placarded)
   - New Neighborhood Market (renewal, ABRA-117177, protest deadline 10/24)
-  - DC Xtracts submitted (not yet placarded; presentation expected in October)
+  - Aurora Market (renewal, ABRA-124890, protest deadline 10/24)
 - public comments/questions
 
 ## Notification History
