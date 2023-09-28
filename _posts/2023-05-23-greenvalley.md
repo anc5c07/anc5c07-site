@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-06-27T03:51:45
+last_modified_at: 2023-09-28T18:02:18
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -77,7 +77,7 @@ There are a number of prior zoning cases related to this property. Here are some
 
 ### Submitting a Letter
 To submit a letter:
-- send before 9:30am **Tuesday 9/26/2023** to be sure it's received in time
+- send before 9:30am **Tuesday 10/24/2023** to be sure it's received in time
 - email it to **bzasubmissions@dc.gov**
 - include the case number (`BZA 20948`) and address (`2412 Franklin St NE`) in the subject
 - including some information about your proximity to the site, and/or residency within 5C07 if applicable, may help strengthen the weighing of your comments
