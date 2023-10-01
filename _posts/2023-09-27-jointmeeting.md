@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[1800 Hamlin St NE](/assets/images/1800hamlin/current-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-09-26T11:14:23
+last_modified_at: 2023-10-01T14:50:43
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -70,6 +70,13 @@ Feel free to reach out if you have suggestions for this agenda! Given the inform
   - New Neighborhood Market (renewal, ABRA-117177, protest deadline 10/24)
   - Aurora Market (renewal, ABRA-124890, protest deadline 10/24)
 - public comments/questions
+
+## NOI-23-194-TOA starter
+The following text will echo my own submission on this Notice of Intent. Feel free to adapt for yourself and neighbors to encourage more submissions:
+
+> I live nearby at (address) and I'm writing to support the subject NOI to install a reserved parking space for the Cruz residence. As it's essential that this space be placed as close to the residence as safely possible, I ask that the newly installed "no parking" area be reduced and the no-longer-in-use curb cut at the partially demolished adjacent property be removed to accommodate the reserved space.
+> 
+> Thank you!
 
 ## Notification History
 I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact methods on the footer of this webpage.
