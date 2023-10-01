@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[1800 Hamlin St NE](/assets/images/1800hamlin/current-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-10-01T14:50:43
+last_modified_at: 2023-10-01T14:51:53
 notes: footnotes
 ---
 This is a future meeting. This page is meant to preview topics.
@@ -87,6 +87,6 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |website|This meeting information page was first posted to this website on 9/23/2023 around 10pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/) and from [the 5C website](https://anc-5c.com/calendar/).|
 |social media|I posted about this to [Twitter](https://x.com/vj5c07/status/1705959107981627451), the [Brookland DC Facebook group](https://www.facebook.com/groups/brookand/posts/10160092503599121/), the [Woodridge DC Neighbors Facebook group](https://www.facebook.com/groups/woodridgedc/posts/1724343534706085/), and [Nextdoor](https://nextdoor.com/p/RGZdxr2Rdkmh), specifically calling out the 1800 Hamlin matter each time.|
 |[direct email](https://us9.campaign-archive.com/home/?u=208f79fec14599c11c77bc927&id=150da6f8d6)|This meeting was mentioned in the [5C07 September update](https://mailchi.mp/bbc210266cb2/anc5c07-6147315) email. I mention meetings in my monthly newsletters which I try to dispatch a few days before the Full-Commission meetings (around ten days before joint SMD meetings), though this one went out a week later than that goal; [subscribe now](https://anc5c07.us9.list-manage.com/subscribe/post) if you haven't!|
-|[paper flyer](/flyers/)|This meeting has yet to be included in any paper flyers.|
+|[paper flyer](/flyers/)|This meeting is included in my September dispatch flyer as well as the single-issue flyer for 1800 Hamlin|
 
 *[SMD]: Single-Member District
