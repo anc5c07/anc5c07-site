@@ -8,11 +8,11 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[1800 Hamlin St NE](/assets/images/1800hamlin/current-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-10-01T14:58:03
+last_modified_at: 2023-10-01T15:03:30
 notes: footnotes
 ---
-This is a future meeting. This page is meant to preview topics.
-{: .notice--warning}
+This meeting has occurred; you can [view the video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EbM-_nfHQZREjFQtBgsXlnABBx4b7KVQXqK47_6vo3UE4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=jFjXy7).
+{: .notice--success}
 
 ## tl;dr
 - Our **semi-monthly joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
