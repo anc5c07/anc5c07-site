@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Langdon Park Rec Center](/assets/images/langdon-park/rec-center.jpg)"
 categories: development active
-last_modified_at: 2023-10-13T10:16:16
+last_modified_at: 2023-10-13T10:22:17
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -25,7 +25,7 @@ last_modified_at: 2023-10-13T10:16:16
 <p class="caption">Langdon Rec's amazing gymnastics facility, set up in Spring 2023</p>
 
 From my perspective and through my conversations to date, present priorities I plan to push are:
-- **building amazing and purpose-built spaces for all-ages children's activities** inside and out of the rec center; the gymnastics classes that were recently introduced and the basketball league games taking place at the basketball courts have been a delightful increase in utilization and vibrancy at the park
+- **building amazing and purpose-built spaces for all-ages children's activities** inside and out of the rec center; the recently (re-)introduced gymnastics classes and basketball league games have been a delightful increase in utilization and vibrancy at the park
 - **building a taller structure rather than expanding the building footprint** to preserve the forestry behind the building, our amazing skate park, and the east-west passage at the park's nadir (this is separated, but related, to the [need to improve the safety of the 20th St crossing](https://anc5c07.com/issues/20thst/#envisioning-the-new-crosswalk) in front of the rec center)
 - **making sure that east-west passage is also made more accessible to users of rolling mobility devices;** presently, access by stroller, wheelchair, or bike requires looping around to the parking lot driveway (access from 20th St to the far east side of the park through the park would also require going through the dog park area)
 - **reclaiming parts of the east side of the park from vehicular traffic,** including the long driveway running between the basketball courts and forestry to enable a very small number of vehicle spaces in the middle of the park; this asphalt is taking up space better left to other uses
