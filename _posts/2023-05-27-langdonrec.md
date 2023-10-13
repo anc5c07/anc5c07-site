@@ -8,20 +8,35 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Langdon Park Rec Center](/assets/images/langdon-park/rec-center.jpg)"
 categories: development active
-last_modified_at: 2023-05-27T22:12:45
+last_modified_at: 2023-10-13T10:16:16
 ---
 <div id="development-map" class="map-container"></div>
 
 ## tl;dr
 - **The Langdon Park Rec Center** (also referred to variously as Langdon Park Community Center or Langdon Park East Recreation Center) **is a facility located at 2901 20th St NE within Langdon Park**
 - **The building has likely not seen significant modernization since its 1966 construction**, and its age is fairly apparent
-- **It's slated for modernization** which will start with significant public outreach efforts, likely starting in Fall 2023.
-- **[Langdon Park Neighbors](https://www.langdonparkneighbors.org) will be playing a big role** in community organizing and advocacy for this project
+- **It's slated for modernization** which will likely involve razing the existing structure and constructing a modern one
+- **The community engagement process is kicking off** with a [meeting on-site at 6pm on Thursday November 2nd](https://langdoncm.splashthat.com/), and [a DPR project page](https://dgs.dc.gov/page/langdon-park-community-center)
+- **I'm [beginning to formulate my priorities](#priorities)** and would love to hear yours!
 
-## FY24 Modernization Funding
-The (not yet final) FY24 budget contains nearly $25M in funding for this project. For context, the Edgewood Rec Center development (including at least the athletic fields) [was an $18M project](https://dpr.dc.gov/edgewood).
+## Priorities
 
-While getting the best possible facility is the highest priority, there appears to be some possibility of DPR reallocating some of these funds around the park for other capital improvements if the community advocates for it.
+[![Gymnastics at Langdon Rec](/assets/images/langdon-park/gymnastics.jpg)](/assets/images/langdon-park/gymnastics.jpg)
+<p class="caption">Langdon Rec's amazing gymnastics facility, set up in Spring 2023</p>
+
+From my perspective and through my conversations to date, present priorities I plan to push are:
+- **building amazing and purpose-built spaces for all-ages children's activities** inside and out of the rec center; the gymnastics classes that were recently introduced and the basketball league games taking place at the basketball courts have been a delightful increase in utilization and vibrancy at the park
+- **building a taller structure rather than expanding the building footprint** to preserve the forestry behind the building, our amazing skate park, and the east-west passage at the park's nadir (this is separated, but related, to the [need to improve the safety of the 20th St crossing](https://anc5c07.com/issues/20thst/#envisioning-the-new-crosswalk) in front of the rec center)
+- **making sure that east-west passage is also made more accessible to users of rolling mobility devices;** presently, access by stroller, wheelchair, or bike requires looping around to the parking lot driveway (access from 20th St to the far east side of the park through the park would also require going through the dog park area)
+- **reclaiming parts of the east side of the park from vehicular traffic,** including the long driveway running between the basketball courts and forestry to enable a very small number of vehicle spaces in the middle of the park; this asphalt is taking up space better left to other uses
+
+I will continue to refine these priorities, as well as capturing controversy/debate over community priorities, as the process continues.
+
+## Funding and Scope
+The FY24 budget contains nearly $25M in funding for this project. For context, the Edgewood Rec Center development (including at least the athletic fields) [was an $18M project](https://dpr.dc.gov/edgewood). The DPR project page lists the current budget as $31M.
+
+While getting the best possible facility is the highest priority, there appears to be some possibility of DPR reallocating some of these funds around the park for other capital improvements if the community advocates for it. The first stage of the project is assessing the scope of work.
+
 
 <script>
 var map = L.map('development-map',  {
