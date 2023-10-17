@@ -20,7 +20,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |---|---|---|---|
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
 |in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
-|in draft; on 10/18 agenda|ANC 5C resolution|primary drafter|[Resolution Urging Facilities Improvements at Langdon Elementary School](https://docs.google.com/document/d/10_AWro_HCeaXvu0qHA8jeOSnZOhwwjsQErdBT17aJWI/view)|
+|in draft; on 10/18 agenda|ANC 5C resolution|primary drafter|[Resolution on Langdon Elementary Facilities Improvement](https://docs.google.com/document/d/10_AWro_HCeaXvu0qHA8jeOSnZOhwwjsQErdBT17aJWI/view)|
 |in draft; on 10/18 agenda|ABCA Settlement Agreement|primary drafter|[DC Xtracts Settlement Agreement](https://docs.google.com/document/d/1cGK7eb-4K2P_gnu-U04loS0MLKYHe3j2uD1e6No8bQo/view)|
 |2023-10-29|ceremonial|solo issuer|[Second New Saint Paul Baptist Church Centennial Celebration](https://drive.google.com/file/d/1xSZU0ofQtHVOvTMWkl4V3jdnUgHFvNeK/view)|
 |2023-10-04|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-23-194-TOA; RDPP on 2400 block of Girard Pl NE](https://drive.google.com/file/d/1JWsK472be0puO54Zg0mhcbYeM6vbraw9/view)
