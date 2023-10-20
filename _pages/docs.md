@@ -8,9 +8,6 @@ header:
   caption: "[papers](/assets/images/papers.jpg)"
 layout: single
 ---
-I'm still working on rounding all of these up, including passed and draft 5C resolutions on which I was primary author.
-{: .notice--warning}
-
 These are distinct from flyers and other handouts; find those on the [Flyers](/flyers/) page.
 {: .notice--success}
 
@@ -20,14 +17,14 @@ This is a collection of written works I've issued or contributed to. I often tak
 |---|---|---|---|
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
 |in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
-|in draft; on 10/18 agenda|ANC 5C resolution|primary drafter|[Resolution on Langdon Elementary Facilities Improvement](https://docs.google.com/document/d/10_AWro_HCeaXvu0qHA8jeOSnZOhwwjsQErdBT17aJWI/view)|
-|in draft; on 10/18 agenda|ABCA Settlement Agreement|primary drafter|[DC Xtracts Settlement Agreement](https://docs.google.com/document/d/1cGK7eb-4K2P_gnu-U04loS0MLKYHe3j2uD1e6No8bQo/view)|
 |2023-10-29|ceremonial|solo issuer|[Second New Saint Paul Baptist Church Centennial Celebration](https://drive.google.com/file/d/1xSZU0ofQtHVOvTMWkl4V3jdnUgHFvNeK/view)|
+|2023-10-18 (passed 5-0)|ANC 5C resolution|primary drafter|[Resolution on Langdon Elementary Facilities Improvement](https://drive.google.com/file/d/1cCzpzlFcZVXbY2BN65udXSNuSFbLboAA/view)|
+|2023-10-18 (passed 5-0)|ABCA Settlement Agreement|primary drafter|[DC Xtracts Settlement Agreement](https://docs.google.com/document/d/1cGK7eb-4K2P_gnu-U04loS0MLKYHe3j2uD1e6No8bQo/view)|
 |2023-10-04|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-23-194-TOA; RDPP on 2400 block of Girard Pl NE](https://drive.google.com/file/d/1JWsK472be0puO54Zg0mhcbYeM6vbraw9/view)
 |2023-10-03|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 98775](https://drive.google.com/file/d/1LrCcTRaEXqXpzyxAkXCGZVGGdY72e_1k/view?usp=sharing)|
 |2023-10-03|BZA case response|solo issuer|[Letter in Support of BZA Application 20734A: 1009 Bryant St NE](https://drive.google.com/file/d/1IMi1fqQMhzNLZcpHYlq8hCzAygswIrrU/view)|
 |2023-09-22|WMATA project response|solo issuer|[Re: Proposed Changes at Brookland-CUA station](https://drive.google.com/file/d/1OJdJ5ZON7NTE595Bdc_YAzU5mIntw6ef/view)|
-|2023-09-20|ANC 5C resolution|sponsor, primary drafter, adapted from 5E/F|[Resolution Urging Office of Unified Communications to Undertake Reforms](https://drive.google.com/file/d/1YCmA7eAMfl4obqlu6E4y1NDVHztt3U2w/view)
+|2023-09-20 (passed 7-0)|ANC 5C resolution|sponsor, primary drafter, adapted from 5E/F|[Resolution Urging Office of Unified Communications to Undertake Reforms](https://drive.google.com/file/d/1YCmA7eAMfl4obqlu6E4y1NDVHztt3U2w/view)
 |2023-08-30|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-23-161-PSD; K St Bicycle/Mobility Lane Extension](https://drive.google.com/file/d/1OFh5r-EAojshX_Lwy35_-9btImaIC-Ew/view)|
 |2023-08-28|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 97188](https://drive.google.com/file/d/1tYd086epMuk7e5XCazSpjuB0aazg8OsS/view)
 |2023-08-23|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 92073](https://drive.google.com/file/d/1qF4U0FeiPt7uABL2K7VaF1PWuT7rA_gd/view)
