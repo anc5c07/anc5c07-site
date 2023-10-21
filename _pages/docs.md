@@ -15,10 +15,11 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
+|in draft|DDOT SoC response|primary drafter|[Re: DDOT solicitation of comment on 2000 block of Hamlin St NE](https://docs.google.com/document/d/1QT5ZdMOoPiBxSipRflyJAtttkKPLUPkoMX2w7HOcMdc/view)|
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
 |in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
 |2023-10-29|ceremonial|solo issuer|[Second New Saint Paul Baptist Church Centennial Celebration](https://drive.google.com/file/d/1xSZU0ofQtHVOvTMWkl4V3jdnUgHFvNeK/view)|
-|2023-10-18 (passed 5-0)|ANC 5C resolution|primary drafter|[Resolution on Langdon Elementary Facilities Improvement](https://drive.google.com/file/d/1cCzpzlFcZVXbY2BN65udXSNuSFbLboAA/view)|
+|2023-10-18 (passed 5-0)|ANC 5C resolution|primary drafter|[Resolution on Langdon Elementary Facilities Improvement](https://resolutions.anc.dc.gov/AttachmentsFiles/23/ANC_5C_Resolution_on_Langdon_Elementary_Facilities_Improvement_TM_20231020063209PM.pdf)|
 |2023-10-18 (passed 5-0)|ABCA Settlement Agreement|primary drafter|[DC Xtracts Settlement Agreement](https://docs.google.com/document/d/1cGK7eb-4K2P_gnu-U04loS0MLKYHe3j2uD1e6No8bQo/view)|
 |2023-10-04|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-23-194-TOA; RDPP on 2400 block of Girard Pl NE](https://drive.google.com/file/d/1JWsK472be0puO54Zg0mhcbYeM6vbraw9/view)
 |2023-10-03|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 98775](https://drive.google.com/file/d/1LrCcTRaEXqXpzyxAkXCGZVGGdY72e_1k/view?usp=sharing)|
