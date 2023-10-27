@@ -18,6 +18,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
 |in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
 |2023-10-29|ceremonial|solo issuer|[Second New Saint Paul Baptist Church Centennial Celebration](https://drive.google.com/file/d/1xSZU0ofQtHVOvTMWkl4V3jdnUgHFvNeK/view)|
+|2023-10-26|written Council testimony|primary drafter|[Testimony before Committee on Facilities and Family Services Oct 12 Hearing](https://drive.google.com/file/d/1MXn87_sBDtfkYieRzXbV17lW0AC9G-yT/view?usp=drive_link)|
 |2023-10-24|DDOT SoC response|solo issuer|[Re: DDOT solicitation of comment on 2000 block of Hamlin St NE](https://drive.google.com/file/d/1lYOTH1Oxcw30L6doeBlVjBSjTu38OQ3O/view)
 |2023-10-18 (passed 5-0)|ANC 5C resolution|primary drafter|[Resolution on Langdon Elementary Facilities Improvement](https://www.anc-5c.com/wp-content/uploads/2023/10/ANC-5C-Resolution-on-Langdon-Elementary-Facilities-Improvement.pdf)|
 |2023-10-18 (passed 5-0)|ABCA Settlement Agreement|primary drafter|[DC Xtracts Settlement Agreement](https://docs.google.com/document/d/1cGK7eb-4K2P_gnu-U04loS0MLKYHe3j2uD1e6No8bQo/view)|
