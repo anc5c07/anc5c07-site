@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2023-11-02T16:05:18
+last_modified_at: 2023-11-02T16:13:16
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -140,7 +140,6 @@ With the warrant analysis in hand, we could also be vigilant to log issues that 
 I'll fill this in with some DDOT specifics later, but [more info here for now](https://nacto.org/publication/urban-bikeway-design-guide/bicycle-signals/hybrid-beacon-for-bike-route-crossing-of-major-street/)).
 
 ## HAWK ambitions
-
 There are a number of things we should push for in the HAWK design:
 - **an advanced stop line:** these indicators of where to stop ahead of the crosswalk are important to avoid drivers in one lane from entering the crosswalk due to a pedestrian in the crosswalk being blocked by an adjacent stopped driver (these are known as "multiple-threat crashes"; this is especially important for a crossing of six lanes of high-speed traffic. DDOT does not always provision these in their HAWK designs.
 - **median hardening:** this will be tactical (using flexposts and prefabricated concrete, not poured concrete and granite) and there won't be much of an actual pedestrian refuge, but we can do the best we can implementing turn elimination through more median hardening; DDOT has implemented the elimination of some turning manuevers as part of HAWK implementation design in other cases
