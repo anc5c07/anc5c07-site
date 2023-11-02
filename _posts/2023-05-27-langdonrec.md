@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Langdon Park Rec Center](/assets/images/langdon-park/rec-center.jpg)"
 categories: development active
-last_modified_at: 2023-11-02T17:25:41
+last_modified_at: 2023-11-02T17:30:44
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -25,7 +25,7 @@ last_modified_at: 2023-11-02T17:25:41
 <p class="caption">Langdon Rec's amazing gymnastics facility, set up in Spring 2023</p>
 
 From my perspective and through my conversations to date, present priorities I plan to push are:
-- **proper consideration of delivery timeline and expected unavailability of the building** nearby Theodore Hagans rec center in Fort Lincoln remains indefinitely closed after an indefinitely delayed modernization; we should seek to understand and track DPR's timeline and risks to delivery to avoid a repeat of this scenario
+- **proper consideration of delivery timeline and expected unavailability of the building;** nearby Theodore Hagans rec center in Fort Lincoln remains indefinitely closed after an indefinitely delayed modernization; we should seek to understand and track DPR/DGS's timeline and risks to delivery to avoid a repeat of this scenario
 - **building state-of-the-art and purpose-built spaces for all-ages children's activities** inside and out of the rec center; the recently (re-)introduced gymnastics classes and basketball league games have been a delightful increase in utilization and vibrancy at the park (while not immediately in scope, we should certainly be mindful that the value of this $31M investment also depends on programming operations to better meet the demand for these youth activities than we do today)
 - **building a taller structure rather than expanding the building footprint** to preserve the forestry behind the building, our amazing skate park, and the east-west passage at the park's nadir (this is separate, but related, to the [need to improve the safety of the 20th St crossing](https://anc5c07.com/issues/20thst/#envisioning-the-new-crosswalk) in front of the rec center)
 - **making sure that east-west passage is also made more accessible to users of rolling mobility devices;** presently, access by stroller, wheelchair, or bike requires looping around to the parking lot driveway (access from 20th St to the far east side of the park through the park would also require going through the dog park area)
