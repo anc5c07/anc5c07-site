@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Langdon Park Rec Center](/assets/images/langdon-park/rec-center.jpg)"
 categories: development active
-last_modified_at: 2023-11-02T17:30:44
+last_modified_at: 2023-11-02T17:37:35
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -35,7 +35,7 @@ From my perspective and through my conversations to date, present priorities I p
 I will continue to refine these priorities, as well as capturing controversy/debate over community priorities, as the process continues. I would love to determine some elements that combine accessibility, watershed, and traffic safety needs, as there should be a lot of common cause among these priorities.
 
 ## Funding and Scope
-The FY24 budget contains nearly $25M in funding for this project. For context, the Edgewood Rec Center development (including at least the athletic fields) [was an $18M project](https://dpr.dc.gov/edgewood). The DPR project page lists the current budget as $31M.
+The FY24 budget contains nearly $25M in funding for this project. For context, the Edgewood Rec Center development (including at least the athletic fields) [was an $18M project](https://dpr.dc.gov/edgewood). The DPR project page lists the current budget as $31M. During FY24 budget discussions, Mayor Bowser's summary materials listed it as $25M, so $31M might be inclusive of additional funding on Langdon Park matters being summed in.
 
 While getting the best possible facility is the highest priority, there appears to be some possibility of DPR reallocating some of these funds around the park for other capital improvements if the community advocates for it. The first stage of the project is assessing the scope of work.
 
