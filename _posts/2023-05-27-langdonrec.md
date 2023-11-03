@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Langdon Park Rec Center](/assets/images/langdon-park/rec-center.jpg)"
 categories: development active
-last_modified_at: 2023-11-03T03:48:15
+last_modified_at: 2023-11-03T03:53:37
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -30,7 +30,7 @@ From my perspective and through my conversations to date, present priorities I p
 - **building a taller structure rather than expanding the building footprint** to preserve the forestry behind the building, our amazing skate park, and the east-west passage at the park's nadir (this is separate, but related, to the [need to improve the safety of the 20th St crossing](https://anc5c07.com/issues/20thst/#envisioning-the-new-crosswalk) in front of the rec center)
 - **making sure that east-west passage is also made more accessible to users of rolling mobility devices;** presently, access by stroller, wheelchair, or bike requires looping around to the parking lot driveway (access from 20th St to the far east side of the park through the park would also require going through the dog park area)
 - **reclaiming parts of the east side of the park from vehicular traffic,** including the long driveway running between the basketball courts and forestry to enable a very small number of vehicle spaces in the middle of the park; this asphalt is taking up space better left to other uses, and permitting drivers to bring cars into the park raises a lot of safety and livability concerns in one of our few car-free spaces
-- **improving the water drainage and ecological resiliency of the surrounding area of the park:** Langdon Park is built on buried/piped waterways, and increased rainfall (plus decaying older infrastructure and a lot of impermeable asphalt) makes water issues a common problem for park usage after rainfall. Runoff along t for the Hickey Run Watershed generally. There should be capacity to add funding to the project for elective watershed improvements through the [Clean Water Construction Grant Program](https://doee.dc.gov/service/cwc) (CWC).
+- **improving the water drainage and ecological resiliency of the surrounding area of the park:** Langdon Park is built on buried/piped waterways, and increased rainfall overwhelms this old (and decaying) infrastructure. Impermeable surfaces also prevent the ground from absorbing this water and naturally filtering it through dirt; it instead rolls over the asphalt picking up toxins/chemicals/trash and pulling it into the Hickey Run Watershed and eventually into the Anacostia River. There should be capacity to add funding to the project for elective watershed improvements through the [Clean Water Construction Grant Program](https://doee.dc.gov/service/cwc) (CWC) which is set up to improve this situation during capital projects such as this one.
 
 I will continue to refine these priorities, as well as capturing controversy/debate over community priorities, as the process continues. I would love to determine some elements that combine accessibility, watershed, and traffic safety needs, as there should be a lot of common cause among these priorities.
 
