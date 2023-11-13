@@ -18,6 +18,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
 |in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
 |in draft; on Nov agenda|ANC 5C resolution|primary drafter|[Resolution on National Engineering Products and Environmental Justice](https://docs.google.com/document/d/1PVbiBN4SKZR2J6BksjlQY37cM5jmtXDJToqmTZt4iT0/view)|
+|in draft; due 11/15 9:30am|ZC case response|solo issuer|[Re: Letter in Support of ZC Application 23-18: 1800 Hamlin St NE](https://docs.google.com/document/d/1AfJKWRcwx0Je0F6f-tx9rc9XfAXfWshe7dGm1LG0-40/view)|
 |2023-11-13|issue update|primary drafter|[Re: central Ward 5 swing space next steps](https://drive.google.com/file/d/1LnA-Vp2xvgb6zoybFvewuX6GbBMMzH7d/view)|
 |2023-11-07|BZA case response|solo issuer|[Re: BZA Application 20973: 1375 Bryant St NE](https://drive.google.com/file/d/14N06yrWmI0h6Wpk7dZdhNNeVAJzozaTk/view)|
 |2023-10-29|ceremonial|solo issuer|[Second New Saint Paul Baptist Church Centennial Celebration](https://drive.google.com/file/d/1xSZU0ofQtHVOvTMWkl4V3jdnUgHFvNeK/view)|
