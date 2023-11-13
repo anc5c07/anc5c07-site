@@ -17,6 +17,9 @@ This is a collection of written works I've issued or contributed to. I often tak
 |---|---|---|---|
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
 |in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
+|in draft; on Nov agenda|ANC 5C resolution|primary drafter|[Resolution on National Engineering Products and Environmental Justice](https://docs.google.com/document/d/1PVbiBN4SKZR2J6BksjlQY37cM5jmtXDJToqmTZt4iT0/view)|
+|2023-11-13|issue update|primary drafter|[Re: central Ward 5 swing space next steps](https://drive.google.com/file/d/1LnA-Vp2xvgb6zoybFvewuX6GbBMMzH7d/view)|
+|2023-11-07|BZA case response|solo issuer|[Re: BZA Application 20973: 1375 Bryant St NE](https://drive.google.com/file/d/14N06yrWmI0h6Wpk7dZdhNNeVAJzozaTk/view)|
 |2023-10-29|ceremonial|solo issuer|[Second New Saint Paul Baptist Church Centennial Celebration](https://drive.google.com/file/d/1xSZU0ofQtHVOvTMWkl4V3jdnUgHFvNeK/view)|
 |2023-10-26|written Council testimony|primary drafter|[Testimony before Committee on Facilities and Family Services Oct 12 Hearing](https://drive.google.com/file/d/1MXn87_sBDtfkYieRzXbV17lW0AC9G-yT/view?usp=drive_link)|
 |2023-10-24|DDOT SoC response|solo issuer|[Re: DDOT solicitation of comment on 2000 block of Hamlin St NE](https://drive.google.com/file/d/1lYOTH1Oxcw30L6doeBlVjBSjTu38OQ3O/view)
@@ -41,6 +44,9 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2023-04-03|BZA case response|solo issuer|[Letter in Support of BZA 20861, 3315 12th St. NE](https://drive.google.com/file/d/1TJAnO69lygCX20a4MFFXzCa2dLfh0JAT/view)|
 |2023-03-29|written Council testimony|solo issuer|[Testimony before Judiciary Committee Budget Oversight Hearing on the DC FEMS](https://drive.google.com/file/d/1ER-smvgD4EEzmYvrAQikOX5WK1s-yPjc/view)|
 |2023-02-27|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on the DDOT](https://drive.google.com/file/d/1kHrd9SYQ1mdMVIX4xkPC961jY-D7J_d2/view)|
+
+## Letters on Behalf of ANC 5C
+If ANC 5C has passed a resolution on a matter and authorized me to represent the Commission (either specifically, among a list of Commissioners, or authorizing all Commissioners), I might issue letters on behalf of the Commission on a matter.
 
 ## Amplified Sound letters
 When a person or organization applies for a permit to host an event in a DPR-managed park (such as Langdon Park), and they request an endorsement for amplified sound (such as playing music through speakers), they are instructed to seek approval from the Commissioner of the Single-Member District containing the park. While DPR may still choose to issue the endorsement absent consent from the Commissioner, the process is much easier once this approval has been issued.
