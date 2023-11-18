@@ -12,6 +12,7 @@ layout: single
 
 |date|purpose|
 |---|---|
+|[11/8/2023](https://drive.google.com/file/d/12XY8nLSohPlK8M5BuxcsAQNZMeb50Imj/view)|issue updates and upcoming meetings|
 |[10/13/2023](/assets/documents/flyer-20231013.pdf)|issue updates and upcoming meetings|
 |[9/27/2023](/assets/documents/flyer-20230927.pdf)|issue updates and upcoming meetings|
 |[9/27/2023](/assets/documents/flyer-1800hamlin-20230927.pdf)|1800 Hamlin-specific flyer|
