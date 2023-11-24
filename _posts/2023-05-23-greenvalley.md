@@ -12,24 +12,26 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-09-28T18:02:18
+last_modified_at: 2023-11-24T19:23:44
 ---
 <div id="development-map" class="map-container"></div>
+
+**The zoning cases for this project are likely over** and the project is moving on to financing/construction. This page remains for reference, but there may be residual future tensing for past events as it's no longer being regularly updated.
+{: .notice--danger}
 
 ## tl;dr
 - [**Green Valley Apartments**](https://abcmgt.orleanco.com/locations/green-valley-apartments/) is an affordable senior living facility located at **2412 Franklin St NE**
 - **The building is zoning nonconforming;** as best as I can tell, this isn't due to a change of zoning for this parcel, but due to a change in allowances (or typical variances) for the R-1-B zone since its construction in 1971
-- **Any change in the floor area of a nonconforming building requires zoning relief;** in this case, they're seeking to add a new elevator enclosure and entry vestibule to accomodate modern wheelchairs and stretchers; there are a few additional [pieces of zoning relief](#needed-zoning-relief) related to the elevator containment height and shape
+- **Any change in the floor area of a nonconforming building requires zoning relief;** in this case, they sought to add a new elevator enclosure and entry vestibule to accomodate modern wheelchairs and stretchers; there are a few additional [pieces of zoning relief](#needed-zoning-relief) related to the elevator containment height and shape
 - **ANC 5C issued a report recommending approval** at the 6/21 Full-Commission Meeting
-- [**You can submit a letter**](#community-action) into the record for this zoning case
-- **You can also help me distribute [flyers](/flyers/)** to residents in and around the building so they're aware of the plans and their opportunities to voice support (or opposition)
+- The case was approved by the BZA on 10/25/2023
 
 ## Case Record
 This case will be heard by the Board of Zoning Adjustment (BZA).
 
 |agency|case|summary|next hearing|ANC status|case status|
 |---|---|---|---|---|---|
-|[BZA](https://dcoz.dc.gov/bza/about)|[20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)|[Four elements](#needed-zoning-relief) related to the minimal retrofit of a nonconforming building|10/25/2023|**6/21/2023:** recommended approval 6-0|no action yet|
+|[BZA](https://dcoz.dc.gov/bza/about)|[20948](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20948)|[Four elements](#needed-zoning-relief) related to the minimal retrofit of a nonconforming building|10/25/2023|**6/21/2023:** recommended approval 6-0|**10/25/2023:** approval ordered|
 
 Some particularly interesting artifacts include:
 - **[Proposed Plans](https://app.dcoz.dc.gov/CaseReport/ViewExhibit.aspx?exhibitId=309658):** this document contains renderings and elevations for the proposed modifications
