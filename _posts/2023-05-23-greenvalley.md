@@ -12,7 +12,7 @@ categories: active development 5c07
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2023-11-24T19:23:44
+last_modified_at: 2023-11-24T19:41:49
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -20,7 +20,7 @@ last_modified_at: 2023-11-24T19:23:44
 {: .notice--danger}
 
 ## tl;dr
-- [**Green Valley Apartments**](https://abcmgt.orleanco.com/locations/green-valley-apartments/) is an affordable senior living facility located at **2412 Franklin St NE**
+- [**Green Valley Apartments**](https://abcmgt.orleanco.com/locations/green-valley-apartments/) is an affordable senior living building located at **2412 Franklin St NE**
 - **The building is zoning nonconforming;** as best as I can tell, this isn't due to a change of zoning for this parcel, but due to a change in allowances (or typical variances) for the R-1-B zone since its construction in 1971
 - **Any change in the floor area of a nonconforming building requires zoning relief;** in this case, they sought to add a new elevator enclosure and entry vestibule to accomodate modern wheelchairs and stretchers; there are a few additional [pieces of zoning relief](#needed-zoning-relief) related to the elevator containment height and shape
 - **ANC 5C issued a report recommending approval** at the 6/21 Full-Commission Meeting
