@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2023-12-05T15:47:31
+last_modified_at: 2023-12-05T15:50:51
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -58,7 +58,7 @@ Depending on what I eventually find, we may want to push back on the warrant ana
 
 With the warrant analysis in hand, we could also be vigilant to log issues that might change the outcome on re-analysis, particularly in regardes to Warrant #7, which considers crashes that a full traffic signal could potentially have prevented.
 
-On 11/20, my FOIA request was denied citing deliberative process privilege. Despite DDOT moving forward with the HAWK design, the 30-page warrant analysis is still in draft, and therefore not subject to public release. My FOIA request for another HAWK signal that's substantially installed (but not yet activated) at Georgia Ave NW and Hamilton St NW yielded a similar denial, indicated that DDOT does not finalize warrant analyses at any point for intersections it prescribes HAWK signals to.
+On 11/20, my FOIA request was denied citing deliberative process privilege. Despite DDOT moving forward with the HAWK design, the 30-page warrant analysis is still in draft, and therefore not subject to public release. My FOIA request for another HAWK signal that's substantially installed (but not yet activated) at Georgia Ave NW and Hamilton St NW yielded a similar denial, indicating that DDOT does not finalize warrant analyses at any point for intersections it prescribes HAWK signals to. I will be pushing DDOT to finalize this document and ideally releasing it at our meeting. It's also possible to push them on this through ANC resolutions by ANC 5B or 5C.
 
 ## HAWK signals
 You can [read general information about HAWK signals](https://nacto.org/publication/urban-bikeway-design-guide/bicycle-signals/hybrid-beacon-for-bike-route-crossing-of-major-street/) and [DDOT's information about HAWK signals](https://ddotwiki.atlassian.net/wiki/spaces/COM/pages/2069270047/Traffic+Signals?preview=/2069270047/2069270082/Hawk%20Pedestrian%20Signal%20Guide.pdf). I'll attempt to grab some photos of existing signals in DC. The nearest one to us, at South Dakota Ave NE and Ingraham St NE near the Lamond-Riggs/Lillian J Huff library, was recently upgraded to a full traffic signal. If you happen to have any demonstrative photos of that signal before the upgrade or other cases around DC, feel free to send them my way.
