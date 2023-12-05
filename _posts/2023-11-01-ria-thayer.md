@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2023-12-05T15:50:51
+last_modified_at: 2023-12-05T16:10:03
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -43,7 +43,7 @@ An installation like this is way too hard to get and takes way too long to deliv
 6. **work order under production (maybe Spring 2024?):** at some point, feasibility will move on to figuring out the scope of work to actuate the designs; I'm not entirely clear on how this process works, as DDOT is not very transparent in how it operates.
 7. **Notice of Intent (maybe Fall 2024?):** DDOT will be legally obligated to issue a Notice of Intent (NOI) for this work, at which point there will be a 45-day public comment period wherein advocating for safety improvements not part of the NOI will also be an option. I hope to make maximal use of this phase of the process as well.
 8. **installation (maybe Fall 2025?):** Georgia/Hamilton is a recent example of installation [taking around a year after NOI closing](https://x.com/ZachBIsrael/status/1640348878091288577).
-9. **activation (maybe by Fall 2026):** The aforementioned Georgia/Hamilton HAWK is still not activated eight months later as of this writing.
+9. **activation (maybe by Fall 2026):** The aforementioned Georgia/Hamilton HAWK is still not activated eight months later as of this writing. On 12/4/2023, DDOT indicated to former-Cmsr Israel that the design and production of the electrical components to facilitate activation of Georgia/Hamilton would take another nine months. We should anticipatorily start getting commitments on this foreseeable problem after NOI issuance, but not before.
 
 The long timetable is part of why it's so important to try for the full signal now rather than moving too quickly to allowing the HAWK to proceed for a later upgrade. There is likely a 2-3 year lag time at least if we have to go through two cycles here, provided DDOT's productivity is not fundamentally improved (and the trendlines may favor a decrease).
 
