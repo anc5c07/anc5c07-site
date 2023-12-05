@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2023-12-05T03:51:39
+last_modified_at: 2023-12-05T15:20:10
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -30,6 +30,26 @@ At the 12/20 meeting, we should attempt to focus on:
 2. pushing DDOT to include as much tactical hardening of the median in the vicinity of this crossing, as creating a safe pedestrian refuge and reducing left-turn manuevers in the vicinity of this crossing is critical to making it usable and safe
 
 It's important that we not give DDOT's reps an out to spend most of the meeting time rehashing what an HAWK signal is during our time with them, so I'm asking folks who plan to attend familiarize themselves with the background to the extent possible.
+
+### Where we are in the process
+An installation like this is way too hard to get and takes way too long to deliver. If we want to maximize our return on this step in the process, it's important to focus on where we are in the process.
+
+0. **long-standing advocacy:** on a safe crossing here has been long-standing. Folks like Ms Elmira have been working on this for years, including bringing it up at many 5C07 SMD meetings last term before I became Commissioner. While I want to recognize this and emphasize that this is very much a community ask and not just my own project, the timetable for this particular installation begins with the associated "Service Request"
+1. **input (9/14/2022):** the current work on this investigation began with [the #All4Allie campaign](https://twitter.com/ANCCostello/status/1569309275239116800) to flag unsafe road conditions in honor of Allie Hart on the one-year anniversary of a driver killing her in a crosswalk nearby. There were several #All4Allie submissions from neighbors around this crossing, including [SR 22-00443225 in which I specifically requested consideration for a full traffic light at Thayer to cross RIA](https://x.com/VJKapur/status/1570087962817200129).
+2. **investigation (?):** like all #All4Allie submissions, there is some uncertainty about how and which entered directly into the "investigation" queue and how many were throttled as "inputs" that then had to be algorithmically selected for prioritization. Others appear to have been lost entirely. All I know is this one did advance forward and is not at this point reflected in DDOT's dashboard for tracking inputs/investigations.
+3. **study/evaluation (3/24/2023):** I found out from an email exchange between DDOT and Ms Elmira on 3/24 that this traffic signal was being studied by DDOT Traffic Engineering and Signals Division (TESD). This is a good example of the progress we can make when residents ask DDOT pointed questions about their work in our neighborhoods and CC me (they get a little numb to my questioning, but it's great to have someone to volley off of).
+4. **recommendation (10/31/2023):** after being asked many, many times by Ms Elmira and myself, and in a thread responsive to [my conditions on the nearby 2000 block of Hamlin speedhumps](https://drive.google.com/file/d/1lYOTH1Oxcw30L6doeBlVjBSjTu38OQ3O/view), I learned that DDOT was proceeding to design on a HAWK signal here, and would present to an ANC meeting about it.
+5. **design (NOW):** we're now entering the design phase to actuate the recommendation. I am not above some relitigation of the recommendation only insofar as I would like to see it this can be bumped up to a full traffic light rather than just a HAWK signal. Otherwise, we should also maximize what tactical improvements can be made to this complicated junction of roadways either way.
+6. **work order under production (maybe Spring 2024?):** at some point, feasibility will move on to figuring out the scope of work to actuate the designs; I'm not entirely clear on how this process works, as DDOT is not very transparent in how it operates.
+7. **Notice of Intent (maybe Fall 2024?):** DDOT will be legally obligated to issue a Notice of Intent (NOI) for this work, at which point there will be a 45-day public comment period wherein advocating for safety improvements not part of the NOI will also be an option. I hope to make maximal use of this phase of the process as well.
+8. **installation (maybe Fall 2025?):** Georgia/Hamilton is a recent example of installation [taking around a year after NOI closing](https://x.com/ZachBIsrael/status/1640348878091288577).
+9. **activation (maybe by Fall 2026):** The aforementioned Georgia/Hamilton HAWK is still not activated eight months later as of this writing.
+
+The long timetable is part of why it's so important to try for the full signal now rather than moving too quickly to allowing the HAWK to proceed for a later upgrade. There is likely a 2-3 year lag time at least if we have to go through two cycles here, provided DDOT's productivity is not fundamentally improved (and the trendlines may favor a decrease).
+
+While I (badly) would like to see the timetables moved up, I do want to stay focused on *recommendation* and *design* only for now during our limited time to discuss with DDOT at this upcoming meeting. And only on *recommendation* insofar as we might advocate for a full traffic signal rather than a HAWK signal.
+
+If folks have questions or concerns about why a safer crossing here is necessary at all, it would be great to direct them to me rather than DDOT. I am happy to spend time dicussing this need with folks to avoid taking up limited time with DDOT.
 
 ## Traffic Signal warrants
 The determination of whether an intersection should receive a full traffic signal is based on ["warrants" (criteria threshold) prescribed by the Manual on Uniform Traffic Control Devices (MUTCD)](https://mutcd.fhwa.dot.gov/htm/2009/part4/part4b.htm). There are 9 warrants. While I'm still working on getting this analysis for RIA/Thayer, it's safe to assume that DDOT did not assess any of the warrants were met, and is pursuing a HAWK signal as an alternative.
