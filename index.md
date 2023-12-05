@@ -30,11 +30,11 @@ feature_row:
     btn_label: "Issues"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/greenvalley/entryway-short.jpg
+  - image_path: /assets/images/riathayer/from-northwest-short.jpg
     alt: "Green Valley Apartments"
-    title: "5/24/2023: 5B06/5C07 Joint SMD meeting"
-    excerpt: "a BZA case for Green Valley Apartments"
-    url: "/issues/20230524-jointmeeting/"
+    title: "12/20/2023: 5B06/5C07 Joint SMD meeting"
+    excerpt: "an RIA/Thayer discussion"
+    url: "/issues/20231220-jointmeeting/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row0:
@@ -46,14 +46,22 @@ feature_row0:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row1:
-  - image_path: /assets/images/greenvalley/entryway-short.jpg
-    alt: "Green Valley Apartments"
-    title: "Green Valley Apartments"
-    excerpt: "A zoning-nonconforming apartment building providing affordable senior homes requires a BZA case to modernize."
-    url: "/issues/greenvalley/"
+  - image_path: /assets/images/riathayer/from-northwest-short.jpg
+    alt: "Thayer St crossing on Rhode Island Ave NE"
+    title: "Thayer St crossing on Rhode Island Ave NE"
+    excerpt: "Improving a treacherous and important pedestrian crossing."
+    url: "/issues/ria-thayer/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/2001ria/longview-short.jpg
+    alt: "2001 Rhode Island Ave NE"
+    title: "2001 Rhode Island Ave NE"
+    excerpt: 'A chance for new retail space'
+    url: "/issues/2001ria"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
   - image_path: /assets/images/sda/faded-crosswalk-short.jpg
     alt: "South Dakota Ave"
     title: "South Dakota Ave"
@@ -131,13 +139,13 @@ feature_row2:
   </div>
 </div>
 
-{% include feature_row id="feature_row0" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row1" type="right" %}
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row0" type="right" %}
 
 
 <div class="feature__wrapper">

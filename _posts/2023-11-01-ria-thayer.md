@@ -1,14 +1,14 @@
 ---
 title: "Thayer St crossing on Rhode Island Ave NE"
 permalink: /issues/ria-thayer/
-excerpt: "An important pedestrian crossing."
+excerpt: "Improving a treacherous and important pedestrian crossing."
 author_profile: false
 header:
   overlay_image: /assets/images/riathayer/from-northwest.jpg
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2023-12-05T03:04:14
+last_modified_at: 2023-12-05T03:51:39
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
