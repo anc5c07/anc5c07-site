@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-09-03T12:29:03
+last_modified_at: 2023-12-05T02:27:16
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -101,7 +101,7 @@ This span has [existing lanes](#present-condition), though they're unprotected a
 As the roadway is 42' wide, with 37' consistently allocated north of Bryant to one travel lane and one parking lane in each direction, implementing consistent and protected lanes here would likely require eliminating one parking lane. Parking here is low-utilization; on the east side, 18th runs along Langdon Park and the DACL assisted senior living facility (which has a parking lot fronting 18th). This lane sees intermittent non-resident use. On the west side, residents mostly make use of off-street parking.
 
 #### RIA to Irving
-This span is marked as having existing infrastructure in the MoveDC plans, though I'm not aware of any. At around 35' of crosswidth with only one travel lane in each direction and no parking, this roadway is already primed for introducing bike lanes, as it would just be a matter of right-sizing the travel lanes and would not remove any existing parking.
+This span is marked as having existing infrastructure in the MoveDC plans, but there hasn't been any since around 2015 when the roadway was repaved and the lanes weren't repainted. At around 35' of crosswidth with only one travel lane in each direction and no parking, this roadway is already primed for introducing bike lanes, as it would just be a matter of right-sizing the travel lanes and would not remove any existing parking.
 
 I'm hopeful at least a quick painted extension of the existing lanes (mirroring the span from Montana to Bryant) could occur as part of the public space work for the [1800 Hamlin St NE](/issues/1800hamlin) development.
 
