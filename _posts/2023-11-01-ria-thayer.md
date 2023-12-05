@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2023-12-05T15:33:11
+last_modified_at: 2023-12-05T15:35:12
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -32,7 +32,7 @@ At the 12/20 meeting, we should attempt to focus on:
 It's important that we not give DDOT's reps an out to spend most of the meeting time rehashing what an HAWK signal is during our time with them, so I'm asking folks who plan to attend familiarize themselves with the background to the extent possible.
 
 ### Timetable
-An installation like this is way too hard to get and takes way too long to deliver. If we want to maximize our return on this step in the process, it's important to focus on where we are in the process. The past dates below are based on when DDOT has revealed information. The future dates are my best guesses based on recent similar installs (DDOT's productivity is likely decaying over time). It is not worth our time to try to extract predictions on future events from DDOT, so we should avoid spending time on that.
+An installation like this is way too hard to get and takes way too long to deliver. If we want to maximize our return on our limited advocacy capacity, it's important to focus on where we are in the process. The past dates below are based on when DDOT has revealed information. The future dates are my best guesses based on recent similar installs (DDOT's productivity is likely decaying over time). It is not worth our time to try to extract predictions on future events from DDOT, so we should avoid spending time on that.
 
 0. **long-standing advocacy:** on a safe crossing here has been long-standing. Folks like Ms Elmira have been working on this for years, including bringing it up at many 5C07 SMD meetings last term before I became Commissioner. While I want to recognize this and emphasize that this is very much a community ask and not just my own project, the timetable for this particular installation begins with the associated "Service Request"
 1. **input (9/14/2022):** the current work on this investigation began with [the #All4Allie campaign](https://twitter.com/ANCCostello/status/1569309275239116800) to flag unsafe road conditions in honor of Allie Hart on the one-year anniversary of a driver killing her in a crosswalk nearby. There were several #All4Allie submissions from neighbors around this crossing, including [SR 22-00443225 in which I specifically requested consideration for a full traffic light at Thayer to cross RIA](https://x.com/VJKapur/status/1570087962817200129).
