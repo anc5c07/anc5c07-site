@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2023-11-02T16:13:16
+last_modified_at: 2023-12-05T03:04:14
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -21,6 +21,33 @@ This traffic safety mitigation is on the boundary between 5C07 and 5B06.
 - **There are traffic lights to allow controlled crosstraffic and pedestrian crossing at 20th, Mills, and 24th,** but [there are a number of intersections in the 800 feet between Mills and 24th](#present-condition) without any traffic signals, and only unsignalized crosswalks
 - **[Neighbors have been pushing for a new signalized crossing](#recent-advocacy-timeline) for a long time** and after I pushed hard on the idea of a new full traffic light at Thayer St (about halfway between Mills and 24th), DDOT has begun designing a HAWK signal here
 - **While a HAWK signal is not a full traffic light, it would make a huge impact** and, [if we collectively push DDOT on prioritizing safety in design](#hawk-ambitions), it could go a long way towards enabling safe pedestrian crossing here and allowing a later upgrade
+
+## 12/20 meeting
+Per DDOT, an ANC meeting is the preferred method of discussing the matter because "the engineer designing this safety installation would prefer to vet questions/feedback during the meeting instead of a lot of email follow up"; this does not comport with any experiences I've personally had with ANC meetings, but we'll be proceeding with the most focused meeting type possible for this project, which is a 5B06/5C07 Joint SMD meeting.
+
+At the 12/20 meeting, we should attempt to focus on:
+1. pushing DDOT to finalize the signal warrant analysis so it can be subject to public release and scrutiny on why the community is not receiving a full traffic signal in this essential retail area
+2. pushing DDOT to include as much tactical hardening of the median in the vicinity of this crossing, as creating a safe pedestrian refuge and reducing left-turn manuevers in the vicinity of this crossing is critical to making it usable and safe
+
+It's important that we not give DDOT's reps an out to spend most of the meeting time rehashing what an HAWK signal is during our time with them, so I'm asking folks who plan to attend familiarize themselves with the background to the extent possible.
+
+## Traffic Signal warrants
+The determination of whether an intersection should receive a full traffic signal is based on ["warrants" (criteria threshold) prescribed by the Manual on Uniform Traffic Control Devices (MUTCD)](https://mutcd.fhwa.dot.gov/htm/2009/part4/part4b.htm). There are 9 warrants. While I'm still working on getting this analysis for RIA/Thayer, it's safe to assume that DDOT did not assess any of the warrants were met, and is pursuing a HAWK signal as an alternative.
+
+Depending on what I eventually find, we may want to push back on the warrant analysis and continue working for a full traffic signal. However, there are a lot of important improvements to the intersection we can likely get in scope for the HAWK signal design, which would then vastly improve the starting point for a future upgrade to a full traffic signal.
+
+With the warrant analysis in hand, we could also be vigilant to log issues that might change the outcome on re-analysis, particularly in regardes to Warrant #7, which considers crashes that a full traffic signal could potentially have prevented.
+
+On 11/20, my FOIA request was denied citing deliberative process privilege. Despite DDOT moving forward with the HAWK design, the 30-page warrant analysis is still in draft, and therefore not subject to public release. My FOIA request for another HAWK signal that's substantially installed (but not yet activated) at Georgia Ave NW and Hamilton St NW yielded a similar denial, indicated that DDOT does not finalize warrant analyses at any point for intersections it prescribes HAWK signals to.
+
+## HAWK signals
+You can [read general information about HAWK signals](https://nacto.org/publication/urban-bikeway-design-guide/bicycle-signals/hybrid-beacon-for-bike-route-crossing-of-major-street/) and [DDOT's information about HAWK signals](https://ddotwiki.atlassian.net/wiki/spaces/COM/pages/2069270047/Traffic+Signals?preview=/2069270047/2069270082/Hawk%20Pedestrian%20Signal%20Guide.pdf). I'll attempt to grab some photos of existing signals in DC. The nearest one to us, at South Dakota Ave NE and Ingraham St NE near the Lamond-Riggs/Lillian J Huff library, was recently upgraded to a full traffic signal. If you happen to have any demonstrative photos of that signal before the upgrade or other cases around DC, feel free to send them my way.
+
+## HAWK ambitions
+There are a number of things we should push for in the HAWK design:
+- **an advanced stop line:** these indicators of where to stop ahead of the crosswalk are important to avoid drivers in one lane from entering the crosswalk due to a pedestrian in the crosswalk being blocked by an adjacent stopped driver (these are known as "multiple-threat crashes"; this is especially important for a crossing of six lanes of high-speed traffic. DDOT does not always provision these in their HAWK designs.
+- **median hardening:** this will be tactical (using flexposts and prefabricated concrete, not poured concrete and granite) and there won't be much of an actual pedestrian refuge, but we can do the best we can implementing turn elimination through more median hardening; DDOT has implemented the elimination of some turning manuevers as part of HAWK implementation design in other cases
+- **curb extensions on the north side** where there's 24-hour parking, so truck drivers stop parking over the crosswalks (this can't be done on the south side as present as it's a through lane during evening rush-hour)
 
 ## Present Condition
 The subject intersection is where Thayer St NE meets Rhode Island Ave NE. Thayer St is a one-way northbound street that terminates on RIA, so drivers only turn off Thayer and onto RIA, though this includes many left turns across 3-5 lanes of traffic.
@@ -128,19 +155,3 @@ We had some subsequent back and forth to establish:
 - an ANC meeting would not be a precondition for moving forward on the design, though it's the preferred method of discussing the matter because "the engineer designing this safety installation would prefer to vet questions/feedback during the meeting instead of a lot of email follow up"
 - since the subject intersections is on the 5B/5C boundary and wouldn't require a vote at this time, the appropriate venue for a presentation is the 5B06/5C07 Joint SMD meeting which typically occurs on fourth Wednesdays; we are deliberating on when we might have this meeting during (or after) the holidays
 - I did start writing out some immediate questions on the scope of this project; while I never received answers, I did find some exemplars of other HAWK signal Notices of Intent that answered most of them
-
-## Traffic Signal warrants
-The determination of whether an intersection should receive a full traffic signal is based on ["warrants" (criteria threshold) prescribed by the Manual on Uniform Traffic Control Devices (MUTCD)](https://mutcd.fhwa.dot.gov/htm/2009/part4/part4b.htm). There are 9 warrants. While I'm still working on getting this analysis for RIA/Thayer, it's safe to assume that DDOT did not assess any of the warrants were met, and is pursuing a HAWK signal as an alternative.
-
-Depending on what I eventually find, we may want to push back on the warrant analysis and continue working for a full traffic signal. However, there are a lot of important improvements to the intersection we can likely get in scope for the HAWK signal design, which would then vastly improve the starting point for a future upgrade to a full traffic signal.
-
-With the warrant analysis in hand, we could also be vigilant to log issues that might change the outcome on re-analysis, particularly in regardes to Warrant #7, which considers crashes that a full traffic signal could potentially have prevented.
-
-## HAWK signals
-I'll fill this in with some DDOT specifics later, but [more info here for now](https://nacto.org/publication/urban-bikeway-design-guide/bicycle-signals/hybrid-beacon-for-bike-route-crossing-of-major-street/)).
-
-## HAWK ambitions
-There are a number of things we should push for in the HAWK design:
-- **an advanced stop line:** these indicators of where to stop ahead of the crosswalk are important to avoid drivers in one lane from entering the crosswalk due to a pedestrian in the crosswalk being blocked by an adjacent stopped driver (these are known as "multiple-threat crashes"; this is especially important for a crossing of six lanes of high-speed traffic. DDOT does not always provision these in their HAWK designs.
-- **median hardening:** this will be tactical (using flexposts and prefabricated concrete, not poured concrete and granite) and there won't be much of an actual pedestrian refuge, but we can do the best we can implementing turn elimination through more median hardening; DDOT has implemented the elimination of some turning manuevers as part of HAWK implementation design in other cases
-- **curb extensions on the north side** where there's 24-hour parking, so truck drivers stop parking over the crosswalks (this can't be done on the south side as present as it's a through lane during evening rush-hour)
