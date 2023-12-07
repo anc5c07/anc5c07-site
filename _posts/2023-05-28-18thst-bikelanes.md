@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-12-05T02:27:16
+last_modified_at: 2023-12-07T06:11:09
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -38,7 +38,7 @@ As DC's low-stress bicycle/mobility priority network grows, we need to keep in m
 South Dakota Ave and Eastern Ave each pass over the northern track line only before connecting to New York Ave where it's essentially in interstate form.
 
 ### Amenities
-The 18th St corridor is home to nine schools, many daycares, six parks, two rec centers, a library, a public pool, a large senior assisted living facility, a pediatric rehabilitation center, two forest patches, large institutional facility, and several anticipated large-scale developments, making safe and corridor-long connectivity crucial.
+The 18th St corridor is home to nine schools, many daycares, six parks, two rec centers, a library, a public pool, a large senior assisted living facility, a pediatric rehabilitation center, two forest patches, large institutional facilities, and several anticipated large-scale developments, making safe and corridor-long connectivity crucial.
 
 The existing (in need of improvement) bicycle/mobility lanes connect Woodridge Library, Langdon Park, Langdon Elementary, and the DACL assisted living facility.
 
