@@ -12,7 +12,10 @@ layout: single
 
 |date|purpose|
 |---|---|
-|[11/8/2023](https://drive.google.com/file/d/12XY8nLSohPlK8M5BuxcsAQNZMeb50Imj/view)|issue updates and upcoming meetings|
+|[12/11/2023](/assets/documents/flyer-riathayer-20231211-fullpage.pdf)|RIA/Thayer crossing/meeting (full page)|
+|[12/11/2023](/assets/documents/flyer-riathayer-20231211.pdf)|RIA/Thayer crossing/meeting (quarter-page)|
+|[12/7/2023](/assets/documents/flyer-20231207.pdf)|issue updates and upcoming meetings|
+|[11/8/2023](/assets/documents/flyer-20231108.pdf)|issue updates and upcoming meetings|
 |[10/13/2023](/assets/documents/flyer-20231013.pdf)|issue updates and upcoming meetings|
 |[9/27/2023](/assets/documents/flyer-20230927.pdf)|issue updates and upcoming meetings|
 |[9/27/2023](/assets/documents/flyer-1800hamlin-20230927.pdf)|1800 Hamlin-specific flyer|
