@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2023-12-05T19:13:10
+last_modified_at: 2023-12-13T20:19:28
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -20,18 +20,24 @@ This traffic safety mitigation is on the boundary between 5C07 and 5B06.
 - **Rhode Island Ave NE from 20th St NE to 24th St NE is our neighborhood's "downtown"**, containing most of our businesses, amenities, institutions, and new home construction.
 - **There are traffic lights to allow controlled crosstraffic and pedestrian crossing at 20th, Mills, and 24th,** but [there are a number of intersections in the 800 feet between Mills and 24th](#present-condition) without any traffic signals, and only unsignalized crosswalks
 - **[Neighbors have been pushing for a new signalized crossing](#recent-advocacy-timeline) for a long time** and after I pushed hard on the idea of a new full traffic light at Thayer St (about halfway between Mills and 24th), DDOT has begun designing a HAWK signal here
-- **While a HAWK signal is not a full traffic light, it would make a huge impact** and, [if we collectively push DDOT on prioritizing safety in design](#hawk-ambitions), it could go a long way towards enabling safe pedestrian crossing here and allowing a later upgrade; we can do this while also needling them on reasons for not giving us the full traffic light in hopes of changing that aspect of the project as well
-- **DDOT will be presenting at [joint 5B06/5C07 SMD meeting on 12/20](/issues/20231220-jointmeeting/)**; this was on DDOT's request to discuss further in a meeting rather than over email; I am hoping for as forceful and focused a discussion as possible on improving the safety of this project
-- **I hope folks folks direct basic questions** about the need for a crossing and what a HAWK signal is my way ahead of time if they want to attend the meeting, so we can make the best use of DDOT's time.
+- **DDOT isn't releasing the [Signal Warrant Analysis](#traffic-signal-warrants) that might explain why they're not moving forward with a full traffic signal** and I intend to keep pushing them to release that to me so I can check their work.
+- **Beyond HAWK vs traffic signal,** [we collectively push DDOT on prioritizing safety in design](#hawk-ambitions) similarly for either, and it could go a long way towards enabling safe pedestrian crossing here and allowing a later upgrade
+- **DDOT will be presenting at a [joint 5B06/5C07 SMD meeting on 12/20](/issues/20231220-jointmeeting/)**; this was on DDOT's request to discuss further in a meeting rather than over email; I am hoping for as forceful and focused a discussion as possible on improving the safety of this project
+- **I hope folks direct basic questions** about the need for a crossing and what a HAWK signal is my way ahead of time if they want to attend the meeting, so we can make the best use of DDOT's time.
 
 ## 12/20 meeting
 Per DDOT, an ANC meeting is the preferred method of discussing the matter because "the engineer designing this safety installation would prefer to vet questions/feedback during the meeting instead of a lot of email follow up"; this does not comport with any experiences I've personally had with ANC meetings, but we'll be proceeding with the most focused meeting type possible for this project, which is a 5B06/5C07 Joint SMD meeting.
+
+[![RIA/Thayer issue flyer](/assets/images/riathayer/flyer.png)](/assets/images/riathayer/flyer.png)
+<p class="caption">flyer promoting this meeting</p>
 
 At the 12/20 meeting, we should attempt to focus on:
 1. pushing DDOT to finalize the signal warrant analysis so it can be subject to public release and scrutiny on why the community is not receiving a full traffic signal in this essential retail area
 2. pushing DDOT to include as much tactical hardening of the median in the vicinity of this crossing, as creating a safe pedestrian refuge and reducing left-turn manuevers in the vicinity of this crossing is critical to making it usable and safe
 
 It's important that we not give DDOT's reps an out to spend most of the meeting time rehashing what an HAWK signal is during our time with them, so I'm asking folks who plan to attend familiarize themselves with the background to the extent possible.
+
+You can help promote this meeting by printing/sharing [flyers](/flyers).
 
 ### Timetable
 An installation like this is way too hard to get and takes way too long to deliver. If we want to maximize our return on our limited advocacy capacity, it's important to focus on where we are in the process. The past dates below are based on when DDOT has revealed information. The future dates are my best guesses based on recent similar installs (DDOT's productivity is likely decaying over time). It is not likely worth our time to try to extract predictions on future events from DDOT.
@@ -54,7 +60,7 @@ While I would very much like to see the timetables moved up, I do want to stay f
 If folks have questions or concerns about why a safer crossing here is necessary at all (in effect relitigating earlier phases), it would be great to direct them to me rather than DDOT. I am happy to spend time dicussing this need with folks to avoid taking up limited time with DDOT, so folks understand why I will only be pushing DDOT to proceed from here on out (as I have been).
 
 ## Traffic Signal warrants
-The determination of whether an intersection should receive a full traffic signal is based on ["warrants" (criteria threshold) prescribed by the Manual on Uniform Traffic Control Devices (MUTCD)](https://mutcd.fhwa.dot.gov/htm/2009/part4/part4b.htm). There are 9 warrants. While I'm still working on getting this analysis for RIA/Thayer, it's safe to assume that DDOT did not assess any of the warrants were met, and is pursuing a HAWK signal as an alternative.
+The determination of whether an intersection should receive a full traffic signal is based on ["warrants" (criteria threshold) prescribed by the Manual on Uniform Traffic Control Devices (MUTCD)](https://mutcd.fhwa.dot.gov/htm/2009/part4/part4b.htm). There are 8 warrants. While I'm still working on getting this analysis for RIA/Thayer, it's safe to assume that DDOT did not assess any of the warrants were met, and is pursuing a HAWK signal as an alternative.
 
 Depending on what I eventually find, we may want to push back on the warrant analysis and continue working for a full traffic signal. However, there are a lot of important improvements to the intersection we can likely get in scope for the HAWK signal design, which would then vastly improve the starting point for a future upgrade to a full traffic signal.
 
