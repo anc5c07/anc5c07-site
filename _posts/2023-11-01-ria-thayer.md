@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2023-12-13T20:19:28
+last_modified_at: 2023-12-13T20:46:08
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -20,7 +20,7 @@ This traffic safety mitigation is on the boundary between 5C07 and 5B06.
 - **Rhode Island Ave NE from 20th St NE to 24th St NE is our neighborhood's "downtown"**, containing most of our businesses, amenities, institutions, and new home construction.
 - **There are traffic lights to allow controlled crosstraffic and pedestrian crossing at 20th, Mills, and 24th,** but [there are a number of intersections in the 800 feet between Mills and 24th](#present-condition) without any traffic signals, and only unsignalized crosswalks
 - **[Neighbors have been pushing for a new signalized crossing](#recent-advocacy-timeline) for a long time** and after I pushed hard on the idea of a new full traffic light at Thayer St (about halfway between Mills and 24th), DDOT has begun designing a HAWK signal here
-- **DDOT isn't releasing the [Signal Warrant Analysis](#traffic-signal-warrants) that might explain why they're not moving forward with a full traffic signal** and I intend to keep pushing them to release that to me so I can check their work.
+- **DDOT isn't releasing the [Signal Warrant Analysis](#traffic-signal-warrants)** that might explain why they're not moving forward with a full traffic signal and I intend to keep pushing them to release that
 - **Beyond HAWK vs traffic signal,** [we collectively push DDOT on prioritizing safety in design](#hawk-ambitions) similarly for either, and it could go a long way towards enabling safe pedestrian crossing here and allowing a later upgrade
 - **DDOT will be presenting at a [joint 5B06/5C07 SMD meeting on 12/20](/issues/20231220-jointmeeting/)**; this was on DDOT's request to discuss further in a meeting rather than over email; I am hoping for as forceful and focused a discussion as possible on improving the safety of this project
 - **I hope folks direct basic questions** about the need for a crossing and what a HAWK signal is my way ahead of time if they want to attend the meeting, so we can make the best use of DDOT's time.
