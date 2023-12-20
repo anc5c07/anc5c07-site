@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[1800 Hamlin St NE](/assets/images/ria-thayer/from-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-12-05T03:51:39
+last_modified_at: 2023-12-20T11:26:10
 notes: footnotes
 ---
 This is an upcoming meeting; this page serves as a preview.
@@ -28,7 +28,7 @@ If these terms are confusing and/or you don't know if you live in 5B06 or 5C07, 
 Single-Member District meetings are:
 - optional outreach efforts by Commissioners
 - per cultural norms, a precondition to bring official actions to 5B and 5C
-- a chance to discuss issues with their immediate constituents
+- a chance for Commissioners to discuss issues with their immediate constituents
 - not a venue for any official actions
 - more common in some parts of DC than others
 
@@ -62,12 +62,15 @@ Feel free to reach out if you have suggestions for this agenda! Given the inform
 ## Notification History
 I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact methods on the footer of this webpage.
 
+[![info posted around the intersection](/assets/images/riathayer/posted-flyer.jpg)](/assets/images/riathayer/posted-flyer.jpg)
+<p class="caption">Informationa about RIA/Thayer and this meeting posted around the intersection</p>
+
 |method|outreach performed|
 |---|---|
 |routine scheduling|While this does not comport with the routine scheduling of fourth Wednesdays, it is taking the place of the routine Full-Commission meetings, which generally occur on Third Wednesdays for both 5B and 5C; both Commissions are in recess for December|
 |website|This meeting information page was first posted to this website on 12/4/2023 around 10pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/) and from [the 5C website](https://anc-5c.com/calendar/).|
-|social media|I have not yet posted on social media about this meeting|
-|[direct email](https://us9.campaign-archive.com/home/?u=208f79fec14599c11c77bc927&id=150da6f8d6)|I have not yet mentioned this meeting in my newsletter, but will soon; [subscribe now](https://anc5c07.us9.list-manage.com/subscribe/post) if you haven't!|
-|[paper flyer](/flyers/)|I have no yet included this meeting on a physical flyer, although I will likely be creating and posting a targeted flyer at the RIA/Thayer vicinity.|
+|social media|I posted about RIA/Thayer and this meeting [on Twitter/X on 12/4](https://x.com/vj5c07/status/1731887270448210338) and [on 12/11](https://x.com/vj5c07/status/1734317685717008454), the [Brookland DC Facebook group](https://www.facebook.com/groups/brookand/posts/10160237867649121/), and on the [Woodridge DC Neighbors Facebook group](https://www.facebook.com/groups/woodridgedc/posts/1770385683435203/).|
+|[direct email](https://us9.campaign-archive.com/home/?u=208f79fec14599c11c77bc927&id=150da6f8d6)|RIA/Thayer was the top topic on [my December newsletter](https://us9.campaign-archive.com/?u=208f79fec14599c11c77bc927&id=1e51de14e6), and I included the details about this meeting as well.|
+|[paper flyer](/flyers/)|This issue and meeting are covered by my [December dispatch flyer](/assets/documents/flyer-20231207.pdf) as well as [purpose-made flyers for RIA/Thayer](/assets/documents/flyer-riathayer-20231211.pdf) that I included on the back of those, standalone, and posted around the intersection.|
 
 *[SMD]: Single-Member District
