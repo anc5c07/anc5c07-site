@@ -8,11 +8,11 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[1800 Hamlin St NE](/assets/images/ria-thayer/from-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2024-01-13T21:10:33
+last_modified_at: 2024-01-13T21:17:53
 notes: footnotes
 ---
-This is an upcoming meeting; this page serves as a preview.
-{: .notice--warning}
+This meeting has occurred; you can [view the video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EcIFiZLKGftAjyNmRx4SJJIB_AJskanEbPOYZ2J-lmMDqA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kUN5HB).
+{: .notice--success}
 
 ## tl;dr
 - Our **semi-monthly joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
