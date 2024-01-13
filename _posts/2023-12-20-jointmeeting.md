@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[1800 Hamlin St NE](/assets/images/ria-thayer/from-northwest.jpg)"
 categories: meeting-summary
-last_modified_at: 2023-12-20T11:26:10
+last_modified_at: 2024-01-13T21:10:33
 notes: footnotes
 ---
 This is an upcoming meeting; this page serves as a preview.
@@ -63,8 +63,8 @@ Feel free to reach out if you have suggestions for this agenda! Given the inform
 I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact methods on the footer of this webpage.
 
 [![info posted around the intersection](/assets/images/riathayer/posted-flyer.jpg)](/assets/images/riathayer/posted-flyer.jpg)
-<p class="caption">Informationa about RIA/Thayer and this meeting posted around the intersection</p>
-
+<p class="caption">Information about RIA/Thayer and this meeting posted around the intersection</p>
+<p/>
 |method|outreach performed|
 |---|---|
 |routine scheduling|While this does not comport with the routine scheduling of fourth Wednesdays, it is taking the place of the routine Full-Commission meetings, which generally occur on Third Wednesdays for both 5B and 5C; both Commissions are in recess for December|
