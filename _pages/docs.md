@@ -17,7 +17,12 @@ This is a collection of written works I've issued or contributed to. I often tak
 |---|---|---|---|
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
 |in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
-|in draft|ANC 5C resolution|primary drafter|[Resolution on Comprehensive Public Safety](https://docs.google.com/document/d/14cvbUWZnbVBal6guEt_en4p5XxR7SQiFekQyiJJGnNc/view)|
+|in draft|resolution emphasis letter|solo issuer|[ANC 5C letter re R St Facility Improvement Processes](https://docs.google.com/document/d/1Tr_ZB_TpuMkqsij35hmEWXsmG-gUyDkjvGotBLNJuso/view)|
+|2024-01-23|resolution emphasis letter|solo issuer|[ANC 5C letter re Bladensburg Road Multimodal Safety and Access Study](https://drive.google.com/file/d/1dLhLt11mcMGqRgwh25ir8ZHma3K-Ou_M/view)|
+|2024-01-17 (passed 6-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Comprehensive Public Safety](https://www.anc-5c.com/wp-content/uploads/2024/01/ANC-5C-Resolution-on-Comprehensive-Public-Safety.pdf)|
+|2024-01-12|DDOT project response|solo issuer|[Letter in Support of Arboretum Bridge and Trail final design](https://drive.google.com/file/d/1HbytTVTq-duF3LdKNMj43Az3Z2aO6lLE/view)|
+|2023-12-27|issue update|primary drafter|[Re: Warrant Analysis, Rhode Island Ave NE at Thayer St NE](https://drive.google.com/file/d/11fk2Mvcf3-Mtk0-a-wjnFmG0_NCensOZ/view)|
+|2023-11-27|BZA case response|solo issuer|[Re: Letter in Support of BZA Application 20927A: 1015 Rhode Island Ave NE](https://drive.google.com/file/d/1Fj4SuEtS58hKEbB0ownb8O2Vv-4fmBiv/view)|
 |2023-11-15 (passed 7-0)|ANC 5C resolution|primary drafter|[Resolution on National Engineering Products and Environmental Justice](https://drive.google.com/file/d/1DYX0NqcOEHFE-9R3I1DNK9oJ1d8G9Ga9/view)|
 |2023-11-15|ZC case response|solo issuer|[Re: Letter in Support of ZC Application 23-18: 1800 Hamlin St NE](https://drive.google.com/file/d/1AADWLTJjp0Wdu8TOE4hbUJGfGhu_gfAA/view)|
 |2023-11-13|issue update|primary drafter|[Re: central Ward 5 swing space next steps](https://drive.google.com/file/d/1LnA-Vp2xvgb6zoybFvewuX6GbBMMzH7d/view)|
@@ -25,7 +30,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2023-10-29|ceremonial|solo issuer|[Second New Saint Paul Baptist Church Centennial Celebration](https://drive.google.com/file/d/1xSZU0ofQtHVOvTMWkl4V3jdnUgHFvNeK/view)|
 |2023-10-26|written Council testimony|primary drafter|[Testimony before Committee on Facilities and Family Services Oct 12 Hearing](https://drive.google.com/file/d/1MXn87_sBDtfkYieRzXbV17lW0AC9G-yT/view?usp=drive_link)|
 |2023-10-24|DDOT SoC response|solo issuer|[Re: DDOT solicitation of comment on 2000 block of Hamlin St NE](https://drive.google.com/file/d/1lYOTH1Oxcw30L6doeBlVjBSjTu38OQ3O/view)
-|2023-10-18 (passed 5-0)|ANC 5C resolution|primary drafter|[Resolution on Langdon Elementary Facilities Improvement](https://www.anc-5c.com/wp-content/uploads/2023/10/ANC-5C-Resolution-on-Langdon-Elementary-Facilities-Improvement.pdf)|
+|2023-10-18 (passed 5-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Langdon Elementary Facilities Improvement](https://www.anc-5c.com/wp-content/uploads/2023/10/ANC-5C-Resolution-on-Langdon-Elementary-Facilities-Improvement.pdf)|
 |2023-10-18 (passed 5-0)|ABCA Settlement Agreement|primary drafter|[DC Xtracts Settlement Agreement](https://docs.google.com/document/d/1cGK7eb-4K2P_gnu-U04loS0MLKYHe3j2uD1e6No8bQo/view)|
 |2023-10-04|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-23-194-TOA; RDPP on 2400 block of Girard Pl NE](https://drive.google.com/file/d/1JWsK472be0puO54Zg0mhcbYeM6vbraw9/view)
 |2023-10-03|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 98775](https://drive.google.com/file/d/1LrCcTRaEXqXpzyxAkXCGZVGGdY72e_1k/view?usp=sharing)|
@@ -42,6 +47,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2023-07-17|BZA case response|primary drafter|[Letter regarding BZA 20927; 1015 Rhode Island Ave NE](https://drive.google.com/file/d/1XIpD1kdWI-Uws4QhNJ9Mz-BgWejGgMQp/view)
 |2023-07-12; not passed|ANC 5C resolution|sponsor, primary drafter|[Re: Bladensburg Road, NE Multimodal Safety and Access Study; preferred concepts](https://drive.google.com/file/d/1LmZjklWlUMPuM2npnfoqLKXTYLHY0byx/view)|
 |2023-05-25|PSC case response|solo issuer|[Letter in Opposition of PSC Application #411090; 4950 South Dakota Ave NE](https://drive.google.com/file/d/1FlT6i8u70xvo8sqEw660LKoXw59iAgqz/view)|
+|2023-05-17 (passed 7-0)|ABCA Settlement Agreement|primary drafter|[Aurora Market II Settlement Agreement](https://drive.google.com/file/d/17hk-NovZfkrAueueF3aNfIYylX8LYZuG/view)|
 |2023-04-21|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 88956](https://drive.google.com/file/d/1umm3m7aBf1FXc5xVYb_AQl1eAWlMirma/view)
 |2023-04-03|BZA case response|solo issuer|[Letter in Support of BZA 20861, 3315 12th St. NE](https://drive.google.com/file/d/1TJAnO69lygCX20a4MFFXzCa2dLfh0JAT/view)|
 |2023-03-29|written Council testimony|solo issuer|[Testimony before Judiciary Committee Budget Oversight Hearing on the DC FEMS](https://drive.google.com/file/d/1ER-smvgD4EEzmYvrAQikOX5WK1s-yPjc/view)|
