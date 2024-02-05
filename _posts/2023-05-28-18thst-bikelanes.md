@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2023-12-07T06:11:09
+last_modified_at: 2024-02-05T01:40:18
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -19,7 +19,8 @@ This community concern runs through 5C07, but also along the boundary of 5C06 an
 - **The 18th St NE bicycle/mobility lanes** are a set of painted lanes on 18th St NE running in some form for the half mile from Montana Ave NE to Rhode Island Ave NE
 - **The lanes are inconsistent**; running on only one or the other side of the roadway (with sharrows on the other side), and jumping laterally across intersections without guidelines or good visibility
 - **This is confusing and unsafe for bikers and drivers alike**; the double-yellow median frequently jumps around with the bike lanes
-- **A number of [nearby infrastructure improvements](#nearby-projects), [geographic constraints](#connectivity), and [family-centric amenities](#amenities)** make it especially important that we protect the infrastructure we have as we seek to extend it from Montana to Michigan
+- **DDOT has also indicated that "sharrows"**, which are employed on one side of the road or the other from Bryant St NE to Rhode Island Ave NE, are no longer part of their design guides and are internally reviewed for potential upgrade
+- **A number of [nearby infrastructure improvements](#nearby-projects), [geographic constraints](#connectivity), and [family-centric amenities](#amenities)** make it especially important that we upgrade the infrastructure we have as we seek to extend it from Montana to Michigan
 - **I've been [attempting to draw attention](#advocacy)** on this need to get DDOT to move on it sooner rather than later.
 
 ## The Need
@@ -104,6 +105,8 @@ As the roadway is 42' wide, with 37' consistently allocated north of Bryant to o
 This span is marked as having existing infrastructure in the MoveDC plans, but there hasn't been any since around 2015 when the roadway was repaved and the lanes weren't repainted. At around 35' of crosswidth with only one travel lane in each direction and no parking, this roadway is already primed for introducing bike lanes, as it would just be a matter of right-sizing the travel lanes and would not remove any existing parking.
 
 I'm hopeful at least a quick painted extension of the existing lanes (mirroring the span from Montana to Bryant) could occur as part of the public space work for the [1800 Hamlin St NE](/issues/1800hamlin) development.
+
+Should an upgrade south of RIA occur, we should seek to get this span included as it's considered existing by the MoveDC map and should be an easy lift.
 
 #### Irving north
 This span is anticipated in the MoveDC plans up to South Dakota Ave NE, though the roadway characteristics remain the same all the way to just shy of Michigan (and continuing northbound in phases should be a longer-term goal).
