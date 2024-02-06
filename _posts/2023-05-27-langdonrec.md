@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Langdon Park Rec Center](/assets/images/langdon-park/rec-center.jpg)"
 categories: development active
-last_modified_at: 2023-11-06T03:36:21
+last_modified_at: 2024-02-06T00:47:02
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -16,7 +16,7 @@ last_modified_at: 2023-11-06T03:36:21
 - **The Langdon Park Rec Center** (also referred to variously as Langdon Park Community Center or Langdon Park East Recreation Center) **is a facility located at 2901 20th St NE within Langdon Park**
 - **The building has likely not seen significant modernization since its 1966 construction**, and its age is fairly apparent
 - **It's slated for modernization** which will likely involve razing the existing structure and constructing a modern one
-- **The community engagement process is kicking off** with a [meeting on-site at 6pm on Thursday November 2nd](https://langdoncm.splashthat.com/), and [a DPR project page](https://dgs.dc.gov/page/langdon-park-community-center)
+- **The community engagement process has kicked off** with a [November 2 meeting](#112-meeting), and [a DPR project page](https://dgs.dc.gov/page/langdon-park-community-center)
 - **I'm [beginning to formulate my priorities](#priorities)** and would love to hear yours!
 
 ## Priorities
