@@ -6,7 +6,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Langdon Park playground](/assets/images/langdon-park-playground.jpg)"
 layout: splash
-excerpt: "Serving northern Langdon since 2023"
+# excerpt: "Serving northern Langdon since 2023"
 feature_row:
   - image_path: assets/images/chuck-brown-day-dancing.jpg
     alt: "Chuck Brown Day"
