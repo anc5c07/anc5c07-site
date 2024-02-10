@@ -1,6 +1,6 @@
 ---
 title: " "
-excerpt: " "
+# excerpt: " "
 header:
   overlay_image: /assets/images/langdon-park-playground.jpg
   overlay_filter: rgba(127, 127, 127, 0.5)
