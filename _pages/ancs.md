@@ -1,7 +1,7 @@
 ---
 permalink: /ancs/
 title: "On ANCs"
-excerpt: "Background on the Office, Terms, and Procedures"
+# excerpt: "Background on the Office, Terms, and Procedures"
 accordion: 
   - title: |
       ## ANCs

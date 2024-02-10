@@ -1,7 +1,7 @@
 ---
 permalink: /act/
 title: "Do Something"
-excerpt: "A one-stop shop for Civic Action"
+# excerpt: "A one-stop shop for Civic Action"
 header:
   overlay_image: /assets/images/notime.jpg
   overlay_filter: rgba(127, 127, 127, 0.5)
