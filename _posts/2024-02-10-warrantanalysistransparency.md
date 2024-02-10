@@ -12,7 +12,7 @@ categories: traffic-safety
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2024-02-10T14:59:23
+last_modified_at: 2024-02-10T23:24:42
 ---
 <meta name="format-detection" content="telephone=no"/>
 
@@ -40,7 +40,7 @@ I've chosen not to redact my personal information on these since it's very much 
 
 |artifact|RIA/Thayer|SDA/Ingraham|Georgia/Farragut|Georgia/Hamilton|
 |---|---|---|---|---|
-|**outcome**|DDOT is currently designing a HAWK signal ([more info](/issues/ria-thayer/))|DDOT installed a HAWK and then upgraded to a full signal in 2023|DDOT installed a full signal that was finally activated in 2024 (NOI, status tweet)|DDOT installed a HAWK pending activation([NOI 22-144-TESD](https://drive.google.com/file/d/15a0RH3OwhRjSui250_bCJEWy6_P7WHZA/view), status tweet)|
+|**outcome**|DDOT is currently designing a HAWK signal ([more info](/issues/ria-thayer/))|DDOT installed a HAWK and then upgraded to a full signal in 2023|DDOT installed a full signal that was finally activated in 2024 ([NOI](https://drive.google.com/file/d/1nKbkTfyNrgFTAPnQvNVD-jpjmtz3kB0D/view), [status tweet](https://x.com/ZachBIsrael/status/1745971995567661244))|DDOT installed HAWK([NOI 22-144-TESD](https://drive.google.com/file/d/15a0RH3OwhRjSui250_bCJEWy6_P7WHZA/view), [status tweet](https://x.com/ZachBIsrael/status/1742217231864385909))|
 |**warrant analysis**|30 pages withheld|not found?|[Georgia Avenue NW at Farragut Street NW – Signal Warrant](https://drive.google.com/file/d/1gp9fkP_MbM1TGdV7ezdc891qpXhffXzw/view)|30 pages withheld|
 |**FOIA response** (includes request text)|[2024-FOIA-01004 response](https://drive.google.com/file/d/1jurWMUdnRjtBIPgH5yfdy7wfaF7lObCG/view)|[2024-FOIA-01766 response](https://drive.google.com/file/d/1z8vaQOnVdotLzqrWAuNzawM8pGph29Bo/view)|[2023-FOIA-07224 response](https://drive.google.com/file/d/1-IIrKgj89mZCJSA9BlWogteFxU8mjfh_/view)|[2024-FOIA-01005](https://drive.google.com/file/d/18Pp0_ukFJAWs2fC9HhKJ14bBJ9t-AT47/view)|
 |**ANC issuance**|[Re: Warrant Analysis, Rhode Island Ave NE at Thayer St NE](https://drive.google.com/file/d/11fk2Mvcf3-Mtk0-a-wjnFmG0_NCensOZ/view)||||
