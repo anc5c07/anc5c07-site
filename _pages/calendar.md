@@ -1,7 +1,7 @@
 ---
 permalink: /calendar/
 title: "input deadlines, meetings, events"
-# excerpt: " "
+excerpt: " "
 header:
   overlay_image: /assets/images/abacus.jpg
   overlay_filter: rgba(127, 127, 127, 0.5)

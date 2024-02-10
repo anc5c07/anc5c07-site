@@ -1,7 +1,7 @@
 ---
 permalink: /vj/
 title: "Meet VJ"
-# excerpt: " "
+excerpt: " "
 header:
   overlay_image: /assets/images/horsey-ride.jpg
   caption: "[Horsey Ride at the US Capitol](/assets/images/horsey-ride.jpg)"

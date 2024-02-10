@@ -1,7 +1,7 @@
 ---
 permalink: /flyers/
 title: "printed literature for outreach"
-# excerpt: " "
+excerpt: " "
 header:
   overlay_image: /assets/images/papers.jpg
   overlay_filter: rgba(127, 127, 127, 0.5)

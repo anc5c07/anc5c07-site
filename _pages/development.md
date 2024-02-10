@@ -1,7 +1,7 @@
 ---
 permalink: /development/
 title: "Map of Real Estate projects"
-# excerpt: " "
+excerpt: " "
 header:
   overlay_image: /assets/images/bryant-construction.jpg
   caption: "[Bryant St under construction](/assets/images/bryant-construction.jpg)"

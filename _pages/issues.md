@@ -1,7 +1,7 @@
 ---
 permalink: /issues/
 title: "The Issues"
-# excerpt: ""
+excerpt: ""
 header:
   overlay_image: /assets/images/RIA-at-night.jpg
   caption: "[Rhode Island Ave. at night](/assets/images/RIA-at-night.jpg)"

@@ -1,7 +1,7 @@
 ---
 permalink: /faq/
 title: "FAQ"
-# excerpt: "Background on the Office, Terms, and Procedures"
+excerpt: "Background on the Office, Terms, and Procedures"
 accordion: 
   - title: |
       ## this is item 1
