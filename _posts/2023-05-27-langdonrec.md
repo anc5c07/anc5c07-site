@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Langdon Park Rec Center](/assets/images/langdon-park/rec-center.jpg)"
 categories: development active
-last_modified_at: 2024-02-06T00:47:02
+last_modified_at: 2024-02-20T21:51:14
 ---
 <div id="development-map" class="map-container"></div>
 
@@ -18,6 +18,7 @@ last_modified_at: 2024-02-06T00:47:02
 - **It's slated for modernization** which will likely involve razing the existing structure and constructing a modern one
 - **The community engagement process has kicked off** with a [November 2 meeting](#112-meeting), and [a DPR project page](https://dgs.dc.gov/page/langdon-park-community-center)
 - **I'm [beginning to formulate my priorities](#priorities)** and would love to hear yours!
+- **You can submit feedback to DPR** [using this form](https://forms.office.com/Pages/ResponsePage.aspx?id=8Unkj5SLt0-ZBm-Tnagtc_myyzzTfjZAu3mqLOlcVz9UOEpXWFFDTzZVVVlYS0JZRDQwQ0NBNUJWNi4u) (select "Langdon" for the first question).
 
 ## Priorities
 
