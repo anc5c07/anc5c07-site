@@ -18,6 +18,11 @@ This is a collection of written works I've issued or contributed to. I often tak
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
 |in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
 |in draft|resolution emphasis letter|solo issuer|[ANC 5C letter re R St Facility Improvement Processes](https://docs.google.com/document/d/1Tr_ZB_TpuMkqsij35hmEWXsmG-gUyDkjvGotBLNJuso/view)|
+|in draft|TSI status request|solo issuer|[ANC 5C letter re: 20th and Evarts Sts NE](https://docs.google.com/document/d/1H8KDXxkdTTv9WtJbvvCNO0zh_l0ktUHkYft5pFFfVs0/view)|
+|2024-02-29|business support letter|solo issuer|[Re: Letter of Support, Chillville Wellness’ Social Equity Retail Application](https://drive.google.com/file/d/1jfNMzgIuBoTQEEEKfEcKd5TQh-AlxWtW/view)|
+|2024-02-20|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-24-08-TESD; Fenwick St NE crosswalks](https://drive.google.com/file/d/1N5SXIOLUWyoxtiMRLlSVXfNBNE0cdNGt/view)
+|2024-02-09|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on the DDOT](https://drive.google.com/file/d/1yXaUX0CDELyL5aOlnFJsqYiV6CdENGBB/view)|
+|2024-01-31|resolution emphasis letter|solo issuer|[Re: Anacostia Riverwalk Trail Extension and National Arboretum Access Bridge](https://drive.google.com/file/d/1yXaUX0CDELyL5aOlnFJsqYiV6CdENGBB/view)|
 |2024-01-23|resolution emphasis letter|solo issuer|[ANC 5C letter re Bladensburg Road Multimodal Safety and Access Study](https://drive.google.com/file/d/1dLhLt11mcMGqRgwh25ir8ZHma3K-Ou_M/view)|
 |2024-01-17 (passed 6-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Comprehensive Public Safety](https://www.anc-5c.com/wp-content/uploads/2024/01/ANC-5C-Resolution-on-Comprehensive-Public-Safety.pdf)|
 |2024-01-12|DDOT project response|solo issuer|[Letter in Support of Arboretum Bridge and Trail final design](https://drive.google.com/file/d/1HbytTVTq-duF3LdKNMj43Az3Z2aO6lLE/view)|
