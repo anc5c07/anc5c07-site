@@ -12,6 +12,7 @@ layout: single
 
 |date|purpose|
 |---|---|
+|[3/21/2024](/assets/documents/flyer-2001ria-20240321.pdf)|2001 RIA/meeting (quarter-page)|
 |[12/11/2023](/assets/documents/flyer-riathayer-20231211-fullpage.pdf)|RIA/Thayer crossing/meeting (full page)|
 |[12/11/2023](/assets/documents/flyer-riathayer-20231211.pdf)|RIA/Thayer crossing/meeting (quarter-page)|
 |[12/7/2023](/assets/documents/flyer-20231207.pdf)|issue updates and upcoming meetings|
