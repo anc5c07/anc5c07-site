@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[2001 Rhode Island Ave NE rendering](/assets/images/2001ria/rendering-close.png)"
 categories: meeting-summary
-last_modified_at: 2024-03-25T16:10:44
+last_modified_at: 2024-03-25T17:22:47
 notes: footnotes
 ---
 This meeting is in the future.
@@ -77,10 +77,8 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |---|---|
 |routine scheduling|Though there has not been a joint SMD meeting since December, this date does align with the standing fourth Wednesday schedule for these semi-regular meetings dating back to February 2023|
 |website|This meeting information page was first posted to this website on 3/24/2023 around 10pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/) and from [the 5C website](https://anc-5c.com/calendar/).|
-|social media|(pending)|
+|social media|I posted about 2001 RIA and this meeting [on Twitter/X](https://x.com/vj5c07/status/1770850420509769960), the [Brookland DC Facebook group](https://www.facebook.com/groups/brookand/permalink/10160381796579121/), and on the [Woodridge DC Neighbors Facebook group](https://www.facebook.com/groups/woodridgedc/permalink/1834766450330459/).|
 |[direct email](https://us9.campaign-archive.com/home/?u=208f79fec14599c11c77bc927&id=150da6f8d6)|2001 RIA has been a top topic on a number of my email newsletters, and a meeting on the subject was noted as likely for March 27th [in the February newsletter](https://us9.campaign-archive.com/?u=208f79fec14599c11c77bc927&id=e94501c084).|
 |[paper flyer](/flyers/)|This meeting and the subject of 2001 RIA were covered [in a purpose-made flyer](/assets/documents/flyer-2001ria-20240321.pdf), which [I delivered by hnad to nearby neighbors](https://x.com/vj5c07/status/1770850420509769960), [placed in several community locations](https://x.com/vj5c07/status/1772258349863637358), and [posted by the subject property](https://x.com/vj5c07/status/1772258349863637358).|
-
-<!-- |social media|I posted about RIA/Thayer and this meeting [on Twitter/X on 12/4](https://x.com/vj5c07/status/1731887270448210338) and [on 12/11](https://x.com/vj5c07/status/1734317685717008454), the [Brookland DC Facebook group](https://www.facebook.com/groups/brookand/posts/10160237867649121/), and on the [Woodridge DC Neighbors Facebook group](https://www.facebook.com/groups/woodridgedc/posts/1770385683435203/).| -->
 
 *[SMD]: Single-Member District
