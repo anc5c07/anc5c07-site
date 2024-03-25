@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[2001 Rhode Island Ave NE rendering](/assets/images/2001ria/rendering-close.png)"
 categories: meeting-summary
-last_modified_at: 2024-03-25T16:01:13
+last_modified_at: 2024-03-25T16:02:47
 notes: footnotes
 ---
 This meeting is in the future.
@@ -55,6 +55,9 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 - **Phone Conference ID:** 955 959 030#
 
 ## Agenda
+[![info posted around the intersection](/assets/images/2001ria/rendering-far.png)](/assets/images/2001ria/rendering-far.png)
+<p class="caption">2001 RIA rendering</p>
+
 Feel free to reach out if you have suggestions for this agenda! Given the informal nature of of SMD meetings, this agenda is flexible and may change anytime.
 
 - Community updates:
@@ -67,8 +70,8 @@ Feel free to reach out if you have suggestions for this agenda! Given the inform
 ## Notification History
 I can't guarantee perfect conveyence of information to every stakeholder on every occasion, but I do my best to both diversify outreach and log all of it for auditability. I'm also available through the contact methods on the footer of this webpage.
 
-[![info posted around the intersection](/assets/images/2001ria/posted-flyer.jpg)](/assets/images/riathayer/posted-flyer.jpg)
-<p class="caption">Information about RIA/Thayer and this meeting posted around the intersection</p>
+[![info posted around the building](/assets/images/2001ria/posted-flyer.jpg)](/assets/images/2001ria/posted-flyer.jpg)
+<p class="caption">Information about 2001 RIA and this meeting posted around the building</p>
 <p/>
 |method|outreach performed|
 |---|---|
