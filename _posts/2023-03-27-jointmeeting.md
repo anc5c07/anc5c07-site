@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[2001 Rhode Island Ave NE rendering](/assets/images/2001ria/rendering-close.png)"
 categories: meeting-summary
-last_modified_at: 2024-03-25T16:02:47
+last_modified_at: 2024-03-25T16:10:44
 notes: footnotes
 ---
 This meeting is in the future.
@@ -35,7 +35,7 @@ Single-Member District meetings are:
 ### Why are these joint meetings?
 Commissioner Piekara and I do joint meetings because our community is split down the center by the Commission boundary along Rhode Island Ave, the epicenter of our community's housing production, retail/commercial activity, and street safety issues. Most obligatory ANC casework in our SMDs is shared by ANCs 5B and 5C with both being affected/party ANCs; having a joint meeting provides cross-pollinated awareness of both Commission's activities and avoids redundant meetings on the same topics.
 
-**2001 RIA is an example of a case that concerns both Commissions; as it's addressed on the Commission boundary, both Commissions have automatic party status and our reports would both have "Great Weight"**
+**2001 RIA is an example of a case that concerns both Commissions;** both Commissions have automatic party status and both our reports would both have "Great Weight" because the address is directly on the boundary.
 
 ## Physical Location
 There will be no physical location for March.
@@ -64,7 +64,7 @@ Feel free to reach out if you have suggestions for this agenda! Given the inform
   - Langdon Park Neighbors
   - Friends of Queens Chapel Forest Patch
 - Presentation from Restoration Community Alliance
-- Applicant presentation on [2001 Rhode Island Ave NE](/issues/2001ria))
+- Applicant presentation on [2001 Rhode Island Ave NE](/issues/2001ria)
 - public comments/questions
 
 ## Notification History
