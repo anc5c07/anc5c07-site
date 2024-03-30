@@ -8,11 +8,11 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[2001 Rhode Island Ave NE rendering](/assets/images/2001ria/rendering-close.png)"
 categories: meeting-summary
-last_modified_at: 2024-03-29T02:13:45
+last_modified_at: 2024-03-30T03:48:19
 notes: footnotes
 ---
-This meeting is in the future.
-{: .notice--warning}
+This meeting has already occurred. [You can view the video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EfYjW6kyoodKk6ntUMdKZIABM_4Sz7ZTfBq2n4RAnlcAuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qhs7m2).
+{: .notice--success}
 
 ## tl;dr
 - **joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
