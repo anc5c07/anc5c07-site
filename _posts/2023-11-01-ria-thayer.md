@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2024-04-01T20:16:45
+last_modified_at: 2024-04-06T18:15:55
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -23,7 +23,7 @@ This traffic safety mitigation is on the boundary between 5C07 and 5B06.
 - **DDOT isn't releasing the [Signal Warrant Analysis](#traffic-signal-warrants)** that might explain why they're not moving forward with a full traffic signal; we issued [a letter on public need to review it](https://drive.google.com/file/d/11fk2Mvcf3-Mtk0-a-wjnFmG0_NCensOZ/view), but DDOT's withholding was upheld by the Mayor's office on appeal
 - **Beyond HAWK vs traffic signal,** [we should collectively push DDOT on prioritizing safety in design](#hawk-ambitions) similarly for either, and it could go a long way towards enabling safe pedestrian crossing here and allowing a later upgrade
 - **DDOT presented at a [joint 5B06/5C07 SMD meeting on 12/20](/issues/20231220-jointmeeting/)**; this was on DDOT's request to discuss further in a meeting rather than over email; we probed the warrant analysis and advocated for maximal safety in design
-- **DDOT issued an NOI on 3/25/2024** and comments are due May 9th; this is our opportunity to ask for maximal safety, and any possible provisions to later upgrade to a full signal
+- **[DDOT issued an NOI on 3/25/2024 and comments are due May 9th](https://ddotwiki.atlassian.net/wiki/spaces/NI/pages/2461728792/NOI-24-85-TESD)**; this is our opportunity to ask for maximal safety, and any possible provisions to later upgrade to a full signal
 
 ## 12/20 meeting
 Per DDOT, an ANC meeting is the preferred method of discussing the matter because "the engineer designing this safety installation would prefer to vet questions/feedback during the meeting instead of a lot of email follow up"; this does not comport with any experiences I've personally had with ANC meetings, but we'll be proceeding with the most focused meeting type possible for this project, which is a 5B06/5C07 Joint SMD meeting.
