@@ -16,10 +16,9 @@ I'm VJ or, in BOE terms, Vijay "VJ" Kapur. I have a lot to say/write, but not us
 <p class="caption">VJ on the Provost rooftop</p>
 
 I am, in no particular order and among other things:
-- parent to Melina, 5
-- spouse to [Kelly](https://kellybellphotography.com)
-- human caretaker to dogs Milo and Leela
-- an eight-year resident of 5C07
+- parent to Melina, 7
+- human caretaker to dog Milo and cats Dewa and Peppo
+- a ten-year resident of 5C07
 - a lifelong resident of the metro area (born in Arlington, raised in Fairfax and Montgomery Counties)
 - a child and grandchild of naturalized Americans who also made the DC area their home
 - a John Burroughs Elementary/DCPS parent
