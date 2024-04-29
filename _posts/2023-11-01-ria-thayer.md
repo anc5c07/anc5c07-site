@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2024-04-06T18:15:55
+last_modified_at: 2024-04-29T04:22:11
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -23,21 +23,40 @@ This traffic safety mitigation is on the boundary between 5C07 and 5B06.
 - **DDOT isn't releasing the [Signal Warrant Analysis](#traffic-signal-warrants)** that might explain why they're not moving forward with a full traffic signal; we issued [a letter on public need to review it](https://drive.google.com/file/d/11fk2Mvcf3-Mtk0-a-wjnFmG0_NCensOZ/view), but DDOT's withholding was upheld by the Mayor's office on appeal
 - **Beyond HAWK vs traffic signal,** [we should collectively push DDOT on prioritizing safety in design](#hawk-ambitions) similarly for either, and it could go a long way towards enabling safe pedestrian crossing here and allowing a later upgrade
 - **DDOT presented at a [joint 5B06/5C07 SMD meeting on 12/20](/issues/20231220-jointmeeting/)**; this was on DDOT's request to discuss further in a meeting rather than over email; we probed the warrant analysis and advocated for maximal safety in design
-- **[DDOT issued an NOI on 3/25/2024 and comments are due May 9th](https://ddotwiki.atlassian.net/wiki/spaces/NI/pages/2461728792/NOI-24-85-TESD)**; this is our opportunity to ask for maximal safety, and any possible provisions to later upgrade to a full signal
+- **[DDOT issued an NOI on 3/25/2024 and comments are due May 23rd](#community-action)**; this is our opportunity to ask for maximal safety, and any possible provisions to later upgrade to a full signal
 
-## 12/20 meeting
-Per DDOT, an ANC meeting is the preferred method of discussing the matter because "the engineer designing this safety installation would prefer to vet questions/feedback during the meeting instead of a lot of email follow up"; this does not comport with any experiences I've personally had with ANC meetings, but we'll be proceeding with the most focused meeting type possible for this project, which is a 5B06/5C07 Joint SMD meeting.
+## Community Action
+Anyone can submit comments in support or opposition to [DDOT's published Notice of Intent (NOI), NOI-24-85-TESD](https://ddotwiki.atlassian.net/wiki/spaces/NI/pages/2461728792/NOI-24-85-TESD), to be considered by DDOT as it moves forward into further design and contracting out for install.
 
-[![RIA/Thayer issue flyer](/assets/images/riathayer/flyer.png)](/assets/images/riathayer/flyer.png)
-<p class="caption">flyer promoting this meeting</p>
+### Submitting a Letter
+To submit a letter:
+- send before end-of-day **Tuesday 5/23/2024** to be sure it's received in time
+- email it to **dalando.baker@dc.gov** (_**NOTE A TYPO**_ in the source website; it's definitely dalando.baker@dc.gov and NOT dolondo.baker@dc.gov)
+- include the NOI number (`NOI-24-85-TESD`) and title (`Installation of a HAWK signal at intersection of Rhode Island Ave and Thayer St, NE`) in the subject
+- including some information about your proximity to the site, and/or residency within 5C07/5B06 if applicable, may help strengthen the weighing of your comments
 
-At the 12/20 meeting, we should attempt to focus on:
-1. pushing DDOT to finalize the signal warrant analysis so it can be subject to public release and scrutiny on why the community is not receiving a full traffic signal in this essential retail area
-2. pushing DDOT to include as much tactical hardening of the median in the vicinity of this crossing, as creating a safe pedestrian refuge and reducing left-turn manuevers in the vicinity of this crossing is critical to making it usable and safe
+### Template in support with consideration for maximal safety and upgrade capacity
+This is a position one may wish to take:
 
-It's important that we not give DDOT's reps an out to spend most of the meeting time rehashing what an HAWK signal is during our time with them, so I'm asking folks who plan to attend familiarize themselves with the background to the extent possible.
+> `Subject: ` Letter in Support of NOI-24-85-TESD, Installation of a HAWK signal at intersection of Rhode Island Ave and Thayer St, NE
 
-You can help promote this meeting by printing/sharing [flyers](/flyers).
+>Mr. Baker:
+>
+>I'm writing to support the subject HAWK signal installation, with the following hopes for the final design:
+>
+>- **advanced stop lines** to mitigate against multiple-threat crashes
+>- **well-designed pedestrian refuge/safety islands** that are at least six feet wide, have cut-through ramps the width of the crosswalks, have a median "nose" extending past the crosswalk, and have additional signal activation buttons at the refuge
+>- **median/turn hardening** to mitigate against illicit left turns in and out of the Family Dollar parking lot, and harden left turns onto RIA from Thayer
+>- **curb extensions on the north side** where there's 24-hour parking, and drivers frequently park in the intersection and on top of the existing crosswalks
+>- **maximal considerations for later upgrade to a full traffic signal**; to the degree possible, electrical service and support poles should be sized to facilitate a near-term upgrade to a full traffic signal, as hundreds of homes and new retail are built nearby and pedestrian traffic increases
+>
+>Thank you; I look forward to seeing this project progress!
+>
+>Very respectfully,<br/>
+>(your name)<br/>
+>(your address or SMD)
+
+You can help promote this action by printing/sharing [this flyer](/assets/documents/flyer-riathayer-20240406.pdf).
 
 ### Timetable
 An installation like this is way too hard to get and takes way too long to deliver. If we want to maximize our return on our limited advocacy capacity, it's important to focus on where we are in the process. The past dates below are based on when DDOT has revealed information. The future dates are my best guesses based on recent similar installs (DDOT's productivity is likely decaying over time). It is not likely worth our time to try to extract predictions on future events from DDOT.
@@ -183,3 +202,7 @@ We had some subsequent back and forth to establish:
 - an ANC meeting would not be a precondition for moving forward on the design, though it's the preferred method of discussing the matter because "the engineer designing this safety installation would prefer to vet questions/feedback during the meeting instead of a lot of email follow up"
 - since the subject intersections is on the 5B/5C boundary and wouldn't require a vote at this time, the appropriate venue for a presentation is the 5B06/5C07 Joint SMD meeting which typically occurs on fourth Wednesdays; we are deliberating on when we might have this meeting during (or after) the holidays
 - I did start writing out some immediate questions on the scope of this project; while I never received answers, I did find some exemplars of other HAWK signal Notices of Intent that answered most of them
+
+**On 12/20/2023,** we had an extensive discussion with DDOT on this matter in a public SMD meeting.
+
+**On 3/25/2024,** DDOT issued a Notice of Intent to install the HAWK signal.

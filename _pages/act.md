@@ -8,13 +8,12 @@ header:
   caption: "[No Time](/assets/images/notime.jpg)"
 layout: single
 ---
-I try to incorporate chances to agitate to targeted decisionmakers (or their public-facing staff) for any pressing issues we're facing as a community. Here are some things you can take action on right now. Any of these action items can also be turned into a petition if you want to grab even more support quickly from neighbors.
+I try to incorporate chances to advocate to targeted decisionmakers (or their public-facing staff) for any pressing issues we're facing as a community. Here are some things you can take action on right now. Any of these action items can also be turned into a petition if you want to grab even more support quickly from neighbors.
 
 |act on|if you care about|
 |---|---|
-|[20th St traffic safety](/issues/20thst/#community-action)|traffic safety in our neighborhood|
-|[2026 Jackson St NE](/issues/2026jackson/#community-action)|more retail spaces on RIA|
-|[Engine 26 relocation](/issues/modelcities/#community-action)|protecting our forest/natural spaces|
+|[The HAWK signal at RIA/Thayer](/issues/ria-thayer/#community-action)|traffic safety in our neighborhood|
+|[2001 Rhode Island Ave NE](/issues/2001ria/#community-action)|more homes and retail spaces on RIA|
 
 #### tips for a good letter
 - **Be respectful;** use honorifics instead of first names, and thank folks for their service no matter how you may feel about it
