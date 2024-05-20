@@ -30,11 +30,11 @@ feature_row:
     btn_label: "Issues"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/riathayer/from-northwest-short.jpg
-    alt: "Green Valley Apartments"
-    title: "12/20/2023: 5B06/5C07 Joint SMD meeting"
-    excerpt: "an RIA/Thayer discussion"
-    url: "/issues/20231220-jointmeeting/"
+  - image_path: /assets/images/sda/faded-crosswalk-short.jpg
+    alt: "South Dakota Ave"
+    title: "South Dakota Ave safety improvements"
+    excerpt: "Two upcoming meetings to advocate to DDOT"
+    url: "/issues/sda/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row0:
@@ -139,9 +139,9 @@ feature_row4:
   </div>
 </div>
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
 
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
