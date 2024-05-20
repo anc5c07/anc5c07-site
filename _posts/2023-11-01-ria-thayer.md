@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[a far look at the crossing from the northwest](/assets/images/riathayer/from-northwest.jpg)"
 categories: transportation
-last_modified_at: 2024-04-29T04:22:11
+last_modified_at: 2024-05-20T04:41:23
 ---
 
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
@@ -30,7 +30,7 @@ Anyone can submit comments in support or opposition to [DDOT's published Notice 
 
 ### Submitting a Letter
 To submit a letter:
-- send before end-of-day **Tuesday 5/23/2024** to be sure it's received in time
+- send before end-of-day **Thursday 5/23/2024** to be sure it's received in time
 - email it to **dalando.baker@dc.gov** (_**NOTE A TYPO**_ in the source website; it's definitely dalando.baker@dc.gov and NOT dolondo.baker@dc.gov)
 - include the NOI number (`NOI-24-85-TESD`) and title (`Installation of a HAWK signal at intersection of Rhode Island Ave and Thayer St, NE`) in the subject
 - including some information about your proximity to the site, and/or residency within 5C07/5B06 if applicable, may help strengthen the weighing of your comments
