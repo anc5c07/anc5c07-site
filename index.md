@@ -8,12 +8,12 @@ header:
 layout: splash
 # excerpt: "Serving northern Langdon since 2023"
 feature_row:
-  - image_path: assets/images/chuck-brown-day-dancing.jpg
-    alt: "Chuck Brown Day"
-    title: "Calendar"
-    excerpt: "input deadlines, meetings, events"
-    url: "/calendar/"
-    btn_label: "Calendar"
+  - image_path: assets/images/langdon-crossing/complete-short.png
+    alt: "Langdon Park Crossing"
+    title: "Traffic Safety"
+    excerpt: "investigations and evaluations"
+    url: "/traffic-safety/"
+    btn_label: "Traffic Safety"
     btn_class: "btn--primary"
   - image_path: /assets/images/bryant-construction.jpg
     alt: "Bryant Street Construction"
