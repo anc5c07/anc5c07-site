@@ -10,7 +10,7 @@ layout: splash
 feature_row:
   - image_path: assets/images/langdon-crossing/complete-short.png
     alt: "Langdon Park Crossing"
-    title: "Traffic Safety"
+    title: "Traffic Safety Tracker"
     excerpt: "investigations and evaluations"
     url: "/traffic-safety/"
     btn_label: "Traffic Safety"
@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/bryant-construction.jpg
     alt: "Bryant Street Construction"
     title: "Development Tracker"
-    excerpt: "more trackers to come"
+    excerpt: "new homes and retail"
     url: "/development/"
     btn_label: "Development"
     btn_class: "btn--primary"
