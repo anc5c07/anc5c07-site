@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[18th St NE, viewing south from CaBi dock](/assets/images/18thst/south-from-dock.jpg)"
 categories: transportation
-last_modified_at: 2024-02-05T01:40:18
+last_modified_at: 2024-06-15T20:31:51
 ---
 This community concern runs through 5C07, but also along the boundary of 5C06 and 5C02. Possible extensions north could cross 5B06, 5B02, and 5B01.
 {: .notice--warning}
@@ -22,6 +22,7 @@ This community concern runs through 5C07, but also along the boundary of 5C06 an
 - **DDOT has also indicated that "sharrows"**, which are employed on one side of the road or the other from Bryant St NE to Rhode Island Ave NE, are no longer part of their design guides and are internally reviewed for potential upgrade
 - **A number of [nearby infrastructure improvements](#nearby-projects), [geographic constraints](#connectivity), and [family-centric amenities](#amenities)** make it especially important that we upgrade the infrastructure we have as we seek to extend it from Montana to Michigan
 - **I've been [attempting to draw attention](#advocacy)** on this need to get DDOT to move on it sooner rather than later.
+- **ANC 5C has also endorsed upgrading these bike lanes** unanimously as part of our January 2024 *[Resolution on Comprehensive Public Safety](https://www.anc-5c.com/wp-content/uploads/2024/01/ANC-5C-Resolution-on-Comprehensive-Public-Safety.pdf)*
 
 ## The Need
 As DC's low-stress bicycle/mobility priority network grows, we need to keep in mind the necessity for safe and accessible infrastructure along 18th St. There are many reasons, further detailed below:
