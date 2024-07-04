@@ -12,6 +12,8 @@ layout: single
 
 |date|purpose|
 |---|---|
+|[6/15/2024](/assets/documents/flyer-17thfranklin-20240615.pdf)|17th/Franklin Diverter NOI|
+|[6/1/2024](/assets/documents/flyer-20240601.pdf)|issue updates and upcoming meetings|
 |[4/6/2024](/assets/documents/flyer-20240406.pdf)|issue updates and upcoming meetings|
 |[4/6/2024](/assets/documents/flyer-2001ria-20240406.pdf)|2001 RIA/resolution (quarter-page)|
 |[4/6/2024](/assets/documents/flyer-riathayer-20240406.pdf)|RIA/Thayer crossing/NOI (quarter-page)|
