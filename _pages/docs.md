@@ -17,7 +17,11 @@ This is a collection of written works I've issued or contributed to. I often tak
 |---|---|---|---|
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
 |in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
-|in draft (due 4/2)|written Council testimony|solo issuer|[Testimony before T&E Committee on Environmental Justice, other bills](https://docs.google.com/document/d/1DEYEi1WHy5rqag89Q0pOGR2ezQp88Fqts7wnFA637Eo/view)|
+|2024-06-18|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-24-115-TESD, Conversion of 17th Street NE at Franklin Street NE to right-in-right-out operations by installation of a center diverter](https://drive.google.com/file/d/1bBlhVYecqbi-5LdVyhxb19vqXSLEC4Lm/view)
+|2024-05-23|resolution emphasis letter/DDOT NOI Response|solo issuer|[Letter in Support of NOI-24-85-TESD, Installation of a HAWK signal on Rhode Island Ave NE at Thayer St NE](https://drive.google.com/file/d/1Wku3NK59umJ27UvqR99sOnnVwIT_Ic5z/view)|
+|2024-04-17 (passed 5-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Mitigating Development Concerns Surrounding Rhode Island Ave NE and 20th St NE](https://www.anc-5c.com/wp-content/uploads/2024/05/ANC-5C-Resolution-on-Mitigating-Development-Concerns-Surrounding-Rhode-Island-Ave-NE-and-20th-St-NE.pdf)|
+|2024-04-17|BZA case response by ANC|sponsor, primary drafter|[BZA 21067, 2001 Rhode Island Ave NE, form 129](https://drive.google.com/file/d/1Zohwj66O_cs538jrP4oN9e0N8dGyiofE/view)|
+|2024-04-02|written Council testimony|solo issuer|[Testimony before T&E Committee on Environmental Justice, other bills](https://docs.google.com/document/d/1DEYEi1WHy5rqag89Q0pOGR2ezQp88Fqts7wnFA637Eo/view)|
 |2024-03-19|DDOT SoC response|solo issuer|[Re: DDOT solicitation of comment on 1800-1900 block of Evarts St NE](https://drive.google.com/file/d/1Lio_MFX7rlbxaXpg8wdhhMcpj8SFj1yE/view)|
 |2024-03-15|written Council testimony|solo issuer|[Testimony before COW Oversight Hearing on DCPS performance](https://drive.google.com/file/d/15DUsq-ckpSq7hgq5ytU4P47o9LZ3sz6B/view)|
 |2024-02-29|business support letter|solo issuer|[Re: Letter of Support, Chillville Wellness’ Social Equity Retail Application](https://drive.google.com/file/d/1jfNMzgIuBoTQEEEKfEcKd5TQh-AlxWtW/view)|
@@ -55,6 +59,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2023-05-25|PSC case response|solo issuer|[Letter in Opposition of PSC Application #411090; 4950 South Dakota Ave NE](https://drive.google.com/file/d/1FlT6i8u70xvo8sqEw660LKoXw59iAgqz/view)|
 |2023-05-17 (passed 7-0)|ABCA Settlement Agreement|primary drafter|[Aurora Market II Settlement Agreement](https://drive.google.com/file/d/17hk-NovZfkrAueueF3aNfIYylX8LYZuG/view)|
 |2023-04-21|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 88956](https://drive.google.com/file/d/1umm3m7aBf1FXc5xVYb_AQl1eAWlMirma/view)
+|2023-04-14|BZA case response by ANC|sponsor, primary drafter|[BZA 20872, 2026 Jackson St NE, forms 140 and 129](https://drive.google.com/file/d/1RCzml4wJ7R3Ngxq6fCVDgIkmiOUnEB3q/view?usp=sharing)|
 |2023-04-03|BZA case response|solo issuer|[Letter in Support of BZA 20861, 3315 12th St. NE](https://drive.google.com/file/d/1TJAnO69lygCX20a4MFFXzCa2dLfh0JAT/view)|
 |2023-03-29|written Council testimony|solo issuer|[Testimony before Judiciary Committee Budget Oversight Hearing on the DC FEMS](https://drive.google.com/file/d/1ER-smvgD4EEzmYvrAQikOX5WK1s-yPjc/view)|
 |2023-02-27|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on the DDOT](https://drive.google.com/file/d/1kHrd9SYQ1mdMVIX4xkPC961jY-D7J_d2/view)|
