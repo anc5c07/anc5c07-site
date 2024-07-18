@@ -12,7 +12,7 @@ layout: single
 
 |date|purpose|
 |---|---|
-|[6/1/2024](/assets/documents/flyer-20240706.pdf)|issue updates and upcoming meetings|
+|[7/8/2024](/assets/documents/flyer-20240706.pdf)|issue updates and upcoming meetings|
 |[6/15/2024](/assets/documents/flyer-17thfranklin-20240615.pdf)|17th/Franklin Diverter NOI|
 |[6/1/2024](/assets/documents/flyer-20240601.pdf)|issue updates and upcoming meetings|
 |[4/6/2024](/assets/documents/flyer-20240406.pdf)|issue updates and upcoming meetings|
