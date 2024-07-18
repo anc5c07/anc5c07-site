@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Chillville poster](/assets/images/chillville.png)"
 categories: meeting-summary
-last_modified_at: 2024-07-18T00:27:13
+last_modified_at: 2024-07-18T00:37:35
 notes: footnotes
 ---
 This is a future meeting.
@@ -54,17 +54,22 @@ The meeting will be available virtually on [Microsoft Teams](https://www.microso
 - **Phone Conference ID:** 955 959 030#
 
 ## Agenda
-[![info posted around the intersection](/assets/images/2001ria/rendering-far.png)](/assets/images/2001ria/rendering-far.png)
-<p class="caption">2001 RIA rendering</p>
 
 Feel free to reach out if you have suggestions for this agenda! Given the informal nature of of SMD meetings, this agenda is flexible and may change anytime.
 
 - Community updates:
   - Friends of South Dakota Ave NE
   - Langdon Park Neighbors
-  - Friends of Queens Chapel Forest Patch
-- Presentation from Restoration Community Alliance
-- Applicant presentation on [2001 Rhode Island Ave NE](/issues/2001ria)
+  - Langdon Elementary PTO
+  - likely more to come
+- Medical Cannabis licensing matters:
+  - Chillville Wellness (2113 RIA) medical cannabis licensing and [draft Settlement Agreement](https://docs.google.com/document/d/1rCKwyOk2wlVm1lgAfuKXPoybKuWPhfl-L-R_nFJZijo/edit?usp=sharing)
+  - Aurora Cannabis (2006 RIA) medical cannabis internet retailer licensing
+  - Greengrow LLC (2417 Evarts) medical cannabis cultivation/manufacturing licensing and draft Settlement Agreement
+- school facilities
+  - Langdon Elementary facilties visit
+  - John Burroughs elementary modernization/modular campus update
+  - Sojourner Truth High School buildout
 - public comments/questions
 
 ## Notification History
