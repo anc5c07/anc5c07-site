@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Chillville poster](/assets/images/chillville.png)"
 categories: meeting-summary
-last_modified_at: 2024-07-18T01:48:55
+last_modified_at: 2024-07-19T03:24:28
 notes: footnotes
 ---
 This is a future meeting.
@@ -24,7 +24,7 @@ This is a future meeting.
 If these terms are confusing and/or you don't know if you live in 5B06 or 5C07, [visit the FAQ](/ancs/) or [the OpenANC map](https://openanc.org).
 {: .notice--info}
 
-**This is a joint meeting of SMDs 5B06 and 5C07** to be held on **3/27/2023** starting at 7pm. **The meeting will be all virtual** over Microsoft Teams.
+**This is a joint meeting of SMDs 5B06 and 5C07** to be held on **7/24/2023** starting at 7pm. **The meeting will be all virtual** over Microsoft Teams.
 
 Single-Member District meetings are:
 - optional outreach efforts by Commissioners
