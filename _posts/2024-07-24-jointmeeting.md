@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Chillville poster](/assets/images/chillville.png)"
 categories: meeting-summary
-last_modified_at: 2024-08-31T12:13:46
+last_modified_at: 2024-08-31T23:05:28
 notes: footnotes
 ---
 This meeting has occurred; you can [view the video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EQDgqCTN4dxGieSvIKzsxPoB0fhoB_nKkD7JkuRWfTZTZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DVQ13Q.
@@ -81,7 +81,7 @@ I can't guarantee perfect conveyence of information to every stakeholder on ever
 |---|---|
 |routine scheduling|Though there has not been a joint SMD meeting since March, this date does align with the standing fourth Wednesday schedule for these semi-regular meetings dating back to February 2023|
 |website|This meeting information page was first posted to this website on 7/17/2024 around 8pm ET; it's also linked from the embedded (and subscribable) [5C07 calendar](/calendar/) and from [the 5C website](https://anc-5c.com/calendar/).|
-|social media|(pending)|
+|social media|Posted on [on Twitter/X](https://x.com/vj5c07/status/1815743144270405998), the [Brookland DC Facebook group](https://www.facebook.com/share/p/YBfV2M7Mnv7Nfdcj/), and on the [Woodridge DC Neighbors Facebook group](https://www.facebook.com/share/p/2HXxW1ro1UskXfWH/).|
 |[direct email](https://us9.campaign-archive.com/home/?u=208f79fec14599c11c77bc927&id=150da6f8d6)|This meeting info was included in [in my July newsletter](https://us9.campaign-archive.com/?u=208f79fec14599c11c77bc927&id=a0b0904eb3).|
 |[paper flyer](/flyers/)|This meeting is listed covered [in my July flyer](/assets/documents/flyer-20240706.pdf).|
 
