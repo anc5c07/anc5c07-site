@@ -8,12 +8,11 @@ header:
   overlay_filter: rgba(127, 127, 127, 0.5)
   caption: "[Chillville poster](/assets/images/chillville.png)"
 categories: meeting-summary
-last_modified_at: 2024-07-19T10:33:41
+last_modified_at: 2024-08-31T12:13:46
 notes: footnotes
 ---
-This is a future meeting.
-{: .notice--warning}
-
+This meeting has occurred; you can [view the video here](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EQDgqCTN4dxGieSvIKzsxPoB0fhoB_nKkD7JkuRWfTZTZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DVQ13Q.
+{: .notice--success}
 ## tl;dr
 - **joint** ([5B06](https://anc5b06.com) and 5C07) **SMD meeting**.
 - The meeting will involve a discussion of several cannabis cases on both sides of the 5B06/5C07 boundary
