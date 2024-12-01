@@ -1,0 +1,7 @@
+name: anc5c07-site
+
+channels:
+  - conda-forge
+
+dependencies:
+  - ruby
