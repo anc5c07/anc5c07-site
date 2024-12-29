@@ -22,11 +22,18 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2024-04-17 (passed 5-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Mitigating Development Concerns Surrounding Rhode Island Ave NE and 20th St NE](https://www.anc-5c.com/wp-content/uploads/2024/05/ANC-5C-Resolution-on-Mitigating-Development-Concerns-Surrounding-Rhode-Island-Ave-NE-and-20th-St-NE.pdf)|
 |2024-04-17|BZA case response by ANC|sponsor, primary drafter|[BZA 21067, 2001 Rhode Island Ave NE, form 129](https://drive.google.com/file/d/1Zohwj66O_cs538jrP4oN9e0N8dGyiofE/view)|
 |2024-04-02|written Council testimony|solo issuer|[Testimony before T&E Committee on Environmental Justice, other bills](https://docs.google.com/document/d/1DEYEi1WHy5rqag89Q0pOGR2ezQp88Fqts7wnFA637Eo/view)|
+|2024-03-28|DMPED grant support|solo issuer|[Letter in Support of Restoration Community Alliance’s Neighborhood Prosperity Fund grant application](https://drive.google.com/file/d/1giHoL0OYhtVX6aZ3yEuMdfPvaOZspGQW/view)|
 |2024-03-19|DDOT SoC response|solo issuer|[Re: DDOT solicitation of comment on 1800-1900 block of Evarts St NE](https://drive.google.com/file/d/1Lio_MFX7rlbxaXpg8wdhhMcpj8SFj1yE/view)|
+|2024-03-15|DMPED grant support|solo issuer|[Letter in Support of Zeke’s Coffee’s DMPED grant applications](https://drive.google.com/file/d/1z-qVh4lwFoArGDz9D1e75gwRcann5TFj/view)|
 |2024-03-15|written Council testimony|solo issuer|[Testimony before COW Oversight Hearing on DCPS performance](https://drive.google.com/file/d/15DUsq-ckpSq7hgq5ytU4P47o9LZ3sz6B/view)|
+|2024-03-14|DMPED grant support|solo issuer|[Letter in Support of Provost, LLC’s Great Streets grant application](https://drive.google.com/file/d/1f78cSHGjNU_xUXXGak1D1CvcFkI_Yb0l/view)|
+|2024-03-14|DMPED grant support|solo issuer|[Letter in Support of 7 Days Market’s Great Streets grant application](https://drive.google.com/file/d/19XT2gfkyAf7WFuCuqBBwLEW94UPgI65h/view)|
+|2024-03-14|DMPED grant support|solo issuer|[Letter in Support of Aurora Enterprises, LLC’s DMPED grant applications](https://drive.google.com/file/d/1D35CZeVSt6R_nghykln5sRTITl9n6Olj/view)|
+|2024-03-11|DMPED grant support|solo issuer|[Letter in Support of Felicia & Family Food, Inc.’s Great Streets grant application](https://drive.google.com/file/d/1nGK3qR37CPALKRRMuifxMI9LLw4vFGSU/view)|
+|2024-03-11|DMPED grant support|solo issuer|[Letter in Support of Addisleigh Park Washington Properties LLC’s application for the Neighborhood Prosperity Fund grant](https://drive.google.com/file/d/1zGVQI5VlQcheACm1ABvR_wK4SlXZ_Frc/view)|
 |2024-02-29|business support letter|solo issuer|[Re: Letter of Support, Chillville Wellness’ Social Equity Retail Application](https://drive.google.com/file/d/1jfNMzgIuBoTQEEEKfEcKd5TQh-AlxWtW/view)|
 |2024-02-20|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-24-08-TESD; Fenwick St NE crosswalks](https://drive.google.com/file/d/1N5SXIOLUWyoxtiMRLlSVXfNBNE0cdNGt/view)
-|2024-02-09|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on DDOT performance](https://drive.google.com/file/d/1yXaUX0CDELyL5aOlnFJsqYiV6CdENGBB/view)|
+|2024-02-09|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on DDOT performance](https://drive.google.com/file/d/1yd4Cf1S1ScvHooPgcRD2nDq0jz1SSQin/view)|
 |2024-01-31|resolution emphasis letter|solo issuer|[Re: Anacostia Riverwalk Trail Extension and National Arboretum Access Bridge](https://drive.google.com/file/d/1yXaUX0CDELyL5aOlnFJsqYiV6CdENGBB/view)|
 |2024-01-23|resolution emphasis letter|solo issuer|[ANC 5C letter re Bladensburg Road Multimodal Safety and Access Study](https://drive.google.com/file/d/1dLhLt11mcMGqRgwh25ir8ZHma3K-Ou_M/view)|
 |2024-01-17 (passed 6-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Comprehensive Public Safety](https://www.anc-5c.com/wp-content/uploads/2024/01/ANC-5C-Resolution-on-Comprehensive-Public-Safety.pdf)|
