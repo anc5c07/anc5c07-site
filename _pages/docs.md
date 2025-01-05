@@ -23,10 +23,14 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2024-10-16|PSC case response|primary drafter|[Re: Public Space Application 11098285; sidewalk cafe for Provost, 2129 Rhode Island Ave NE](https://drive.google.com/file/d/1-_K7LKmnMPu3713tOloxdz5-UPZolcjZ/view)|
 |2024-09-04|DDOT NOI response|solo issuer|[(Re: DDOT Notice of Intent NOI-24-206-TESD, Intersection safety improvements at the intersection of 15th Street NE and Rhode Island Avenue NE)](https://drive.google.com/file/d/1mCMcFCsbRxNEYAveaU-MNi1WErI8vF_s/view)|
 |2024-08-28|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-24-183-TESD, Reduction of speed limit on Rhode Island Avenue NE, between 3rd Street NE and Eastern Avenue](https://drive.google.com/file/d/1gQ32MqTm_pZYb2zgtEfEQn6iEX5scHQp/view)|
+|2024-08-20|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 115180](https://drive.google.com/file/d/1tHw68mn08Ix5nuvk_k-J141uQJ_BjY8c/view)|
 |2024-08-15|DDOT project response|primary drafter, signer|[Re: South Dakota Ave Safety Project, road diet options](https://drive.google.com/file/d/1tbMT96j4ihnXvOWh3nE-t8Sz0JhTRE-Y/view)|
 |2024-08-12|outreach letter|signer|[Joint SMD Commissioner letter to Michigan Park Christian Church](https://drive.google.com/file/d/1f5NpsLsr-Lv3-K5AuRtogICLSZRD0x9n/view)|
+|2024-08-06|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 112203](https://drive.google.com/file/d/1_DE-Q8qZAKO9MO7yUtUTy4EGpXNjSJLj/view)|
+|2024-07-15|WMATA project response|solo issuer|[Re: WMATA's 2025 Bus Network](https://drive.google.com/file/d/1zmNfLQJ14DXLvFlFVj6nOODJ2N2HLAoq/view)|
 |2024-06-18|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-24-115-TESD, Conversion of 17th Street NE at Franklin Street NE to right-in-right-out operations by installation of a center diverter](https://drive.google.com/file/d/1bBlhVYecqbi-5LdVyhxb19vqXSLEC4Lm/view)
 |2024-05-23|resolution emphasis letter/DDOT NOI Response|solo issuer|[Letter in Support of NOI-24-85-TESD, Installation of a HAWK signal on Rhode Island Ave NE at Thayer St NE](https://drive.google.com/file/d/1Wku3NK59umJ27UvqR99sOnnVwIT_Ic5z/view)|
+|2024-05-03|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 107389](https://drive.google.com/file/d/1FTWZQp_66uww8ap9dqA-O5s4CV1vNJVJ/view)|
 |2024-04-17 (passed 5-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Mitigating Development Concerns Surrounding Rhode Island Ave NE and 20th St NE](https://www.anc-5c.com/wp-content/uploads/2024/05/ANC-5C-Resolution-on-Mitigating-Development-Concerns-Surrounding-Rhode-Island-Ave-NE-and-20th-St-NE.pdf)|
 |2024-04-17|BZA case response by ANC|sponsor, primary drafter|[BZA 21067, 2001 Rhode Island Ave NE, form 129](https://drive.google.com/file/d/1Zohwj66O_cs538jrP4oN9e0N8dGyiofE/view)|
 |2024-04-02|written Council testimony|solo issuer|[Testimony before T&E Committee on Environmental Justice, other bills](https://docs.google.com/document/d/1DEYEi1WHy5rqag89Q0pOGR2ezQp88Fqts7wnFA637Eo/view)|
@@ -53,12 +57,12 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2023-11-13|issue update|primary drafter|[Re: central Ward 5 swing space next steps](https://drive.google.com/file/d/1LnA-Vp2xvgb6zoybFvewuX6GbBMMzH7d/view)|
 |2023-11-07|BZA case response|solo issuer|[Re: BZA Application 20973: 1375 Bryant St NE](https://drive.google.com/file/d/14N06yrWmI0h6Wpk7dZdhNNeVAJzozaTk/view)|
 |2023-10-29|ceremonial|solo issuer|[Second New Saint Paul Baptist Church Centennial Celebration](https://drive.google.com/file/d/1xSZU0ofQtHVOvTMWkl4V3jdnUgHFvNeK/view)|
-|2023-10-26|written Council testimony|primary drafter|[Testimony before Committee on Facilities and Family Services Oct 12 Hearing](https://drive.google.com/file/d/1MXn87_sBDtfkYieRzXbV17lW0AC9G-yT/view?usp=drive_link)|
+|2023-10-26|written Council testimony|primary drafter|[Testimony before Committee on Facilities and Family Services Oct 12 Hearing](https://drive.google.com/file/d/1MXn87_sBDtfkYieRzXbV17lW0AC9G-yT/view)|
 |2023-10-24|DDOT SoC response|solo issuer|[Re: DDOT solicitation of comment on 2000 block of Hamlin St NE](https://drive.google.com/file/d/1lYOTH1Oxcw30L6doeBlVjBSjTu38OQ3O/view)
 |2023-10-18 (passed 5-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Langdon Elementary Facilities Improvement](https://www.anc-5c.com/wp-content/uploads/2023/11/ANC-5C-Resolution-on-Langdon-Elementary-Facilities-Improvement.pdf)|
 |2023-10-18 (passed 5-0)|ABCA Settlement Agreement|primary drafter|[DC Xtracts Settlement Agreement](https://docs.google.com/document/d/1cGK7eb-4K2P_gnu-U04loS0MLKYHe3j2uD1e6No8bQo/view)|
 |2023-10-04|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-23-194-TOA; RDPP on 2400 block of Girard Pl NE](https://drive.google.com/file/d/1JWsK472be0puO54Zg0mhcbYeM6vbraw9/view)
-|2023-10-03|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 98775](https://drive.google.com/file/d/1LrCcTRaEXqXpzyxAkXCGZVGGdY72e_1k/view?usp=sharing)|
+|2023-10-03|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 98775](https://drive.google.com/file/d/1LrCcTRaEXqXpzyxAkXCGZVGGdY72e_1k/view)|
 |2023-10-03|BZA case response|solo issuer|[Letter in Support of BZA Application 20734A: 1009 Bryant St NE](https://drive.google.com/file/d/1IMi1fqQMhzNLZcpHYlq8hCzAygswIrrU/view)|
 |2023-09-22|WMATA project response|solo issuer|[Re: Proposed Changes at Brookland-CUA station](https://drive.google.com/file/d/1OJdJ5ZON7NTE595Bdc_YAzU5mIntw6ef/view)|
 |2023-09-20 (passed 7-0)|ANC 5C resolution|sponsor, primary drafter, adapted from 5E/F|[Resolution Urging Office of Unified Communications to Undertake Reforms](https://drive.google.com/file/d/1YCmA7eAMfl4obqlu6E4y1NDVHztt3U2w/view)
@@ -74,7 +78,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2023-05-25|PSC case response|solo issuer|[Letter in Opposition of PSC Application #411090; 4950 South Dakota Ave NE](https://drive.google.com/file/d/1FlT6i8u70xvo8sqEw660LKoXw59iAgqz/view)|
 |2023-05-17 (passed 7-0)|ABCA Settlement Agreement|primary drafter|[Aurora Market II Settlement Agreement](https://drive.google.com/file/d/17hk-NovZfkrAueueF3aNfIYylX8LYZuG/view)|
 |2023-04-21|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 88956](https://drive.google.com/file/d/1umm3m7aBf1FXc5xVYb_AQl1eAWlMirma/view)
-|2023-04-14|BZA case response by ANC|sponsor, primary drafter|[BZA 20872, 2026 Jackson St NE, forms 140 and 129](https://drive.google.com/file/d/1RCzml4wJ7R3Ngxq6fCVDgIkmiOUnEB3q/view?usp=sharing)|
+|2023-04-14|BZA case response by ANC|sponsor, primary drafter|[BZA 20872, 2026 Jackson St NE, forms 140 and 129](https://drive.google.com/file/d/1RCzml4wJ7R3Ngxq6fCVDgIkmiOUnEB3q/view)|
 |2023-04-03|BZA case response|solo issuer|[Letter in Support of BZA 20861, 3315 12th St. NE](https://drive.google.com/file/d/1TJAnO69lygCX20a4MFFXzCa2dLfh0JAT/view)|
 |2023-03-29|written Council testimony|solo issuer|[Testimony before Judiciary Committee Budget Oversight Hearing on the DC FEMS](https://drive.google.com/file/d/1ER-smvgD4EEzmYvrAQikOX5WK1s-yPjc/view)|
 |2023-02-27|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on the DDOT](https://drive.google.com/file/d/1kHrd9SYQ1mdMVIX4xkPC961jY-D7J_d2/view)|
