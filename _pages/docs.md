@@ -16,7 +16,8 @@ This is a collection of written works I've issued or contributed to. I often tak
 |date|type|role|title|
 |---|---|---|---|
 |in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
-|in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)
+|in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
+|2025-01-12|DHCD financing review|sole issuer|[Public Comments on Proposed Development/Financing at 2911 Rhode Island Ave NE](https://drive.google.com/file/d/1UviMR4Ugisp2DRUFpLpobGL_C0f7ViPc/view)|
 |2024-12-20|PSC case response|primary drafter|[Letter in Support of Public Space Application 11098285; sidewalk cafe for Provost, 2129 Rhode Island Ave NE](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EY19VxspFppHt4t2EVN6YLoBkqsv8AwhLzmiHZ0ZLMdjOw?e=0pVjh6)|
 |2024-12-20|resolution emphasis letter/DDOT NOI response|primary drafter|[Letter in Support of NOI-24-286-TESD, Safety Improvement on Brentwood Road between W St and Saratoga Ave NE](https://drive.google.com/file/d/1AROhTTaXNwOzqTphLozAkoL7gwoMushU/view)|
 |2024-10-16|ANC 5C resolution (passed 5-1)|sponsor, preparer|[Resolution Supporting a Bottle Deposit Bill](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EfVXaTQc955Iieqklpa809IBMdyiC9sEJGspiaXGfTJeVg?e=cmohQs)|
