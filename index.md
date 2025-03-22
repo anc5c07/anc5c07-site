@@ -22,7 +22,7 @@ feature_row:
     url: "/development/"
     btn_label: "Development"
     btn_class: "btn--primary"
-  - image_path: /assets/images/woodridge-library.jpg
+  - image_path: /assets/images/woodridge-library/kid-with-book.jpg
     alt: "Woodridge Library"
     title: "Information"
     excerpt: "summaries, cases, and background"

@@ -28,8 +28,8 @@ accordion:
       |val1|val2|val3|
       |vala|valb|valc|
 header:
-  overlay_image: /assets/images/woodridge-library.jpg
-  caption: "[Books at Woodridge Library](/assets/images/woodridge-library.jpg)"
+  overlay_image: /assets/woodridge-library/kid-with-book.jpg
+  caption: "[Books at Woodridge Library](/assets/images/woodridge-library/kid-with-book.jpg)"
 layout: single
 ---
 
