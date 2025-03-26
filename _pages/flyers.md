@@ -12,6 +12,8 @@ layout: single
 
 |date|purpose|
 |---|---|
+|[03/26/2025](/assets/documents/flyer-spring2025murals-20250326-fullpage.pdf)|Rec Center/Library street murals (full page)|
+|[03/26/2025](/assets/documents/flyer-spring2025murals-20250326.pdf)|Rec Center/Library street murals (quarter-page)|
 |[3/1/2025](/assets/documents/flyer-20250301.pdf)|issue updates and upcoming meetings|
 |[10/26/2024](/assets/documents/flyer-20241026.pdf)|issue updates and upcoming meetings|
 |[7/8/2024](/assets/documents/flyer-20240706.pdf)|issue updates and upcoming meetings|
