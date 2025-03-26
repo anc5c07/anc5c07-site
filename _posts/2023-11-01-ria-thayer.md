@@ -14,6 +14,9 @@ last_modified_at: 2024-05-20T04:41:23
 This traffic safety mitigation is on the boundary between 5C07 and 5B06.
 {: .notice--warning}
 
+**The RIA/Thayer HAWK signal install was completed in December 2024**; there may be future advocacy to upgrade it to a full traffic signal, but for now folks should make liberal use of the HAWK and focus on advocating for similar installs along RIA at 17th and 15th, both of which are under evaluation. This page remains for reference, but there may be residual future tensing for past events as it's no longer being regularly updated.
+{: .notice--danger}
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lQnXq0TOr10N43jWUSjCBBxOF61Qlj4&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ## tl;dr
