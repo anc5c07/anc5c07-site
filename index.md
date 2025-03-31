@@ -54,11 +54,11 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/2001ria/longview-short.jpg
-    alt: "2001 Rhode Island Ave NE"
-    title: "2001 Rhode Island Ave NE"
-    excerpt: 'A chance for new retail space'
-    url: "/issues/2001ria"
+  - image_path: /assets/images/murals/rec-v1.png
+    alt: "Spring 2025 street murals"
+    title: "Spring 2025 street murals"
+    excerpt: 'A chance for art, safety, and placemaking'
+    url: "/issues/spring2025-murals/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
@@ -139,11 +139,11 @@ feature_row4:
   </div>
 </div>
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row0" type="right" %}
 
