@@ -16,13 +16,13 @@ This community concern runs through 5C07, but also along the boundary of 5C06 an
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=16eQ4pEvQNLWAV7ExmHi2A2CypZ78y_M&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ## tl;dr
-- **The 18th St NE bicycle/mobility lanes** are a set of painted lanes on 18th St NE running in some form for the half mile from Montana Ave NE to Rhode Island Ave NE
-- **The lanes are inconsistent**; running on only one or the other side of the roadway (with sharrows on the other side), and jumping laterally across intersections without guidelines or good visibility
-- **This is confusing and unsafe for bikers and drivers alike**; the double-yellow median frequently jumps around with the bike lanes
-- **DDOT has also indicated that "sharrows"**, which are employed on one side of the road or the other from Bryant St NE to Rhode Island Ave NE, are no longer part of their design guides and are internally reviewed for potential upgrade
+- **The 18th St NE bicycle/mobility lanes** are a set of painted "climbing" lanes on 18th St NE running in some form for the half mile from Montana Ave NE to Rhode Island Ave NE
+- **The climbing lane design** involves lanes only on one or the other side of the roadway (with sharrows on the other side), to give dedicated space for bikes only in the uphill direction (to keep bikers out of the way of drivers)
+- **This design is confusing and unsafe for bikers and drivers alike**; the double-yellow median frequently jumps around with the bike lanes
+- **It is unclear if DDOT still considers climbing lanes acceptable design**, although upgrading the 18th St bike lanes isn't immediately in DDOT's work plan
 - **A number of [nearby infrastructure improvements](#nearby-projects), [geographic constraints](#connectivity), and [family-centric amenities](#amenities)** make it especially important that we upgrade the infrastructure we have as we seek to extend it from Montana to Michigan
-- **I've been [attempting to draw attention](#advocacy)** on this need to get DDOT to move on it sooner rather than later.
-- **ANC 5C has also endorsed upgrading these bike lanes** unanimously as part of our January 2024 *[Resolution on Comprehensive Public Safety](https://www.anc-5c.com/wp-content/uploads/2024/01/ANC-5C-Resolution-on-Comprehensive-Public-Safety.pdf)*
+- **Our best chance to queue up an upgrade (and expansion) is in DDOT's upcoming Strategic Bikeways Plan (SBP)** which began engagement in 2024 and should be completed by early 2026.
+- **ANC 5C has endorsed upgrading these bike lanes** unanimously as part of our January 2024 *[Resolution on Comprehensive Public Safety](https://www.anc-5c.com/wp-content/uploads/2024/01/ANC-5C-Resolution-on-Comprehensive-Public-Safety.pdf)*
 
 ## The Need
 As DC's low-stress bicycle/mobility priority network grows, we need to keep in mind the necessity for safe and accessible infrastructure along 18th St. There are many reasons, further detailed below:
