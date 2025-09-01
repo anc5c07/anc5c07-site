@@ -15,8 +15,6 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
-|in draft; collecting sign-on|DDOT request initiation|primary drafter|[Re: Rhode Island Avenue NE 24-hour parking investigation](https://docs.google.com/document/d/11MOvWjKlQpjooUMDl4_8EZYmOzijLrtyPU-fwTX-myM/view)|
-|in draft|ANC 5C resolution|primary drafter|[Resolution to Alert, Abate, and Revoke Operations of NOVO Properties at The Franklin](https://docs.google.com/document/d/1izIkdJSWyHPYAlrkvtSqmYk-HeMKByhCtK7kHKk7dI0/view)|
 |2025-02-19|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on DDOT performance](https://drive.google.com/file/d/1KBzFQSVn9Rv4vEOUOgMY8ISUb_TORPVb/view)|
 |2025-01-23|ABCA protest letter|primary drafter|[Supplemental Letter, Protest of Catering Operations at 1915 Rhode Island Ave NE](https://drive.google.com/file/d/1x8834NzcsvGBTMUxYXWBS6ukq7JLx5rb/view)|
 |2025-01-14|ABCA protest letter|primary drafter|[Protest of Catering Operations at 1915 Rhode Island Ave NE, Community Space DC](https://drive.google.com/file/d/1uOu5auhDGY9gVZM1xHAfY5Vgtlt0eWFy/view)|
