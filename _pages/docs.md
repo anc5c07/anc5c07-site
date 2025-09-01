@@ -15,6 +15,8 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
+|2025-08-19|ANC 5C support letter|primary drafter|[Letter of Support for Proposed Closed Roadway Mural at Langdon Park Community
+Center](https://drive.google.com/file/d/1H741o1cP5kWstFxvozYzj48LocJMpbGQ/view)|
 |2025-02-19|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on DDOT performance](https://drive.google.com/file/d/1KBzFQSVn9Rv4vEOUOgMY8ISUb_TORPVb/view)|
 |2025-01-23|ABCA protest letter|primary drafter|[Supplemental Letter, Protest of Catering Operations at 1915 Rhode Island Ave NE](https://drive.google.com/file/d/1x8834NzcsvGBTMUxYXWBS6ukq7JLx5rb/view)|
 |2025-01-14|ABCA protest letter|primary drafter|[Protest of Catering Operations at 1915 Rhode Island Ave NE, Community Space DC](https://drive.google.com/file/d/1uOu5auhDGY9gVZM1xHAfY5Vgtlt0eWFy/view)|
