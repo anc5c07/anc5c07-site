@@ -86,10 +86,17 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2023-03-29|written Council testimony|solo issuer|[Testimony before Judiciary Committee Budget Oversight Hearing on the DC FEMS](https://drive.google.com/file/d/1ER-smvgD4EEzmYvrAQikOX5WK1s-yPjc/view)|
 |2023-02-27|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on the DDOT](https://drive.google.com/file/d/1kHrd9SYQ1mdMVIX4xkPC961jY-D7J_d2/view)|
 
+# Common issuance types
+
+## ANC 5C resolutions
+There are formal documents voted on by the full Commission to capture the background and formal sentiment on an issue. As going through this process in 5C is somewhat cumbersome, I usually draft 5C resolutions with the intent to capture a lot of issues at once, so that follow-up on many things can be conducted on behalf of 5C by the authorized Commissioners through emphasis letters and follow-on advocacy.
+
 ## Letters on Behalf of ANC 5C
 If ANC 5C has passed a resolution on a matter and authorized me to represent the Commission (either specifically, among a list of Commissioners, or authorizing all Commissioners), I might issue letters on behalf of the Commission on a matter.
 
 ## Amplified Sound letters
+As of 2025, I've started issuing approvals on these summarily via email rather than formal letters.
+{: .notice--warning}
 When a person or organization applies for a permit to host an event in a DPR-managed park (such as Langdon Park), and they request an endorsement for amplified sound (such as playing music through speakers), they are instructed to seek approval from the Commissioner of the Single-Member District containing the park. While DPR may still choose to issue the endorsement absent consent from the Commissioner, the process is much easier once this approval has been issued.
 
 I take this opportunity to echo DPR's own permit regulations, as well as highlight shortcomings of them for the benefit of DPR, the community, and the permit applicant. This has recently focused on DPR's unclear position on drivers bringing cars into the park, which they [finally clarified on 8/31/2023](https://x.com/anc5c07/status/1697349955453866328?s=20) with new bollards and signage.
@@ -101,10 +108,12 @@ DDOT issues an "NOI" (Notice of Intent) for any projects, to make the available 
 This is feedback to the Zoning Commission or Board of Zoning Adjustment for applications on zoning relief. I frequently take this opportunity to mention I would have supported other relief too, had the applicant been seeking it.
 
 ## Public Space case responses
-This is feedback to the Public Space Committee for applications for public space permitting.
+This is feedback to the Public Space Committee for applications for public space permitting. This includes public space construction matters, or setting up permanent public space fixtures like a sidewalk patio or driveway/parking lot curb cut.
 
-## Settlement Agreements
-These are contractual agreements between parties (frequently Advisory Neighborhood Commissions) and alcohol/cannabis license holders. While the provisions of these are mostly borrowed from existing documents, I do occassionally draft (and vet through ABCA) new provisions as part of creating Settlement Agreements, as I did for Aurora Market's multimodal transportation encouragement provision.
+## ABCA Protest Letters and Settlement Agreements
+Settlement Agreeents are contractual agreements between parties (frequently Advisory Neighborhood Commissions) and alcohol/cannabis license holders. While the provisions of these are mostly borrowed from existing documents, I do occassionally draft (and vet through ABCA) new provisions as part of creating Settlement Agreements, as I did for Aurora Market's multimodal transportation encouragement provision.
+
+The formal process for pausing license issuance and engaging in ABCA-mediated settlement negotiation is called a "protest"; the outcome of this is rarely denial/withdrawal of an application (though it might happen, like with Xscape Lounge at 1812 Hamlin in mid-2023). I try to negotiate amicable SAs before having to go through the cumbersome protest process when possible, but will protest if/when necessary.
 
 ## Sign-on Letters
 A relatively new tool in the ANC toolkit is sign-on letters. Like solo/SMD letters, these do not formally have the weight of Commission resolutions, but can be executed more quickly (outside of the routine meeting cycle) and can demonstrate broad support across DC without struggling to synchronize text across multiple Commissions, varying concerns, and different meeting cycles along with shifting conditions. I frequently sign on to others' letters, or solicit narrow or broad support from others on things I've written. This process frequently involves collaboration to tweak language accordingly to secure broader support, further enhancing the end product.
