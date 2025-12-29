@@ -15,7 +15,15 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
+|2025-12-22|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Letter in Opposition from Councilmember Robert White](https://drive.google.com/file/d/1pKXBT6W0xKXBvXb6JbvYGO38UjErulEQ/view)|
+|2025-12-14|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Applicant’s Second Post-Hearing Statement](https://drive.google.com/file/d/1DX1CSHBaobEKMZB-EhxN-DruUwq-dPiH/view)|
+|2025-10-20|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Testimony in Opposition](https://drive.google.com/file/d/1pn7vL6Mx_VvIoudEhbKMMQyIXajR_y8E/view)|
+|2025-10-19|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Letter in Opposition](https://drive.google.com/file/d/1kfSMaS7WtlmW67a-5LVunAZhxGZ8_kwn/view)|
+|2025-10-14|ZC case filing|drafter|[ZC 24-11: (Montana Triangle PUD) Supplemental Filing Responding to OP and DDOT Reports](https://drive.google.com/file/d/1qgCXgVQL4hLRuCmSzXqVv-V-FB3IANB4/view)|
+|2025-09-11|ZC case response|primary drafter|[ZC 24-11 (Montana Triangle PUD): ANC 5C Report in Opposition](https://drive.google.com/file/d/1sgwiGDHBo-C95YXNqFKzFyJw05M-J2GJ/view)|
+|2025-09-11|ANC 5C resolution|sponsor, primary drafter|[Resolution Calling for a Mixed Industrial Zone](https://drive.google.com/file/d/1xofAzRFdMkU3lf8vClAC76fkTZkdWca0/view)|
 |2025-08-19|ANC 5C support letter|primary drafter|[Letter of Support for Proposed Closed Roadway Mural at Langdon Park Community Center](https://drive.google.com/file/d/1H741o1cP5kWstFxvozYzj48LocJMpbGQ/view)|
+|2025-04-04|ANC 5C issuance|drafter/signer|[ZC 24-11 (Montana Triangle PUD): Superseding/Rescinding of ANC 5C Report](https://drive.google.com/file/d/1XGxHgVPghE2R_5X7x3MJwPl2AKcqnGX_/view)|
 |2025-02-19|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on DDOT performance](https://drive.google.com/file/d/1KBzFQSVn9Rv4vEOUOgMY8ISUb_TORPVb/view)|
 |2025-01-23|ABCA protest letter|primary drafter|[Supplemental Letter, Protest of Catering Operations at 1915 Rhode Island Ave NE](https://drive.google.com/file/d/1x8834NzcsvGBTMUxYXWBS6ukq7JLx5rb/view)|
 |2025-01-14|ABCA protest letter|primary drafter|[Protest of Catering Operations at 1915 Rhode Island Ave NE, Community Space DC](https://drive.google.com/file/d/1uOu5auhDGY9gVZM1xHAfY5Vgtlt0eWFy/view)|
