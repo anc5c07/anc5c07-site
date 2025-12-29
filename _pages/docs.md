@@ -23,6 +23,8 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2025-09-11|ZC case response|primary drafter|[ZC 24-11 (Montana Triangle PUD): ANC 5C Report in Opposition](https://drive.google.com/file/d/1sgwiGDHBo-C95YXNqFKzFyJw05M-J2GJ/view)|
 |2025-09-11|ANC 5C resolution|sponsor, primary drafter|[Resolution Calling for a Mixed Industrial Zone](https://drive.google.com/file/d/1xofAzRFdMkU3lf8vClAC76fkTZkdWca0/view)|
 |2025-08-19|ANC 5C support letter|primary drafter|[Letter of Support for Proposed Closed Roadway Mural at Langdon Park Community Center](https://drive.google.com/file/d/1H741o1cP5kWstFxvozYzj48LocJMpbGQ/view)|
+|2025-08-01|ANC 5C emphasis letter|primary drafter, signer|[Re: Rhode Island Ave NE 24-hour parking and/or bus lanes](https://drive.google.com/file/d/16m1lgfSRC0SWXopbApPya5GozOHu7mM1/view)|
+|2025-06-14|DDOT request|primary drafter, signer|[DC Squared letter re: Rhode Island Avenue NE 24-hour parking investigation](https://drive.google.com/file/d/1OW8NFa0LWFItxgY0kLNtwxbzYKMjSu_d/view)|
 |2025-04-04|ANC 5C issuance|drafter/signer|[ZC 24-11 (Montana Triangle PUD): Superseding/Rescinding of ANC 5C Report](https://drive.google.com/file/d/1XGxHgVPghE2R_5X7x3MJwPl2AKcqnGX_/view)|
 |2025-02-19|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on DDOT performance](https://drive.google.com/file/d/1KBzFQSVn9Rv4vEOUOgMY8ISUb_TORPVb/view)|
 |2025-01-23|ABCA protest letter|primary drafter|[Supplemental Letter, Protest of Catering Operations at 1915 Rhode Island Ave NE](https://drive.google.com/file/d/1x8834NzcsvGBTMUxYXWBS6ukq7JLx5rb/view)|
@@ -45,6 +47,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2024-04-17 (passed 5-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Mitigating Development Concerns Surrounding Rhode Island Ave NE and 20th St NE](https://www.anc-5c.com/wp-content/uploads/2024/05/ANC-5C-Resolution-on-Mitigating-Development-Concerns-Surrounding-Rhode-Island-Ave-NE-and-20th-St-NE.pdf)|
 |2024-04-17|BZA case response by ANC|sponsor, primary drafter|[BZA 21067, 2001 Rhode Island Ave NE, form 129](https://drive.google.com/file/d/1Zohwj66O_cs538jrP4oN9e0N8dGyiofE/view)|
 |2024-04-02|written Council testimony|solo issuer|[Testimony before T&E Committee on Environmental Justice, other bills](https://docs.google.com/document/d/1DEYEi1WHy5rqag89Q0pOGR2ezQp88Fqts7wnFA637Eo/view)|
+|2024-03-30|DDOT project response|primary drafter, signer|[Re: Taylor Street Corridor Protected Bike Lanes](https://drive.google.com/file/d/1oTTdM2uV5lzmt-32VujMIJ5QNd1wCPGy/view)|
 |2024-03-28|DMPED grant support|solo issuer|[Letter in Support of Restoration Community Alliance’s Neighborhood Prosperity Fund grant application](https://drive.google.com/file/d/1giHoL0OYhtVX6aZ3yEuMdfPvaOZspGQW/view)|
 |2024-03-19|DDOT SoC response|solo issuer|[Re: DDOT solicitation of comment on 1800-1900 block of Evarts St NE](https://drive.google.com/file/d/1Lio_MFX7rlbxaXpg8wdhhMcpj8SFj1yE/view)|
 |2024-03-15|DMPED grant support|solo issuer|[Letter in Support of Zeke’s Coffee’s DMPED grant applications](https://drive.google.com/file/d/1z-qVh4lwFoArGDz9D1e75gwRcann5TFj/view)|
