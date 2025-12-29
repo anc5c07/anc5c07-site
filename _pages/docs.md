@@ -17,6 +17,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |---|---|---|---|
 |2025-12-22|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Letter in Opposition from Councilmember Robert White](https://drive.google.com/file/d/1pKXBT6W0xKXBvXb6JbvYGO38UjErulEQ/view)|
 |2025-12-14|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Applicant’s Second Post-Hearing Statement](https://drive.google.com/file/d/1DX1CSHBaobEKMZB-EhxN-DruUwq-dPiH/view)|
+|2025-10-25|BZA case response|[ANC 5C report in support of BZA 21369](https://drive.google.com/file/d/1MTetMhjNhkfKRxmL4pXX9u_atHnfpGED/view)|
 |2025-10-20|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Testimony in Opposition](https://drive.google.com/file/d/1pn7vL6Mx_VvIoudEhbKMMQyIXajR_y8E/view)|
 |2025-10-19|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Letter in Opposition](https://drive.google.com/file/d/1kfSMaS7WtlmW67a-5LVunAZhxGZ8_kwn/view)|
 |2025-10-14|ZC case filing|drafter|[ZC 24-11: (Montana Triangle PUD) Supplemental Filing Responding to OP and DDOT Reports](https://drive.google.com/file/d/1qgCXgVQL4hLRuCmSzXqVv-V-FB3IANB4/view)|
