@@ -24,10 +24,15 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2025-09-11|ANC 5C resolution|sponsor, primary drafter|[Resolution Calling for a Mixed Industrial Zone](https://drive.google.com/file/d/1xofAzRFdMkU3lf8vClAC76fkTZkdWca0/view)|
 |2025-08-19|ANC 5C support letter|primary drafter|[Letter of Support for Proposed Closed Roadway Mural at Langdon Park Community Center](https://drive.google.com/file/d/1H741o1cP5kWstFxvozYzj48LocJMpbGQ/view)|
 |2025-08-01|ANC 5C emphasis letter|primary drafter, signer|[Re: Rhode Island Ave NE 24-hour parking and/or bus lanes](https://drive.google.com/file/d/16m1lgfSRC0SWXopbApPya5GozOHu7mM1/view)|
+|2025-07-25|DDOT NOI response|solo issuer|[Opposition to Removal of Arizona Avenue NW Bike Lanes (NOI-25-160-CPD)](https://drive.google.com/file/d/1PO_hFiZ-zGvEFHF0MHj2nwQBj5JQdbhK/view)|
+|2025-07-01|BZA case response|drafter/signer|[Letter in Support of BZA 21318](https://drive.google.com/file/d/1wRT0asY_T4tcocySxwvF_iPIpGDPld8_/view)|
+|2025-06-21|BZA case response|solo issuer|[Letter in Support of ZC Application 24-15: 901 Monroe St NE](https://drive.google.com/file/d/1DCHJSbl4kIMAONkYBVfSWVhQTutuv1z8/view)|
 |2025-06-14|DDOT request|primary drafter, signer|[DC Squared letter re: Rhode Island Avenue NE 24-hour parking investigation](https://drive.google.com/file/d/1OW8NFa0LWFItxgY0kLNtwxbzYKMjSu_d/view)|
+|2026-06-02|written Council testimony|solo issuer|[Testimony, Hearing on DDOT FY26 Budget Oversight](https://drive.google.com/file/d/1_4ircqrM6_EWygvdN3XOpiVxrRmVRo9E/view)|
 |2025-05-16|ABCA protest appeal|[Appeal of Dismissal, ABC Board Order 2025-495](https://drive.google.com/file/d/1frg7CN5rF_S77VENb3ov83U7kBVvyeOj/view)|
 |2025-04-04|ANC 5C issuance|drafter/signer|[ZC 24-11 (Montana Triangle PUD): Superseding/Rescinding of ANC 5C Report](https://drive.google.com/file/d/1XGxHgVPghE2R_5X7x3MJwPl2AKcqnGX_/view)|
 |2025-04-04|DDOT request|drafter/signer|[Letter re: FY25 Q3 prioritized TSIs along Mills Ave NE](https://drive.google.com/file/d/1j75Htyy9baEQCDipbQ8qeP5YCue4RioK/view)|
+|2025-04-02|DDOT NOI response|drafter/signer|[https://drive.google.com/file/d/1VBPeiRc2zYab1jaaqm8PWBuZGfoqvm2w/view](https://drive.google.com/file/d/1VBPeiRc2zYab1jaaqm8PWBuZGfoqvm2w/view)|
 |2025-02-19|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on DDOT performance](https://drive.google.com/file/d/1KBzFQSVn9Rv4vEOUOgMY8ISUb_TORPVb/view)|
 |2025-01-23|ABCA protest letter|primary drafter|[Supplemental Letter, Protest of Catering Operations at 1915 Rhode Island Ave NE](https://drive.google.com/file/d/1x8834NzcsvGBTMUxYXWBS6ukq7JLx5rb/view)|
 |2025-01-14|ABCA protest letter|primary drafter|[Protest of Catering Operations at 1915 Rhode Island Ave NE, Community Space DC](https://drive.google.com/file/d/1uOu5auhDGY9gVZM1xHAfY5Vgtlt0eWFy/view)|
