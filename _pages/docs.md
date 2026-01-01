@@ -17,7 +17,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |---|---|---|---|
 |2025-12-22|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Letter in Opposition from Councilmember Robert White](https://drive.google.com/file/d/1pKXBT6W0xKXBvXb6JbvYGO38UjErulEQ/view)|
 |2025-12-14|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Applicant’s Second Post-Hearing Statement](https://drive.google.com/file/d/1DX1CSHBaobEKMZB-EhxN-DruUwq-dPiH/view)|
-|2025-10-25|BZA case response|[ANC 5C report in support of BZA 21369](https://drive.google.com/file/d/1MTetMhjNhkfKRxmL4pXX9u_atHnfpGED/view)|
+|2025-10-25|BZA case response|solo issuer|[ANC 5C report in support of BZA 21369](https://drive.google.com/file/d/1MTetMhjNhkfKRxmL4pXX9u_atHnfpGED/view)|
 |2025-10-20|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Testimony in Opposition](https://drive.google.com/file/d/1pn7vL6Mx_VvIoudEhbKMMQyIXajR_y8E/view)|
 |2025-10-19|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Letter in Opposition](https://drive.google.com/file/d/1kfSMaS7WtlmW67a-5LVunAZhxGZ8_kwn/view)|
 |2025-10-14|ZC case filing|drafter|[ZC 24-11: (Montana Triangle PUD) Supplemental Filing Responding to OP and DDOT Reports](https://drive.google.com/file/d/1qgCXgVQL4hLRuCmSzXqVv-V-FB3IANB4/view)|
@@ -42,6 +42,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2024-12-20|resolution emphasis letter/DDOT NOI response|primary drafter|[Letter in Support of NOI-24-286-TESD, Safety Improvement on Brentwood Road between W St and Saratoga Ave NE](https://drive.google.com/file/d/1AROhTTaXNwOzqTphLozAkoL7gwoMushU/view)|
 |2024-10-16|ANC 5C resolution (passed 5-1)|sponsor, preparer|[Resolution Supporting a Bottle Deposit Bill](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EfVXaTQc955Iieqklpa809IBMdyiC9sEJGspiaXGfTJeVg?e=cmohQs)|
 |2024-10-16|PSC case response|primary drafter|[Re: Public Space Application 11098285; sidewalk cafe for Provost, 2129 Rhode Island Ave NE](https://drive.google.com/file/d/1-_K7LKmnMPu3713tOloxdz5-UPZolcjZ/view)|
+|2024-09-18|ABCA Settlement Agreement|primary drafter|[Chillville Wellness Settlement Agreement](https://drive.google.com/file/d/1XaTr8gf5XPQBbyy-9huoh5TUSXDmlMTW/view?usp=sharing)|
 |2024-09-04|DDOT NOI response|solo issuer|[(Re: DDOT Notice of Intent NOI-24-206-TESD, Intersection safety improvements at the intersection of 15th Street NE and Rhode Island Avenue NE)](https://drive.google.com/file/d/1mCMcFCsbRxNEYAveaU-MNi1WErI8vF_s/view)|
 |2024-08-28|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-24-183-TESD, Reduction of speed limit on Rhode Island Avenue NE, between 3rd Street NE and Eastern Avenue](https://drive.google.com/file/d/1gQ32MqTm_pZYb2zgtEfEQn6iEX5scHQp/view)|
 |2024-08-20|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 115180](https://drive.google.com/file/d/1tHw68mn08Ix5nuvk_k-J141uQJ_BjY8c/view)|
