@@ -15,6 +15,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
+|2026-01-12|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-25-301-TPA; RDPP at 1809 Hamlin St NE](https://drive.google.com/file/d/12tguPTAYahKftvPpSo9mIYlzlGGlFOeT/view)|
 |2025-12-22|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Letter in Opposition from Councilmember Robert White](https://drive.google.com/file/d/1pKXBT6W0xKXBvXb6JbvYGO38UjErulEQ/view)|
 |2025-12-14|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Applicant’s Second Post-Hearing Statement](https://drive.google.com/file/d/1DX1CSHBaobEKMZB-EhxN-DruUwq-dPiH/view)|
 |2025-10-25|BZA case response|solo issuer|[ANC 5C report in support of BZA 21369](https://drive.google.com/file/d/1MTetMhjNhkfKRxmL4pXX9u_atHnfpGED/view)|
