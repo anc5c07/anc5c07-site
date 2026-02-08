@@ -15,6 +15,8 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
+|in draft|ANC 5C resolution|sponsor, primary drafter|[Resolution on Strategic Bikeways Planning, Arterial Constraints, and Neighborhood-Scale Connectivity](https://docs.google.com/document/d/1VlGcqS86Ki7uZ8QSuOmfM-1vDeOjWlWdGSBjmRL0-ZE/view)|
+|2026-01-15|ANC 5C resolution|sponsor, primary drafter|[Resolution Regarding the Langdon Park Community Center Modernization Process](https://drive.google.com/file/d/1yYqAd2SZt3SxhoEIwkADQ6du7JpH2oyX/view)|
 |2026-01-12|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-25-301-TPA; RDPP at 1809 Hamlin St NE](https://drive.google.com/file/d/12tguPTAYahKftvPpSo9mIYlzlGGlFOeT/view)|
 |2025-12-22|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Letter in Opposition from Councilmember Robert White](https://drive.google.com/file/d/1pKXBT6W0xKXBvXb6JbvYGO38UjErulEQ/view)|
 |2025-12-14|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Applicant’s Second Post-Hearing Statement](https://drive.google.com/file/d/1DX1CSHBaobEKMZB-EhxN-DruUwq-dPiH/view)|
