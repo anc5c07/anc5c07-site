@@ -18,13 +18,13 @@ This is a collection of written works I've issued or contributed to. I often tak
 |in draft|ANC 5C resolution|sponsor, primary drafter|[Resolution on Strategic Bikeways Planning, Arterial Constraints, and Neighborhood-Scale Connectivity](https://docs.google.com/document/d/1VlGcqS86Ki7uZ8QSuOmfM-1vDeOjWlWdGSBjmRL0-ZE/view)|
 |2026-01-15|ANC 5C resolution|sponsor, primary drafter|[Resolution Regarding the Langdon Park Community Center Modernization Process](https://drive.google.com/file/d/1yYqAd2SZt3SxhoEIwkADQ6du7JpH2oyX/view)|
 |2026-01-12|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-25-301-TPA; RDPP at 1809 Hamlin St NE](https://drive.google.com/file/d/12tguPTAYahKftvPpSo9mIYlzlGGlFOeT/view)|
-|2025-12-22|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Letter in Opposition from Councilmember Robert White](https://drive.google.com/file/d/1pKXBT6W0xKXBvXb6JbvYGO38UjErulEQ/view)|
-|2025-12-14|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Applicant’s Second Post-Hearing Statement](https://drive.google.com/file/d/1DX1CSHBaobEKMZB-EhxN-DruUwq-dPiH/view)|
+|2025-12-22|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Letter in Opposition from Councilmember Robert White](https://drive.google.com/file/d/1sgwiGDHBo-C95YXNqFKzFyJw05M-J2GJ/view)|
+|2025-12-14|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Applicant’s Second Post-Hearing Statement](https://drive.google.com/file/d/1pKXBT6W0xKXBvXb6JbvYGO38UjErulEQ/view)|
 |2025-10-25|BZA case response|solo issuer|[ANC 5C report in support of BZA 21369](https://drive.google.com/file/d/1MTetMhjNhkfKRxmL4pXX9u_atHnfpGED/view)|
-|2025-10-20|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Testimony in Opposition](https://drive.google.com/file/d/1pn7vL6Mx_VvIoudEhbKMMQyIXajR_y8E/view)|
-|2025-10-19|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Letter in Opposition](https://drive.google.com/file/d/1kfSMaS7WtlmW67a-5LVunAZhxGZ8_kwn/view)|
-|2025-10-14|ZC case filing|drafter|[ZC 24-11: (Montana Triangle PUD) Supplemental Filing Responding to OP and DDOT Reports](https://drive.google.com/file/d/1qgCXgVQL4hLRuCmSzXqVv-V-FB3IANB4/view)|
-|2025-09-11|ZC case response|primary drafter|[ZC 24-11 (Montana Triangle PUD): ANC 5C Report in Opposition](https://drive.google.com/file/d/1sgwiGDHBo-C95YXNqFKzFyJw05M-J2GJ/view)|
+|2025-10-20|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Testimony in Opposition](https://drive.google.com/file/d/1DX1CSHBaobEKMZB-EhxN-DruUwq-dPiH/view)|
+|2025-10-19|ZC case filing|solo issuer|[ZC 24-11 (Montana Triangle PUD): 5C07 Letter in Opposition](https://drive.google.com/file/d/1pn7vL6Mx_VvIoudEhbKMMQyIXajR_y8E/view)|
+|2025-10-14|ZC case filing|drafter|[ZC 24-11: (Montana Triangle PUD) Supplemental Filing Responding to OP and DDOT Reports](https://drive.google.com/file/d/1kfSMaS7WtlmW67a-5LVunAZhxGZ8_kwn/view)|
+|2025-09-11|ZC case response|primary drafter|[ZC 24-11 (Montana Triangle PUD): ANC 5C Report in Opposition](https://drive.google.com/file/d/1qgCXgVQL4hLRuCmSzXqVv-V-FB3IANB4/view)|
 |2025-09-11|ANC 5C resolution|sponsor, primary drafter|[Resolution Calling for a Mixed Industrial Zone](https://drive.google.com/file/d/1xofAzRFdMkU3lf8vClAC76fkTZkdWca0/view)|
 |2025-08-19|ANC 5C support letter|primary drafter|[Letter of Support for Proposed Closed Roadway Mural at Langdon Park Community Center](https://drive.google.com/file/d/1H741o1cP5kWstFxvozYzj48LocJMpbGQ/view)|
 |2025-08-01|ANC 5C emphasis letter|primary drafter, signer|[Re: Rhode Island Ave NE 24-hour parking and/or bus lanes](https://drive.google.com/file/d/16m1lgfSRC0SWXopbApPya5GozOHu7mM1/view)|
