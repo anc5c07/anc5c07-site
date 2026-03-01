@@ -15,8 +15,9 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
-|in draft|ANC 5C resolution|sponsor, primary drafter|[Resolution on Strategic Bikeways Planning, Arterial Constraints, and Neighborhood-Scale Connectivity](https://docs.google.com/document/d/1VlGcqS86Ki7uZ8QSuOmfM-1vDeOjWlWdGSBjmRL0-ZE/view)|
-|2026-02-10|ANC 5C letter|sponsor, primary drafter|[Re: notice pursuant to DC Code § 1-309.10 for the acquisition of 2715-2725 22nd St NE](https://drive.google.com/file/d/1f1W68oNblRwehGAuFJLXwRVQY4rE2vVA/view)|
+|2026-02-27|ANC 5C letter|solo issuer|[Re: DPR’s response to ANC 5C Resolution Regarding the Langdon Park Community Center Modernization Process](https://drive.google.com/file/d/1564E_8mI9zCTTEG8ckiC3vS3izG2mBka/view)|
+|2026-02-12|ANC 5C resolution|sponsor, primary drafter|[Resolution on Strategic Bikeways Planning, Arterial Constraints, and Neighborhood-Scale Connectivity](https://drive.google.com/file/d/1rICVoZWE3LcVaWdyD2Hzj50C1n2VEte7/view)|
+|2026-02-10|ANC 5C letter|solo issuer|[Re: notice pursuant to DC Code § 1-309.10 for the acquisition of 2715-2725 22nd St NE](https://drive.google.com/file/d/1f1W68oNblRwehGAuFJLXwRVQY4rE2vVA/view)|
 |2026-01-15|ANC 5C resolution|sponsor, primary drafter|[Resolution Regarding the Langdon Park Community Center Modernization Process](https://drive.google.com/file/d/1yYqAd2SZt3SxhoEIwkADQ6du7JpH2oyX/view)|
 |2026-01-12|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-25-301-TPA; RDPP at 1809 Hamlin St NE](https://drive.google.com/file/d/12tguPTAYahKftvPpSo9mIYlzlGGlFOeT/view)|
 |2025-12-22|ZC case filing|signer/drafter|[ZC 24-11 (Montana Triangle PUD): Response to Letter in Opposition from Councilmember Robert White](https://drive.google.com/file/d/1sgwiGDHBo-C95YXNqFKzFyJw05M-J2GJ/view)|
