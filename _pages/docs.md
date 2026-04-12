@@ -15,6 +15,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
+|2026-04-09|ANC 5C resolution|drafter|[Resolution on Advancing Equitable Metrorail Access through a New Ward 5 Rail Segment](https://drive.google.com/file/d/1l1Hezc1vHWEQsy2K1JABmgTSlzxR9Dvh/view)|
 |2026-03-09|ANC 5C letter|solo issuer|[NOI 26-31-PSD: Langdon Elementary School Safety Improvements](https://drive.google.com/file/d/1Ph6ijGGWiKkcfHRGKj3ct0uzebYsg7sD/view)|
 |2026-02-27|ANC 5C letter|solo issuer|[Re: DPR’s response to ANC 5C Resolution Regarding the Langdon Park Community Center Modernization Process](https://drive.google.com/file/d/1564E_8mI9zCTTEG8ckiC3vS3izG2mBka/view)|
 |2026-02-12|ANC 5C resolution|sponsor, primary drafter|[Resolution on Strategic Bikeways Planning, Arterial Constraints, and Neighborhood-Scale Connectivity](https://drive.google.com/file/d/1rICVoZWE3LcVaWdyD2Hzj50C1n2VEte7/view)|
@@ -59,7 +60,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2024-06-18|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-24-115-TESD, Conversion of 17th Street NE at Franklin Street NE to right-in-right-out operations by installation of a center diverter](https://drive.google.com/file/d/1bBlhVYecqbi-5LdVyhxb19vqXSLEC4Lm/view)
 |2024-05-23|resolution emphasis letter/DDOT NOI Response|solo issuer|[Letter in Support of NOI-24-85-TESD, Installation of a HAWK signal on Rhode Island Ave NE at Thayer St NE](https://drive.google.com/file/d/1Wku3NK59umJ27UvqR99sOnnVwIT_Ic5z/view)|
 |2024-05-03|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 107389](https://drive.google.com/file/d/1FTWZQp_66uww8ap9dqA-O5s4CV1vNJVJ/view)|
-|2024-04-17 (passed 5-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Mitigating Development Concerns Surrounding Rhode Island Ave NE and 20th St NE](https://www.anc-5c.com/wp-content/uploads/2024/05/ANC-5C-Resolution-on-Mitigating-Development-Concerns-Surrounding-Rhode-Island-Ave-NE-and-20th-St-NE.pdf)|
+|2024-04-17 (passed 5-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Mitigating Development Concerns Surrounding Rhode Island Ave NE and 20th St NE](https://drive.google.com/file/d/1kjWeZEet4MHlWmctt_aaKUgp9oJpu9eA/view)|
 |2024-04-17|BZA case response by ANC|sponsor, primary drafter|[BZA 21067, 2001 Rhode Island Ave NE, form 129](https://drive.google.com/file/d/1Zohwj66O_cs538jrP4oN9e0N8dGyiofE/view)|
 |2024-04-02|written Council testimony|solo issuer|[Testimony before T&E Committee on Environmental Justice, other bills](https://docs.google.com/document/d/1DEYEi1WHy5rqag89Q0pOGR2ezQp88Fqts7wnFA637Eo/view)|
 |2024-03-30|DDOT project response|primary drafter, signer|[Re: Taylor Street Corridor Protected Bike Lanes](https://drive.google.com/file/d/1oTTdM2uV5lzmt-32VujMIJ5QNd1wCPGy/view)|
