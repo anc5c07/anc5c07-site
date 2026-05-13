@@ -19,7 +19,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2026-05-12|ANC 5C letter|solo issuer|[Letter of support re: Councilmember Zachary Parker’s FY27 budget provisions for the Langdon Park Community Center modernization project](https://drive.google.com/file/d/1Ec91UHWNvcjsIuW6Yk37-39rWThLsnW2/view)|
 |2026-05-07|resident notice|solo issuer|[Re: Proposed Intermediate Care Facility for Individuals with Intellectual Disabilities at 3015 24th St NE](https://drive.google.com/file/d/14hZwNEL4HB1W2YNXHdtgjnvVnDDZIqfN/view)|
 |2026-04-25|written Council testimony|solo issuer|[ANC 5C Testimony, FY27 Budget Oversight Hearing on DPR and DGS](https://drive.google.com/file/d/1s_UsJjZn_QAta6ZXqkkzVscM6JKlZsDy/view)|
-|2026-04-20|ANC 5C resolution|drafter, signer|[Joint SMD letter re: Rhode Island Avenue and the March 2026 draft Future Land Use Map](https://drive.google.com/file/d/1j2A-WvjM0IZtPOeqWNlTz5ujXo6v4XmZ/view)|
+|2026-04-20|project response|drafter, signer|[Joint SMD letter re: Rhode Island Avenue and the March 2026 draft Future Land Use Map](https://drive.google.com/file/d/1j2A-WvjM0IZtPOeqWNlTz5ujXo6v4XmZ/view)|
 |2026-04-09|ANC 5C resolution|drafter|[Resolution on Advancing Equitable Metrorail Access through a New Ward 5 Rail Segment](https://drive.google.com/file/d/1l1Hezc1vHWEQsy2K1JABmgTSlzxR9Dvh/view)|
 |2026-03-09|ANC 5C letter|solo issuer|[NOI 26-31-PSD: Langdon Elementary School Safety Improvements](https://drive.google.com/file/d/1Ph6ijGGWiKkcfHRGKj3ct0uzebYsg7sD/view)|
 |2026-02-27|ANC 5C letter|solo issuer|[Re: DPR’s response to ANC 5C Resolution Regarding the Langdon Park Community Center Modernization Process](https://drive.google.com/file/d/1564E_8mI9zCTTEG8ckiC3vS3izG2mBka/view)|
