@@ -15,7 +15,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
-|2026-05-14|project response|solo issuer|[5C+5D letter re Industrial Areas and the March 2026 draft Future Land Use Map](https://drive.google.com/file/d/1o09kraYijIKUnwTwtZQWDaOc3XpWGd3U/view)|
+|2026-05-14|project response|drafter, signer|[5C+5D letter re Industrial Areas and the March 2026 draft Future Land Use Map](https://drive.google.com/file/d/1o09kraYijIKUnwTwtZQWDaOc3XpWGd3U/view)|
 |2026-05-13|DDOT NOI response|solo issuer|[ANC 5C response to NOI 26-97-TPA: Woodridge Library/Hamlin St NE ADA parking](https://drive.google.com/file/d/195_igofnKUSwXNsoZQnjy3bqw7hABrlN/view)|
 |2026-05-12|ANC 5C letter|solo issuer|[Letter of support re: Councilmember Zachary Parker’s FY27 budget provisions for the Langdon Park Community Center modernization project](https://drive.google.com/file/d/1Ec91UHWNvcjsIuW6Yk37-39rWThLsnW2/view)|
 |2026-05-07|resident notice|solo issuer|[Re: Proposed Intermediate Care Facility for Individuals with Intellectual Disabilities at 3015 24th St NE](https://drive.google.com/file/d/14hZwNEL4HB1W2YNXHdtgjnvVnDDZIqfN/view)|
