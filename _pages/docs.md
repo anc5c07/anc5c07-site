@@ -66,6 +66,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2024-08-12|outreach letter|signer|[Joint SMD Commissioner letter to Michigan Park Christian Church](https://drive.google.com/file/d/1f5NpsLsr-Lv3-K5AuRtogICLSZRD0x9n/view)|
 |2024-08-06|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 112203](https://drive.google.com/file/d/1_DE-Q8qZAKO9MO7yUtUTy4EGpXNjSJLj/view)|
 |2024-07-15|WMATA project response|solo issuer|[Re: WMATA's 2025 Bus Network](https://drive.google.com/file/d/1zmNfLQJ14DXLvFlFVj6nOODJ2N2HLAoq/view)|
+|2024-06-26|ANC 5C resolution|drafter|[Resolution on Protecting and Sustainably Activating the Queens Chapel Forest Patch](https://drive.google.com/file/d/1OLjN5zQtPSph2epNQlAKovl7DULuJ_EM/view)|
 |2024-06-18|DDOT NOI response|solo issuer|[Re: DDOT Notice of Intent NOI-24-115-TESD, Conversion of 17th Street NE at Franklin Street NE to right-in-right-out operations by installation of a center diverter](https://drive.google.com/file/d/1bBlhVYecqbi-5LdVyhxb19vqXSLEC4Lm/view)
 |2024-05-23|resolution emphasis letter/DDOT NOI Response|solo issuer|[Letter in Support of NOI-24-85-TESD, Installation of a HAWK signal on Rhode Island Ave NE at Thayer St NE](https://drive.google.com/file/d/1Wku3NK59umJ27UvqR99sOnnVwIT_Ic5z/view)|
 |2024-05-03|DPR amplified sound|solo issuer|[Approval for DPR Amplified Sound Permit, Reservation 107389](https://drive.google.com/file/d/1FTWZQp_66uww8ap9dqA-O5s4CV1vNJVJ/view)|
