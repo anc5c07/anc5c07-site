@@ -15,7 +15,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
-|2026-07-11|ANC 5C resolution|drafter, co-sponsor|[Resolution Regarding DDOT Projects near Model Cities Senior Wellness Center and Langdon Elementary School](https://drive.google.com/file/d/1rxIP6NxPCK7ez25c352isRNPwBBdrodZ/)|
+|2026-06-11|ANC 5C resolution|drafter, co-sponsor|[Resolution Regarding DDOT Projects near Model Cities Senior Wellness Center and Langdon Elementary School](https://drive.google.com/file/d/1j889ZPVg59bt7sHCgk833a6BPTEULdNe/)|
 |2026-05-22|grant support|solo issuer|[DC Squared FY27 East Arts grant application for Northeast Summer Nights](https://drive.google.com/file/d/1UyXwB4XRncQvgkxNT38EwRu9jOo2T08I/view)|
 |2026-05-22|grant support|solo issuer|[DC Squared DCAH PEF grant application for Porchfest](https://drive.google.com/file/d/1G8Uc85i0Lq7WQCU1J_3xzuU13BVR7AHQ/view)|
 |2026-05-18|DDOT NOI response|drafter, signer|[ANC 5B+5C letter re NOI 26-100-MSED; Installation of a new HAWK signal at 17th and Rhode Island Ave NE](https://drive.google.com/file/d/1BHWThc7C-E70GkTxY7a1sgx4A5pMBRiM/view)|
