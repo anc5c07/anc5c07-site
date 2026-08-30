@@ -15,6 +15,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 
 |date|type|role|title|
 |---|---|---|---|
+|2026-07-14|DDOT project response|solo issuer|[Supporting Proposed Safety Improvements on South Dakota Ave NE and Hamlin St NE](https://drive.google.com/file/d/1l_nJ59-40QNj-qXTxHb52O4_OOxtjsKt)|
 |2026-06-11|ANC 5C resolution|drafter, co-sponsor|[Resolution Regarding DDOT Projects near Model Cities Senior Wellness Center and Langdon Elementary School](https://drive.google.com/file/d/1j889ZPVg59bt7sHCgk833a6BPTEULdNe/)|
 |2026-05-22|grant support|solo issuer|[DC Squared FY27 East Arts grant application for Northeast Summer Nights](https://drive.google.com/file/d/1UyXwB4XRncQvgkxNT38EwRu9jOo2T08I/view)|
 |2026-05-22|grant support|solo issuer|[DC Squared DCAH PEF grant application for Porchfest](https://drive.google.com/file/d/1G8Uc85i0Lq7WQCU1J_3xzuU13BVR7AHQ/view)|
