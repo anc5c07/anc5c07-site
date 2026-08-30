@@ -89,7 +89,7 @@ This is a collection of written works I've issued or contributed to. I often tak
 |2024-02-09|written Council testimony|solo issuer|[Testimony before T&E Committee Oversight Hearing on DDOT performance](https://drive.google.com/file/d/1yd4Cf1S1ScvHooPgcRD2nDq0jz1SSQin/view)|
 |2024-01-31|resolution emphasis letter|solo issuer|[Re: Anacostia Riverwalk Trail Extension and National Arboretum Access Bridge](https://drive.google.com/file/d/1yXaUX0CDELyL5aOlnFJsqYiV6CdENGBB/view)|
 |2024-01-23|resolution emphasis letter|solo issuer|[ANC 5C letter re Bladensburg Road Multimodal Safety and Access Study](https://drive.google.com/file/d/1dLhLt11mcMGqRgwh25ir8ZHma3K-Ou_M/view)|
-|2024-01-17 (passed 6-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Comprehensive Public Safety](https://www.anc-5c.com/wp-content/uploads/2024/01/ANC-5C-Resolution-on-Comprehensive-Public-Safety.pdf)|
+|2024-01-17 (passed 6-0)|ANC 5C resolution|sponsor, primary drafter|[Resolution on Comprehensive Public Safety](https://drive.google.com/file/d/1aiYBdqq0GODC1C4_0x37pym7A0zzTrJQ)|
 |2024-01-12|DDOT project response|solo issuer|[Letter in Support of Arboretum Bridge and Trail final design](https://drive.google.com/file/d/1HbytTVTq-duF3LdKNMj43Az3Z2aO6lLE/view)|
 |2023-12-27|issue update|primary drafter|[Re: Warrant Analysis, Rhode Island Ave NE at Thayer St NE](https://drive.google.com/file/d/11fk2Mvcf3-Mtk0-a-wjnFmG0_NCensOZ/view)|
 |2023-11-27|BZA case response|solo issuer|[Re: Letter in Support of BZA Application 20927A: 1015 Rhode Island Ave NE](https://drive.google.com/file/d/1Fj4SuEtS58hKEbB0ownb8O2Vv-4fmBiv/view)|
